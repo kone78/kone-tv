@@ -360,279 +360,190 @@ http://cdn.mainstreaming.tv/live/100197/SOrBDPy/playlist.m3u8
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 #EXTINF:0,La Chica Invisible
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abe3ffcd659000770d88d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:0,La Karibeña
-https://cu.onliv3.com/livevd/user1.m3u8
-#EXTINF:0,La Mega COLOMBIA
-http://20823.live.streamtheworld.com/LA_MEGA_BOG_SC
-#EXTINF:0,La Mega Mundial (720p)
-http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:0,La Mega Mundial (720p)
-https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:0,La Muscle TV
-https://streamcdn.lamuscle.com/lamtv-origin/smil:monsterworkout-tricepspt1.smil/playlist.m3u8
-#EXTINF:0,La Tele
-https://latele.vedge.infomaniak.com/livecast/latele/chunklist.m3u8
-#EXTINF:0,La Tr3 (720p)
-https://59ef7ad665d1d.streamlock.net:1443/eslife/_definst_/eslife/playlist.m3u8
-#EXTINF:0,La TR3 Marsala
-https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
-#EXTINF:0,La Télé (1080p)
-https://latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8
-#EXTINF:0,La Télé (1080p)
-https://livevideo.infomaniak.com/streaming/livecast/latele/playlist.m3u8
-#EXTINF:0,La Voz 24h
-https://pull12.atresmedia.com/lavoz/master.m3u8
-#EXTINF:0,LA34 - Long An
-http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
-#EXTINF:0,LA7
-https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
-#EXTINF:0,LA7
-https://cdnlive.shooowit.net/la7live/smil:channel1.smil/playlist.m3u8
-#EXTINF:0,LaC TV (720p)
-https://StreamCdnC3.mainstreaming.tv/cdn/live/100197/SOrBDPy/playlist.m3u8
-#EXTINF:0,Laff
-https://bozztv.com/teleyupp/teleup-laff/playlist.m3u8
-#EXTINF:0,Lagos Television (180p)
-http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
-#EXTINF:0,Las Vegas - 13 Action News (720p)
-https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?ad=live
-#EXTINF:0,Latest TV (4PM TO 2AM)
-https://5a0e89631aa14.streamlock.net/LatestTV/LatestTV/playlist.m3u8
-#EXTINF:0,Latido Music
-https://a.jsrdn.com/broadcast/g8sfF32l0/playlist720p.m3u8
-#EXTINF:0,Latido Music (US)
-https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5f598c33465f860041cd2dee/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/720x404_1460800/index.m3u8
-#EXTINF:0,Latido Music HD
-https://vidaprimo-distroscale.amagi.tv/playlist720p.m3u8
-#EXTINF:0,Latin Angels
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df41355939756000921d15b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:0,LATINA FUL-HD
-http://latiniptv.vip:8008/live/Cuentas3/Cuanta31/6603.m3u8
-#EXTINF:0,Latinos 1 HD
-https://5b38ce71f1f00.streamlock.net/8196/8196/.m3u8
-#EXTINF:0,LATINOS NCTV HD 24/7
-https://live.latinosnc.tv:1443/MRR/live/chunklist_w1148701352.m3u8
-#EXTINF:0,Las Vegas - 13 Action News (720p)
-https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?ad=live
-#EXTINF:0,Latest TV (4PM TO 2AM)
-https://5a0e89631aa14.streamlock.net/LatestTV/LatestTV/playlist.m3u8
-#EXTINF:0,Latido Music
-https://a.jsrdn.com/broadcast/g8sfF32l0/playlist720p.m3u8
-#EXTINF:0,Latido Music (US)
-https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5f598c33465f860041cd2dee/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/720x404_1460800/index.m3u8
-#EXTINF:0,Latido Music HD
-https://vidaprimo-distroscale.amagi.tv/playlist720p.m3u8
-#EXTINF:0,Latin Angels
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df41355939756000921d15b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:0,LATINA FUL-HD
-http://latiniptv.vip:8008/live/Cuentas3/Cuanta31/6603.m3u8
-#EXTINF:0,Latinos 1 HD
-https://5b38ce71f1f00.streamlock.net/8196/8196/.m3u8
-#EXTINF:0,LATINOS NCTV HD 24/7
-https://live.latinosnc.tv:1443/MRR/live/chunklist_w1148701352.m3u8
-#EXTINF:0,Lazio TV (576p)
-http://151.0.207.99:1935/live/LAZIOTV12/playlist.m3u8
-#EXTINF:0,LBC (1080p)
-https://hiplayer.hibridcdn.net/p/rotana-lbc
-#EXTINF:0,LBC International (1080p)
-https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
-#EXTINF:0,LCBN TV
-https://itsy.castr.io/edge/live_5363cc905d8e11eab9a8c11483dc3ae6/playlist.m3u8
-#EXTINF:0,LCI (720p)
-https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live.m3u8
-#EXTINF:0,LCI
-https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
-#EXTINF:0,Lebrija TV
-http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-#EXTINF:0,Lebrija TV (360p)
-https://wowzaprod197-i.akamaihd.net/hls/live/783141/f46281b4/playlist.m3u8
-#EXTINF:0,Levante TV
-https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8
-#EXTINF:0,Leverage
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d9ccebb60a26500097dc5a4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0,Lex TV (720p)
-https://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/playlist.m3u8
-#EXTINF:0,LFM (CH)
-https://edge7.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1230106190_b3000000.m3u8?spark=625bf5d7-210c-49c0-96af-3663c8de1d1d&token=
-#EXTINF:0,LFM TV (1080p)
-https://edge3.vedge.infomaniak.com/livecast/ik:lfmmd/playlist.m3u8
-#EXTINF:0,LFM TV
-https://edge4.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8?spark=cf45faac-ae15-4c71-92c5-6c3527ed8e0f&token=
-#EXTINF:0,Libya 218
-https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
-#EXTINF:0,Libya 218 News
-http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
-#EXTINF:0,Libya 218 News
-https://stream.218tv.net/libya218news/tracks-v1a1/mono.m3u8
-#EXTINF:0,Libya Al Ahrar TV
-https://video.zidivo.com/live983/GrtjM_FNGC/tracks-v1a1/mono.m3u8
-#EXTINF:0,Libya Al Hadath
-https://master.starmena-cloud.com/hls/hd.m3u8
-#EXTINF:0,Lleida Televisio
-https://cdn01.yowi.tv/lleida/playlist.m3u8
-#EXTINF:0,LMN HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/568
-#EXTINF:0,LN24 (1080p)
-https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
-#EXTINF:0,LN24
-https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
-#EXTINF:0,LookSport (404p)
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
-#EXTINF:0,LookSport 2 (404p)
-https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
-#EXTINF:0,LookSport 3 (404p)
-https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
-#EXTINF:0,LookSport Plus (404p)
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
-XTINF:0,M6 (576p)
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8
-#EXTINF:0,M6
-https://mmsiptv.com/live/m6/playlist.m3u8
-#EXTINF:0,M95 Televisión Marbella
-https://limited2.todostreaming.es/live/m95-livestream.m3u8
-XTINF:0,Made In Hollywood (STIRR)
-https://dai.google.com/linear/hls/event/Mteif75-SJeFi19Sk3-dGQ/master.m3u8
-XTINF:0,MBC (1080p)
-https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
-#EXTINF:0,MBC 2 (1080p)
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
-#EXTINF:0,MBC 3 (1080p)
-https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
-#EXTINF:0,MBC 3 (1080p)
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:0,MBC 4 (1080p)
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:0,MBC 5 (1080p)
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:0,MBC Action (1080p)
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
-#EXTINF:0,MBC Bollywood (1080p)
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:0,MBC Drama (1080p)
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
-#EXTINF:0,MBC FM (1080p)
-https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
-#EXTINF:0,MBC Iraq (1080p)
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-#EXTINF:0,MBC Masr 1 (1080p)
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
-#EXTINF:0,MBC Masr 2 (1080p)
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:0,MBC Max (1080p)
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
-#EXTINF:0,MBC Persia (1080p)
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-#EXTINF:0,MBC Plus Drama (1080p)
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:0,McLeod's Daughters
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea18e5df6dd1d0007cf7bad/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0,MCM Top (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s49/index.m3u8
-XTINF:0,Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
-#EXTINF:0,Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w823630935_b2592000.m3u8
-#EXTINF:0,Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/chunklist_w2005472791_b2592000.m3u8
-#EXTINF:0,Miami TV Jenny Live
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-#EXTINF:0,Miami TV Latino
-https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
-#EXTINF:0,Miami TV México
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
-#EXTINF:0,Michigan: Bay City (STIRR)
-https://dai.google.com/linear/hls/event/kJPGlFKuS0itUoW7TfuDYQ/master.m3u8
-XTINF:0,Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
-#EXTINF:0,Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w823630935_b2592000.m3u8
-#EXTINF:0,Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/chunklist_w2005472791_b2592000.m3u8
-#EXTINF:0,Miami TV Jenny Live
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-#EXTINF:0,Miami TV Latino
-https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
-#EXTINF:0,Miami TV México
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
-#EXTINF:0,Michigan: Bay City (STIRR)
-https://dai.google.com/linear/hls/event/kJPGlFKuS0itUoW7TfuDYQ/master.m3u8
-XTINF:0,MTV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=178&deviceId=5ca672f515a62078d2ec0ad2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:0,MTV
-https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8
-#EXTINF:0,MTV (720p)
-https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:0,MTV (Latin America) (480p)
-http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:0,MTV (Latinoamérica) (480p)
-http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:0,MTV Animaciones
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:0,MTV Are you the One?
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0,MTV Biggest Pop
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:0,MTV Biggest Pop
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0,MTV Block Party
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:0,MTV Block Party
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0,MTV Catfish TV Show
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:0,MTV Classic
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:0,MTV CLASSICS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:0,MTV CLASSICS
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0,MTV Cribs
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea815a515d149000748ee9b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0,MTV Cribs
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ab9c6d8f1300007f54e30/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:0,MTV Dating
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0,MTV Dating
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5caf330ea5068259a32320fd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0,MTV Dating
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600169ec77e6f70008fa9cf0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:0,MTV Embarazada a los 16
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98537a5a4341000733aefe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:0,MTV Latino
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0,MTV Live HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737
-#EXTINF:0,MTV Love Music
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ae79fa46e17000794e84c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:0,MTV Mistle YO!
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:0,MTV Norge (720p)
-https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:0,MTV Originals
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:0,MTV Pluto TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:0,MTV Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0,MTV Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0,MTV pluto.tv
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5caf325764025859afdd6c4d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0,MTV Pranks
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:0,MTV Ridiculousness
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9847fd513250000728a9a5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0,MTV Spankin' New
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-#EXTINF:0,MTV Spankin' New
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0,MTV Teen Mom
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cffcf5686dfe15595fb3f56/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0,MTV The Hills
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d00e86bf0bac55fe7f75736/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0,MTV The Shores
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5caf32c2a5068259a32320fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0,MTV Unplugged
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0,MTVmix (http://81.30.182.82:18092/hls/live.m3u8# kone-tv
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",+23 ES COMO TU HD
+http://198.1.123.99:1935/live/_definst_/myStream/chunklist_w349948659.m3u8
+#EXTINF:0 tvg-id="123.tv.de" group-title="Channels",1-2-3.tv
+https://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",100% Auto Moto TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",11 TV
+http://51.210.199.43/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",12 TV Parma
+https://meridelive01-lh.akamaihd.net/i/tvparma_1@356964/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",13 Max Digital
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w147044278.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:0 tvg-id="24Horas.sp" group-title="Channels",24 Horas
+https://rtvelivestream.akamaized.net/24h_dvr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",25 TV
+https://originlive2.shooowit.net/25televisiolive/smil:channel1.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",28 Kanala
+https://5940924978228.streamlock.net/8157/8157/.m3u8
+#EXTINF:0 tvg-id="324.es" group-title="Channels",3/24
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",8 La Marina TV
+https://cdn01.yowi.tv/ZH5FGIEUAV/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",9 la Loma TV
+https://9laloma.tv/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",98 Live
+https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
+#EXTINF:0 tvg-id="AyE.mx" group-title="Channels",A&E HD
+http://tv.iptv5latino.cl:8000/jorge18/1234/38796
+#EXTINF:0 tvg-id="ext" group-title="Channels",A2i Music
+https://stream.sen-gt.com/A2iMusic/myStream/chunklist_w652109108.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",A2i Religion
+https://stream.sen-gt.com/A2iReligion/myStream/chunklist_w672043691.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",A2i TV
+https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AB Channel
+https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ABC TV
+http://edge9-sl.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-video=3000000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ABC TV HD
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8
+#EXTINF:0 tvg-id="tv1000-action" group-title="Channels",Action
+https://5c8eaf7647284895b269fd13a40d410c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89af95de69db1f20935d98/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Action Sports 4U
+https://nimble.dashstreams.net/onestudio/actionsportstv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADRIA Music (Not until Kodi 19!)
+https://serve-first.folxplay.tv/folx/ch-1/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Adult Swim
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Adult Swim
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AFC
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Afrobeats (AFR)
+https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Akaal TV
+http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Akilli TV
+https://stream41.radyotelekom.com.tr/stream/m3u8/a5a7e883a71429fe9e605bb5d25d6185/chunklist_w895929071.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Aksu TV
+https://waw2.artiyerelmedya.net/aksutv/bant1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Alacanti TV
+https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB Swiss
+http://62.210.188.65:8181/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALBDREAMS TV
+http://live.albavision.net:1123/live/albdreams.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Alcarria TV
+http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Alcarria TV
+http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Alegria TV
+https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
+#EXTINF:0 tvg-id="AlephNews.ro" group-title="Channels",Aleph News
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Algorhythm i love Tech House
+https://10999-1.b.cdn13.com/streams/masters-v3/djset/615.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",allg?.tv Kempen
+https://stream01.stream.welocal.world/stream/alg/ngrp:alg.stream_all/chunklist_w1838873546_b446000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",allgäu.tv
+https://stream01.stream.welocal.world/stream/alg/ngrp:alg.stream_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALPO
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AltoAdige TV
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AMC Absolute Reality
+https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AMC IFC Film Picks
+https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AMC Presents
+https://amc-amcpresents-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AMC Rush
+https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AMC Slightly off
+https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Animals Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Animax [Indonesian Sub]
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
+#EXTINF:0 tvg-id="Animax.de" group-title="Channels",Animax
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Aniplus [Indonesian Sub]
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Answers That Count
+https://nrpus.bozztv.com/36bay2/gusa-atc/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ANTARES TELEVISION HD
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="Antena3.es" group-title="Channels",ANTENA 3 HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/484
+#EXTINF:0 tvg-id="ext" group-title="Channels",Antena Cook and PLay
+http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Antena Seis TV CANAL 32
+http://inliveserver.com:1935/14510/14510/chunklist_w255137212.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Antena Seis TV CANAL 32 HD
+http://inliveserver.com:1935/14510/14510/chunklist_w1591822251.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ANTENA TV
+http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Antenna Tre Veneto
+https://59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Antenne Vorarlberg (Webradio)
+http://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ANTV
+http://brhn.xyz/stream/sc/antv.php
+#EXTINF:0 tvg-id="ext" group-title="Channels",Apollon
+http://185.80.224.14:99/Apollon-WEB/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Aras TV
+https://59cba4d34b678.streamlock.net/canlitv/arastv/playlist.m3u8?hash=16134c485fc2474395189d9a03953513
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARD Event 1
+http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
+#EXTINF:0 tvg-id="ARD-alpha.de" group-title="Channels",ARD-alpha
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_3660_av-p.m3u8
+#EXTINF:0 tvg-id="ARD-alpha.de" group-title="Channels",ARD-alpha
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ariana Afghan
+http://iptv.arianaafgtv.com/ariana/playlist.m3u8
+#EXTINF:0 tvg-id="ARISENews.uk" group-title="Channels",Arise News
+http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ART Media
+http://artiptv.xyz:8080/hls/artmedia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arte Network
+https://w1.mediastreaming.it/tuttositiweb/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ARYDigital.uk" group-title="Channels",ARY Digital
+https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ARYNews.uk" group-title="Channels",ARY News
+https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",As a Child
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ASTV
+https://waw2.artiyerelmedya.net/astv/bant1/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ATD USA
+http://46.99.146.236/0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ATN Europe
+https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ATR Kırım Tatar
+http://stream.atr.ua/atr//live/index.m3u8
+#EXTINF:0 tvg-id="ATV.am" group-title="Channels",ATV
+http://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ATV Alanya
+http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ATV.tr" group-title="Channels",ATV Avrupa
+http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
+#EXTINF:0 tvg-id="ATV.am" group-title="Channels",ATV HD
+http://tecnotv.club/hhu/smtv3.php?c=178
+#EXTINF:0 tvg-id="ext" group-title="Channels",Aurora Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ausbiz TV
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:0 tvg-id="AutoMotoTV.it" group-title="Channels",Automoto
+https://stitcheraws.unreel.me/wse-node04.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Av TV
+http://195.142.1.213:1935/avtv/avtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AV:Netflix Classic
+http://iptv.ndasat.com:88/boxpremium/FIYIneLuVC/2103
+#EXTINF:0 tvg-id="ext" group-title="Channels",AVT KHYBER
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Channels",Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AWE
+http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXN [Indonesia]
+http://210.210.155.35/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXN [Vietnam]
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="AXN.bg" group-title="Channels",AXN
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
