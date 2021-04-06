@@ -217,7 +217,7 @@ https://mmsiptv.com/live/bein7.stream/playlist.m3u8
 https://mmsiptv.com/live/bein8.stream/playlist.m3u8
 #EXTM3U
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="QATAR",BEIN SPORTS9 AR
-https://mmsiptv.com/live/bein9.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/bein9.stream/playlist.m3u8
 #EXTINF:0,#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-10-qa.png" group-title="QATAR",BEIN SPORTS10 AR
 https://mmsiptv.com/live/bein10.stream/playlist.m3u8
