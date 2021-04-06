@@ -4,7 +4,7 @@ https://mmsiptv.com/live/ortm/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/aa/africable_tv.png", AFRICABLE
 https://mmsiptv.com/live/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png", TM1 TV
-https://stream-11.ix7.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zb7vTCHMBkaiO0iIT2bvFbY)/dm/3/x7v072x/d/live-3.m3u8
+https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33eQvEul8MubK7KfxkMFIB7z_3YMzzZ-n1WMsSw5NmlpzL2wwlqvX1sjfxA3FDEcI6ow
 #EXTINF:0 type="stream" channelId="-1" group="GUINEA EQUATORIAL" logo="https://www.lyngsat-stream.com/logo/tv/tt/tvge_gq_internacional.png", TVGE
 https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://tvgelive.gq/images/icons/menu-divider.png" group-title="NIGER",TELESAHEL
