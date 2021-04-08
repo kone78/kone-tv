@@ -4,7 +4,7 @@ https://mmsiptv.com/live/ortm/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/aa/africable_tv.png", AFRICABLE
 https://mmsiptv.com/live/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png", TM1 TV
-https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33eYgeVSc7yCkz3kSz9w1oG3QJuttlAbNtopMe6cgOVNpWU1ZwSeVtllqf6h48PFtRHQsjfxA3FDEcI6ow
+https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33eZwSynBIKG_un4jtT-f2sTJzAoeYLtx_9nEZ5AfptHmtmYa9Gvhdj7RxjsJsYvM3fQ
 #EXTINF:0 type="stream" channelId="-1" group="GUINEA EQUATORIAL" logo="https://www.lyngsat-stream.com/logo/tv/tt/tvge_gq_internacional.png", TVGE
 https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://tvgelive.gq/images/icons/menu-divider.png" group-title="NIGER",TELESAHEL
@@ -13,15 +13,15 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tele_sahel/hls_video/hdn
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="GUINEA ECUATORIAL",TVGE
 #EXTINF:0,http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 #EXTM3U
+#EXTINF:0,#EXTINF:-1 tvg-logo=" "group-title="ANGOLA",TV ZIMBO 
+https://player-api.new.livestream.com/accounts/29819666/events/9254936/broadcasts/219661154.secure.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/qq/qtv_gm.png" group-title="GAMBIA",QTV
 https://player.qtv.gm/hls/live.stream.m3u8
 #EXTINF:0,#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-zimbo-ao.png" group-title="ANGOLA",TV ZIMBO
 #EXTINF:-1 tvg-logo="https://fasotv.net/wp-content/plugins/sp-header-image-slider/images/controls.png" group-title="BURKINA FASO",FASO TV
 #EXTINF:0,https://playtv4kpro.com:5443/LiveApp/streams/163893638025530331068059.m3u8
 #EXTINF:0 type="stream" channelId="3444" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/tt/trace_fr_africa.png", TRACE AFRICA
 https://mmsiptv.com/live/trace/playlist.m3u8
-#EXTINF:0
 #EXTINF:0 type="stream" channelId="2001" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/aa/action_fr.png", ACTION
 https://mmsiptv.com/live/action/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2156" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/rr/rtl9.png", RTL9
