@@ -61,7 +61,7 @@ https://www.lyngsat-logo.com/logo/tv/rr/rti_tv1_ci.png", RTI1
 #EXTINF:0 type="stream" channelId="-1", 
 https://www.lyngsat-logo.com/logo/tv/rr/rti_tv2_ci.png", RTI 2
 #EXTINF:0 type="stream" channelId="-1", 
-https://www.lyngsat.com/logo/tv/nn/notre-tv.png", NTV AFRIQUE
+https://www.lyngsat.com/logo/tv/nn/notre-tv.png"NTV AFRIQUE
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://upload.wikimedia.org/wikipedia/fr/8/83/A%2B_tele_2014_logo.png", A+
 https://mmsiptv.com/live/aplus/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/nn/nollywood_tv_fr.png", NOLLYWOOD
@@ -138,25 +138,7 @@ https://mmsiptv.com/live/aplus/playlist.m3u8
 #EXTM3U
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nollywood_tv_fr.png" group-title="FRANCE",NOLLYWOOD FR
 https://mmsiptv.com/live/nollywoodfr/playlist.m3u8
-#EXTINF:0,#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rts_sn_tv_1.png" group-title="SENEGAL",RTS1
-#EXTINF:0,https://mmsiptv.com/live/rts1/playlist.m3u8
-#EXTM3U
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rts-2-sn.png" group-title="SENEGAL",RTS2
-https://mmsiptv.com/live/rts2/playlist.m3u8
-#EXTINF:0,#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/2s_tv.png" group-title="SENEGAL",2STV
-https://mmsiptv.com/live/2stv/playlist.m3u8
-#EXTM3U
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sen-tv-sn.png" group-title="SENEGAL",SEN TV
-https://mmsiptv.com/live/sentv/playlist.m3u8
-#EXTINF:0,#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wal_fadjri_tv_sn.png" group-title="SENEGAL",WALF TV
-https://mmsiptv.com/live/walftv/playlist.m3u8
-#EXTM3U
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tfm_sn.png" group-title="SENEGAL",TFM
-https://mmsiptv.com/live/tfm/playlist.m3u8
-#EXTINF:0,#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Logo_T%C3%A9l%C3%A9_Tchad.png/172px-Logo_T%C3%A9l%C3%A9_Tchad.png" group-title="TCHAD",TELE TCHAD
 https://strhls.streamakaci.tv/str_tchad_tchad/str_tchad_multi/str_tchad_tchad/str_tchad_tchad_480p/playlist.m3u8
 #EXTM3U
@@ -166,10 +148,7 @@ https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CuUEiM7v7_VL1SGMkdwjaks96hf
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal2_international_cm.png" group-title="CAMEROUN",C2
 https://mmsiptv.com/live/c2inter/playlist.m3u8
 #EXTM3U
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="CAMEROUN",CRTV
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
-#EXTINF:0,#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_sud_fr.png" group-title="FRANCE",TELESUD 
+EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_sud_fr.png" group-title="FRANCE",TELESUD 
 https://stream-12.dc3.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl741FyMsqnekCE501ZnVWeo)/dm/3/x7wrxqb/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="GHANA",ADOM
 https://mmsiptv.com/live/adom/playlist.m3u8
@@ -224,7 +203,7 @@ https://mmsiptv.com/live/bein10.stream/playlist.m3u8
 #EXTM3U
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.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", QTV
 https://player.qtv.gm/hls/live.stream.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-5-monde-afrique-fr.png", TV5 MOND AFRIQUE
+#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-5-monde-afrique-fr.png", TV5 MONDE AFRIQUE
 https://mmsiptv.com/live/tv5/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TCHAD" logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Logo_T%C3%A9l%C3%A9_Tchad.png/172px-Logo_T%C3%A9l%C3%A9_Tchad.png", TELE TCHAD
 https://strhls.streamakaci.tv/str_tchad_tchad/str_tchad_multi/str_tchad_tchad/str_tchad_tchad_480p/playlist.m3u8
@@ -259,68 +238,25 @@ https://mmsiptv.com/live/nollywoodfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rts_sn_tv_1.png" group-title="SENEGAL",RTS1
 #EXTINF:0,https://mmsiptv.com/live/rts1/playlist.m3u8
 #EXTM3U
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rts-2-sn.png" group-title="SENEGAL",RTS2
-https://mmsiptv.com/live/rts2/playlist.m3u8
-#EXTINF:0,#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/2s_tv.png" group-title="SENEGAL",2STV
-https://mmsiptv.com/live/2stv/playlist.m3u8
-#EXTM3U
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sen-tv-sn.png" group-title="SENEGAL",SEN TV
-https://mmsiptv.com/live/sentv/playlist.m3u8
-#EXTINF:0,#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wal_fadjri_tv_sn.png" group-title="SENEGAL",WALF TV
-https://mmsiptv.com/live/walftv/playlist.m3u8
-#EXTM3U
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tfm_sn.png" group-title="SENEGAL",TFM
-https://mmsiptv.com/live/tfm/playlist.m3u8
-#EXTINF:0,#EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Logo_T%C3%A9l%C3%A9_Tchad.png/172px-Logo_T%C3%A9l%C3%A9_Tchad.png" group-title="TCHAD",TELE TCHAD
-https://strhls.streamakaci.tv/str_tchad_tchad/str_tchad_multi/str_tchad_tchad/str_tchad_tchad_480p/playlist.m3u8
-#EXTM3U
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D1175797012507302&imgrefurl=https%3A%2F%2Fwww.facebook.com%2F187778414642505%2Fphotos%2F1175797012507302%2F&tbnid=Lzn9qwVkDeLbFM&vet=12ahUKEwiqmrPY9bzvAhUGNBoKHUqSBA8QMygDegQIARA0..i&docid=0MvhyOUKpylyIM&w=512&h=512&q=logo%20itv%20nigeria&ved=2ahUKEwiqmrPY9bzvAhUGNBoKHUqSBA8QMygDegQIARA0" group-title="NIGERIA",ITV
-https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CuUEiM7v7_VL1SGMkdwjaks96hf3ZXK-56XAc4V9a4YAs7i33GMjWSvp7MhnjSDyze0MOPKkswtMQQSYvvpFqKELAyGZ-0-8II_B0TSM_ebE8eWwehi_CNfjuDos18vObExqHFqWd82Fjix3bW8tEjHQHWcWEEELPFKzyDluoXi0_ohc_QgJYh77qjWt289tuip92BTLbL4bY8h9Sx-OrzlwbQID40pE_mpl5YN1qR47pkFWdJUH7xuc1tmFsMXbG8mmRqiu0tX_7CqFAVx_8MpG38IKIzrBQ_Ircj3TjURLE9vHvt2rcc0hg7FzGGLpoRpdDjjyGRgt4VyPpv7rjyaPFMYLYPeb3CNkevQ1Ma4RCRWfA7VA_28U5qHheFovvDSeJVmvsIBke8JgCUCUvkgDEadZeSerwwK3zkHFcvOMIV9lUhkNHDBxKvxYEIMulmTYgAYkz1NY5r8oqmcMGgUgPLJ2DPBV5gk_GnRTpsMbPdbPO-0SrXOIskMrJwG8STu5gpIXXzR5oS6LWfN_gMhoftZBDBSbPuGYwpXmq24_oOZVJvIRiiQ6FCzMHxCqRoOxNrlJPudbJt6ZQ2pm9zEj_LMa_wmFD8NDo8lsn6P3HUwzr8obz1Ez6MRECTUf38h2OMNLdaUW-OdzXe1YoR6fTKX6byi3RQOVQoYMd30EbqwRmZZAVhWihkO3np4F27L9cQcPVsZNrzK4sb2IQATc6iHsJOAMb0ZxFHII7QTHJgNjLrgpeSigi7RsUaTKqRrRdd_MTjARnT55IGwwoA3BOTQXlfClE89bh6k0jN8oUp2IvF-qvhIQ6XXXi40MMviVQrk5TMNedRoMXjQTAepnuVHREcYk.m3u8
-#EXTINF:0,#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal2_international_cm.png" group-title="CAMEROUN",C2
-https://mmsiptv.com/live/c2inter/playlist.m3u8
-#EXTM3U
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="CAMEROUN",CRTV
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
-#EXTINF:0,#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_sud_fr.png" group-title="FRANCE",TELESUD 
-https://stream-12.dc3.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl741FyMsqnekCE501ZnVWeo)/dm/3/x7wrxqb/s/live-3.m3u8
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="GHANA",ADOM
-https://mmsiptv.com/live/adom/playlist.m3u8
-#EXTM3U
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png" group-title="SPAIN",LA LIGA TV
-http://stream.tvtap.live:8081/live/laligatvbar.stream/playlist.m3u8
-#EXTINF:0,#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar-laliga-es.png" group-title="SPAIN",MOVISTAR FUTBOL
-http://stream.tvtap.live:8081/live/es-movistar-futbol.stream/playlist.m3u8
-#EXTM3U
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png" group-title="SPAIN",BEIN LA LIGA 
-http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
-#EXTINF:0,#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="FRANCE",BEIN SPORTS1
-https://mmsiptv.com/live/bein1/playlist.m3u8
-#EXTM3U
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="FRANCE",BEIN SPORTS2
-https://mmsiptv.com/live/bein2/playlist.m3u8
-#EXTINF:0,#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="FRANCE",BEIN SPORTS3
-https://mmsiptv.com/live/bein3/playlist.m3u8
-#EXTM3U
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="QATAR",BEIN SPORTS1 AR
-https://mmsiptv.com/live/bein1.stream/playlist.m3u8
-#EXTINF:0,#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="QATAR",BEIN SPORTS2 AR
-https://mmsiptv.com/live/bein2.stream/playlist.m3u8
-#EXTM3U
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="QATAR",BEIN SPORTS3 AR
-https://mmsiptv.com/live/bein3.stream/playlist.m3u8
-#EXTINF:0,#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="QATAR",BEIN SPORTS4 AR
-https://mmsiptv.com/live/bein4.stream/playlist.m3u8
-#EXTM3U
+ext,BEIN SPORTS 1 UHD,http://bazarhd.online:80/307210113151/307210113151/80392
+ext,BEIN SPORTS 2 UHD,http://bazarhd.online:80/307210113151/307210113151/80391
+BeINSports.es,BEIN SPORTS HD,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
+ext,BEIN SPORTS HD ESPAÑOL,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
+ext,beIN SPORTS XTRA,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+ext,Being Human,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e78f4dd001977000787d7e3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=dd1d87dc-057f-11eb-a18c-0242ac110002&deviceId=5e78f4dd001977000787d7e3&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+ext,BEINSPORTS 1 HD,http://bazarhd.online:80/307210113151/307210113151/80393
+FOXSports2.us,FOX SPORT 2 HD,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/775
+france24,France 24,http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+France24.fr,France 24,http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+ext,France 24 (ESP),http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
+France24fr.fr,France 24 (FR),http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_2000.m3u8
+ext,France 24 Arabic (576p),https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+ext,France 24 Arabic (576p),https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+france24,France 24 English,http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+france24,France 24 English (576p),https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+france24,France 24 English (576p),https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+france24,France 24 French (576p),https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+ext,France 24 Spanish (576p),https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="QATAR",BEIN SPORTS5 AR
 https://mmsiptv.com/live/bein5.stream/playlist.m3u8
 #EXTINF:0,#EXTM3U
@@ -343,7 +279,8 @@ https://mmsiptv.com/live/bein10.stream/playlist.m3u8
 #EXTINF:0,L'Équipe (576p)
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8
 #EXTINF:0,L'Équipe
-https://mmsiptv.com/live/equipe/playlist.m3u8
+https://mmsiptv.com/live/equipe
+ext,Afrobeats (AFR),https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8
 #EXTINF:0,La 1
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0400_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0,La 1 (720p)
@@ -355,73 +292,22 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 #EXTINF:0,La 8 Burgos
 https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8
 group,Channels
-ext,(GE) 1 TV,http://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-ext,+23 ES COMO TU HD,http://198.1.123.99:1935/live/_definst_/myStream/chunklist_w349948659.m3u8
-ext,-kanal10,http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/chunklist_w1523238254.m3u8
-ext,-kkr,http://stream.kkr.dk/live/kkr/chunklist_w832247479.m3u8
-ext,-makkah,http://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8
-ext,-مكة TV,http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
-MusicChannel.ro,1 Music Channel,https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8
-ext,1 TV (Opt-2),http://amtv1.livestreamingcdn.com/am2abr/index.m3u8
-ext,1 TV (Opt-3),http://amtv1.livestreamingcdn.com/am2abr/tracks-v5a1/index.m3u8
-123.tv.de,1-2-3.tv,https://123tv-mx1.flex-cdn.net/index.m3u8
-ext,100% Auto Moto TV,http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-ext,11 TV,http://51.210.199.43/hls/stream.m3u8
-ext,12 TV Parma,https://meridelive01-lh.akamaihd.net/i/tvparma_1@356964/master.m3u8
-ext,13 MAX (Argentina),http://coninfo.net:1935/13maxhd/live_720p/.m3u8
-ext,13 Max Digital,http://coninfo.net:1935/13maxhd/live_720p/chunklist_w147044278.m3u8
-ext,13 Max HD,http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
-ext,13 Max TV,http://coninfo.net:1935/13maxhd/live/chunklist.m3u8
-ext,1HD (Music) (US) (Spanish),http://spb1.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
-ext,1Mus,http://hz1.teleport.cc/HLS/HD.m3u8
-ext,1Music Channel Hungary,http://www.1music.hu/1music.m3u8
-ext,1NTVSPOR HD,http://46.4.193.238:8484/hls/ntvspor/playlist.m3u8
-20Mediaset.it,20 Mediaset,https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LB)/index.m3u8
-24Horas.sp,24 Horas,https://rtvelivestream.akamaized.net/24h_dvr.m3u8
-24Kitchen.svn,24 Kitchen,https://cdn1.mobiletv.bg/T3/24kitchen/24kitchen_794613_850k.m3u8
-news24,24 TV,https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_sid=8997673748844384653
-ext,24 TV Culturales (Peru),http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
-ext,24h Canarias,https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
-ext,25 TV,https://originlive2.shooowit.net/25televisiolive/smil:channel1.smil/playlist.m3u8
-ext,28 Kanala,https://5940924978228.streamlock.net/8157/8157/.m3u8
-324.es,3/24,https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
-ext,33,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
-podmoskovie,360 [HD],https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-podmoskovie,360 HD,https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
-podmoskovie,360 TV SD,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-ext,360 Новости HD,https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
-ext,360° Новости HD,https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
-ext,3ABN,https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/index.m3u8
-ext,3ABN Praise Him Music Channel,https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
-ext,4 Río CUARTO,https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/chunklist_w1835207009.m3u8
-ext,43 канал HD,http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
-ext,47 Канал,http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
-ext,5AAB TV,http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8
-ext,5RTV Santa Fe,https://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8
-ext,5TV Corrientes,http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
-ext,7 Murcia,http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
-ext,7 канал,http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
-7kanal,7 Канал (Казахстан),https://sc.id-tv.kz/7_kanal_34_35.m3u8
-ext,7 канал Одесса,https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr-lq/playlist.m3u8
-ext,7 канал Одесса HD,https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr/7tvod/7tvod/chunks.m3u8
-ext,8 La Marina TV,https://cdn01.yowi.tv/ZH5FGIEUAV/master.m3u8
-ext,88 Stereo,http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
-ext,9 la Loma TV,https://9laloma.tv/live.m3u8
 ext,A2i Music,https://stream.sen-gt.com/A2iMusic/myStream/chunklist_w652109108.m3u8
 ext,A2i Naja,https://stream.sen-gt.com/A2iNaija/myStream/chunklist_w59258816.m3u8
 ext,A2i Religion,https://stream.sen-gt.com/A2iReligion/myStream/chunklist_w672043691.m3u8
 ext,A2i TV,https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
-ext,AA Live,http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/chunklist.m3u8
-ext,AB Channel,https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8
-ext,ABC Miami,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1126
-ext,ABC TV,http://edge9-sl.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-video=3000000.m3u8
-ext,ABC TV HD,https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8
-ext,ABC7CHICAGO,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483
-ext,Abu Dabi Drama,http://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-ext,Abu Dabi Emirates,http://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+ElevenSports2.pl,ELEVEN SPORTS,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/517
 ext,Abu Dabi Sports 2,http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 ext,Abu Dabi Sports 3,http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 ext,Abu Dhabi Sports,http://www.elahmad.com/tv/m3u8/adtv.m3u8
+ext,DUBAI SPORTS 1 (1920×1080),http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
+ext,Dubai Sports 1 HD,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8
+ext,Dubai Sports 2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8?
+ext,Dubai Sports 2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8?2957056943
+ext,DUBAI SPORTS 2 (1920×1080),http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+ext,Dubai Sports 3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8?
+ext,DUBAI SPORTS 3 (1920×1080),http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+DubaiTVHD.net,Dubai TV,http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8?v=787764643
 ADSports1.net,Abu Dhabi Sports 1,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 ADSports1.net,Abu Dhabi Sports 1,https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 ADSports2.net,Abu Dhabi Sports 2,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
@@ -431,27 +317,70 @@ ADSports3.net,Abu Dhabi Sports 3,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abu
 ADSports3.net,Abu Dhabi Sports 3,https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 ADSports4.net,Abu Dhabi Sports 4,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
 ADSports4.net,Abu Dhabi Sports 4,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4
-9volna,ACB TV,http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
-tv1000-action,Action,https://5c8eaf7647284895b269fd13a40d410c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89af95de69db1f20935d98/playlist.m3u8
 ADSports6.net,AD Sports 6,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6
-ext,Ada TV,http://kuzeykibris.tv/m3u8/tv_ada.m3u8
-ext,ADN40,http://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
-ext,ADRIA Music (Not until Kodi 19!),https://serve-first.folxplay.tv/folx/ch-1/master.m3u8
-ext,Adult Swim,http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
-ext,Adult Swim,https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
-ext,AE | Dubai Zaman,http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
-ext,AE | Hawas TV,https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8
-ext,AF | Ariana News,https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist.m3u8
-ext,AF | Ariana TV,https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist.m3u8
-ext,AF | Ariana TV US,http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist.m3u8
-ext,AFC,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
-ext,Afghanistan : Ariana News TV,https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w1975730063.m3u8
-ext,Afghanistan : Ariana TV,http://iptv.arianaafgtv.com/ariana/playlist1/index.m3u8
-ext,AFIZZIONADOS,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729
-ext,AFN Farsi Net (US),https://unirtmp.tulix.tv/tintv2/tintv2//chunklist.m3u8
-ext,Africa TV3,http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u
-ext,Africa TV3,http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
-ext,Afrobeats (AFR),https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8
+ext,DBM,https://edge5.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
+ext,DBM,https://edge6.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
+ext,DBM TV,http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+ext,Al Kass Sports,http://www.elahmad.com/tv/m3u8/alkass.m3u8
+ext,Alkass sport 1,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+ext,Alkass sport 2,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+ext,Alkass sport 3,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+ext,Alkass sport 4,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+ext,Alkass sport 5,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+ext,Bahrain Sport 1,http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033
+ext,Bahrain Sport 1,http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
+ext,Bahrain Sports 2,http://185.105.4.107:1935/live/Bahrain%20Sports%202/chunklist.m3u8?v=2957056943
+ext,Dubai Sports 1,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+ext,DUBAI SPORTS 1 (1920×1080),http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
+ext,Dubai Sports 1 HD,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8
+ext,Dubai Sports 2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8?
+ext,Dubai Sports 2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8?2957056943
+ext,DUBAI SPORTS 2 (1920×1080),http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+ext,Dubai Sports 3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8?
+ext,DUBAI SPORTS 3 (1920×1080),http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+FOXSports2.us,FOX SPORT 2 HD,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/775
+FoxSports.it,FOX Sports,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+ext,Fox Sports 3 Asia,https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+FoxSports.it,FOX SPORTS HD,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/542
+FOXDeportes.us,FOX DEPORTES HD,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
+ext,Fox-Sports-Kansas,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1180
+ext,GOLTV HD,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
+ext,Horizon Sports,https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
+ext,SPORT : Dubai Sports,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
+SportTVplus.pt,SPORT TV Plus,https://nrpus.bozztv.com/36bay2/gusa-sporttvplus/index.m3u8
+ext,Sports Grid,https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8
+ext,Sports Grid,https://sportsgrid-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5ef11485d33ab9004048a1ca/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/1280x720_2855600/index.m3u8
+ext,SPORTS NORTHWEST HD,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/649
+ext,Sports Tonight,http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+SportsTV.tr,SPORTS TV [HD],http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+SportsTV.tr,Sports TV,https://live.sportstv.com.tr/hls/low/sportstv_sd/index.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
+ext,Sports1 240p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/195
+ext,Sports1 240p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/307
+sport1_rus,Sports1 360p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/194
+sport1_rus,Sports1 360p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/306
+ext,Sports1 480p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/193
+ext,Sports1 720p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/192
+ext,Sports1 720p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/305
+ext,Sports2 240p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/199
+ext,Sports2 240p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/309
+sport2_rus,Sports2 360p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/198
+ext,Sports2 480p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/197
+ext,Sports2 720p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/196
+ext,Sports2 720p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/308
+ext,Sports3 240p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/203
+ext,Sports3 240p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/311
+ext,Sports3 360p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/202
+ext,Sports3 480p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/201
+ext,Sports3 720p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/200
+ext,Sports3 720p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/310
+ext,SPORTSBAYAREA,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/644
+ext,SPORTSCHICAGO,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/647
+SportsmanChannel.us,SPORTSMAN CHANNEL,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/648
+ext,TDN DEPORTES,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
+ext,SPORTSPHILADELPHIA,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/650
+ext,SPORTSWASHINGTON,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/651
+ext,SPORTVL,https://live.mariatvcdn.com/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/mono.m3u8
+ext,Horizon TV HD,http://5.254.76.34:17070/C441/tracks-v1a1/mono.m3u8?token=kdsdkwy453wrRq29IIIo
 ext,AFV Family,https://66fbef2650a94f95ad9eb85816482b11.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-12-AFV-PLEX/b2bc9f3a-4e07-4879-8cbd-069986706a88/0.m3u8
 ext,AFYON TÜRK TV,https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/chunklist.m3u8
 ext,Aghapy TV live قناة أغابي,http://68.235.60.118:1935/aghapy.tv/aghapy.smil/chunklist_w1321939483_b1400000_slar_t64SEQ=.m3u8
@@ -466,7 +395,6 @@ AljazeeraEng.il,Al Jazeera,https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 ext,AL Jazeera Arabic Live,https://live-hls-web-aja.getaj.net/AJA/02.m3u8
 ext,AL Jazeera Mubashe,https://live-hls-web-ajm.getaj.net/AJM/02.m3u8
 ext,AL KARMA TV (1920×1080),https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
-ext,Al Kass Sports,http://www.elahmad.com/tv/m3u8/alkass.m3u8
 ext,Al Kawthar TV,http://178.252.143.156:1935/live/myStream/chunklist_w907760503.m3u8
 ext,Al Khalij TV,http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 ext,Al Mayadeen,http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8?v=
@@ -500,11 +428,6 @@ AlJazeera.nws,Aljazeera (Backup),http://live-hls-web-aja.getaj.net/AJA/04.m3u8
 AlJazeera.nws,Aljazeera (Backup),https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 ext,Aljazeera Documentery,http://live-hls-web-ajd.getaj.net/AJD/01.m3u8
 ext,Aljazeera Mubasher (Backup),http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
-ext,Alkass sport 1,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-ext,Alkass sport 2,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-ext,Alkass sport 3,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-ext,Alkass sport 4,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-ext,Alkass sport 5,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 ext,allg?.tv Kempen,https://stream01.stream.welocal.world/stream/alg/ngrp:alg.stream_all/chunklist_w1838873546_b446000.m3u8
 ext,allgäu.tv,https://stream01.stream.welocal.world/stream/alg/ngrp:alg.stream_all/playlist.m3u8
 ext,AlManar TV (Backup),http://manar.live/iptv/tracks-v1a1/mono.m3u8
@@ -626,9 +549,6 @@ ext,Baden TV,http://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3
 ext,Bahar TV,https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
 ext,BAHRAIN INTERNATIONAL,http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
 ext,Bahrain Quran,http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8
-ext,Bahrain Sport 1,http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033
-ext,Bahrain Sport 1,http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
-ext,Bahrain Sports 2,http://185.105.4.107:1935/live/Bahrain%20Sports%202/chunklist.m3u8?v=2957056943
 BahrainTV.net,BAHRAIN TV,http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8
 ext,Bailén TV,http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
 ext,Bajo Cero TV,https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8
@@ -650,13 +570,6 @@ ext,BBC World News(英国),https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa
 ext,BBS 불교방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
 ext,BE | Notele,https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
 ext,Beaches Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-ext,BEIN SPORTS 1 UHD,http://bazarhd.online:80/307210113151/307210113151/80392
-ext,BEIN SPORTS 2 UHD,http://bazarhd.online:80/307210113151/307210113151/80391
-BeINSports.es,BEIN SPORTS HD,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
-ext,BEIN SPORTS HD ESPAÑOL,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
-ext,beIN SPORTS XTRA,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-ext,Being Human,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e78f4dd001977000787d7e3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=dd1d87dc-057f-11eb-a18c-0242ac110002&deviceId=5e78f4dd001977000787d7e3&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
-ext,BEINSPORTS 1 HD,http://bazarhd.online:80/307210113151/307210113151/80393
 ext,BEL Radio PROS (Webradio),https://558bd16067b67.streamlock.net/radiopros/livestream/chunklist_w2014501819.m3u8
 ext,Bellator MMA,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 ext,BENGÜTÜRK TV [HD],https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
@@ -1011,9 +924,6 @@ ext,Dark Matter,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e
 ext,Dark Shadows,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef3958c66ac540007d6e6a7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=535&deviceId=5ef3958c66ac540007d6e6a7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 ARD.de,Das Erste HD,https://mcdn.daserste.de/daserste/de/master_3628.m3u8
 ext,DASDING 90.8 (Webradio),https://swrdasdingvrhls-i.akamaihd.net/hls/live/780817/vrdasding/master.m3u8
-ext,DBM,https://edge5.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
-ext,DBM,https://edge6.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
-ext,DBM TV,http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 ext,DC Eagle Cam,http://americaneagle-lh.akamaihd.net:80/i/AEF_DC1@31049/master.m3u8
 ext,DCN TV,http://video.oct.dc.gov/out/u/21_4.m3u8
 DDSports.in,DD Sports,http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
@@ -1092,14 +1002,6 @@ ext,Dubai Racing,http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chu
 ext,Dubai Racing 2,http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
 ext,DUBAI RACING 2 HD,http://dmithrvll.cdn.mangomolo.com/dubairacing/smil%3Adubairacing.smil/chunklist_b1600000.m3u8
 ext,Dubai Sports 1,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-ext,DUBAI SPORTS 1 (1920×1080),http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
-ext,Dubai Sports 1 HD,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8
-ext,Dubai Sports 2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8?
-ext,Dubai Sports 2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8?2957056943
-ext,DUBAI SPORTS 2 (1920×1080),http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-ext,Dubai Sports 3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8?
-ext,DUBAI SPORTS 3 (1920×1080),http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-DubaiTVHD.net,Dubai TV,http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8?v=787764643
 ext,DUBAI TV (1920×1080),http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
 DubaiTVHD.net,Dubai TV HD,http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream/chunklist_b2000000.m3u8
 ext,DUBAI.ZAMAN,http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
@@ -1145,7 +1047,6 @@ ElToro.es,El Toro TV,https://live1-eltorotv.flumotion.com/playlist.m3u8
 ext,EL TV,http://85.132.53.162:1935/live/eltv/chunklist.m3u8
 ext,Elbekanal,http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/elbe_high/playlist.m3u8
 ext,Elbekanal Schönebeck,https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=171674
-ElevenSports2.pl,ELEVEN SPORTS,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/517
 ext,ElimTV (San Salvador),https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/index_150_av-p.m3u8
 ext,Elmas TV,https://5be5d840359c6.streamlock.net/elmas67tv/elmas67tv/chunklist.m3u8
 ext,Elsharq TV,https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
@@ -1267,11 +1168,8 @@ ext,Fox Movies [Vietnam],http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES
 FoxMovies.pt,FOX Movies,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 FOXNews.uk,Fox News HD,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/734
 ext,Fox News(美国),http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-FOXSports2.us,FOX SPORT 2 HD,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/775
-FoxSports.it,FOX Sports,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-ext,Fox Sports 3 Asia,https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-FoxSports.it,FOX SPORTS HD,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/542
 ext,FOX TV TÜRKIYE,https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8
+FOXDeportes.us,FOX DEPORTES HD,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
 ext,Fox-Sports-Kansas,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1180
 ext,FOX11LA,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/533
 ext,FOX2CHICAGO,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/534
@@ -1341,7 +1239,6 @@ ext,GOD (English),https://zypelive-lh.akamaihd.net/i/default_1@710958/index_720_
 GodTV.us,GOD TV,https://zypelive-lh.akamaihd.net/i/default_1@745545/index_720_av-p.m3u8
 ext,Gold 78,https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8
 GolfChannel.us,GOLF CHANNEL HD,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558
-ext,GOLTV HD,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
 ext,Gonca TV,https://broadcasttr.com:446/tuncerciftci/smil:tuncerciftci.smil/playlist.m3u8
 ext,GOOD LIFE 45 : SD (US),http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
 ext,Gordon Ramsay's Kitchen,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=294&deviceId=5b4e99f4423e067bd6df6903&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -1433,8 +1330,6 @@ home,Home,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb96303
 ext,HomeOne TV,https://streamer104.neterra.tv/n1tv/n1tv.smil/playlist.m3u8
 ext,Honduras : TEN canal10,http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1260850294_b1848000.m3u8
 ext,Hope Channel Norge,http://media1.adventist.no:1935/live/hope1/playlist.m3u8
-ext,Horizon Sports,https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
-ext,Horizon TV HD,http://5.254.76.34:17070/C441/tracks-v1a1/mono.m3u8?token=kdsdkwy453wrRq29IIIo
 ext,HorizonTV Armenia,http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
 ext,Hot Rock TV,https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
 HR.de,HR,https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8?set-segment-duration=responsive
@@ -2173,41 +2068,7 @@ ext,Spike Outdoors,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel
 ext,Spike Pluto TV,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=290&deviceId=5812bcc8237a6ff45d16c407&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 ext,Spirit TV,https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 ext,SpongeBob Schwammkopf nick,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=715c465f-0715-11eb-a18c-0242ac110002&deviceId=5d00e8adaab96b5635b2a005&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
-ext,SPORT : BeIN Sports Xtra,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr
-ext,SPORT : Dubai Sports,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
-SportTVplus.pt,SPORT TV Plus,https://nrpus.bozztv.com/36bay2/gusa-sporttvplus/index.m3u8
-ext,Sports Grid,https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8
-ext,Sports Grid,https://sportsgrid-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5ef11485d33ab9004048a1ca/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/1280x720_2855600/index.m3u8
-ext,SPORTS NORTHWEST HD,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/649
-ext,Sports Tonight,http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
-SportsTV.tr,SPORTS TV [HD],http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-SportsTV.tr,Sports TV,https://live.sportstv.com.tr/hls/low/sportstv_sd/index.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
-ext,Sports1 240p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/195
-ext,Sports1 240p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/307
-sport1_rus,Sports1 360p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/194
-sport1_rus,Sports1 360p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/306
-ext,Sports1 480p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/193
-ext,Sports1 720p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/192
-ext,Sports1 720p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/305
-ext,Sports2 240p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/199
-ext,Sports2 240p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/309
-sport2_rus,Sports2 360p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/198
-ext,Sports2 480p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/197
-ext,Sports2 720p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/196
-ext,Sports2 720p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/308
-ext,Sports3 240p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/203
-ext,Sports3 240p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/311
-ext,Sports3 360p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/202
-ext,Sports3 480p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/201
-ext,Sports3 720p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/200
-ext,Sports3 720p,http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/310
-ext,SPORTSBAYAREA,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/644
-ext,SPORTSCHICAGO,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/647
-SportsmanChannel.us,SPORTSMAN CHANNEL,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/648
-ext,SPORTSPHILADELPHIA,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/650
-ext,SPORTSWASHINGTON,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/651
-ext,SPORTVL,https://live.mariatvcdn.com/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/mono.m3u8
-ext,Sqadl,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=39&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f12332eeca6a20040b328e5&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---
+ext,SPORT : BeIN Sports Xtra,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=trext,Sqadl,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=39&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f12332eeca6a20040b328e5&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---
 SRFernsehen.de,SR Fernsehen,https://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8?set-segment-duration=responsive
 ext,Stadium,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59974b6d7ec5063cb56f24c9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=748&deviceId=59974b6d7ec5063cb56f24c9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 ext,Stadium Network,https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
@@ -2279,7 +2140,7 @@ TBN-UK.uk,TBN,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d48
 ext,TBS FUL-HD,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
 ext,TC TELECIBAO HD,http://cm.hostlagarto.com:8081/Telecibao/Telecibao/chunks.m3u8
 ext,TCS CANAL 2,https://secure-video.tcsgo.com/tcshd/index480p30_20200822T210827.m3u8
-ext,TDN DEPORTES,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
+
 ext,Te Reo,https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
 ext,Te Reo,https://bcsecurelivehls-i.akamaihd.net/hls/live/720613/1614493167001_2/master_iPad720p.m3u8
 ext,Tea TV,https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
