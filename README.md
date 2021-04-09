@@ -156,16 +156,16 @@ https://stream-12.dc3.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl741FyMsqnekCE501Z
 https://mmsiptv.com/live/adom/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Antena_3_2017.svg/revision/latest?cb=20200307025520&path-prefix=es" group-title="SPAIN",ANTENA 3 HD  
 http://hls.webredirect.org/gR5t/mp_8495.php/https://directo.atresmedia.com/1617998463_c11c3fbb4b958ab43eefba403bc7ead6d571936e/antena3/master.m3u8
-#EXTINF:0
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/UXxZGEW8yq31Mqx1A
 "group-title="SPAIN",ENERGY 
 https://live.mitele.es/hls/live/2005337/energy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Antena_3_2017.svg/revision/latest?cb=20200307025520&path-prefix=es" group-title="SPAIN",ANTENA 3 HD  
 http://hls.webredirect.org/gR5t/mp_8495.php/https://directo.atresmedia.com/1617998463_c11c3fbb4b958ab43eefba403bc7ead6d571936e/antena3/master.m3u8
-#EXTINF:0
+#EXM3U
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/energy_tv_es.png
 "group-title="SPAIN",ENERGY 
-https://live.mitele.es/hls/live/2005337/energy/playlist.m3u8
+https://live.mitele.es/hls/live/2005337/energy/playlist.m3u8?hdnts=st=1617990165~exp=1617990195~acl=/*~hmac=b37ded1120c80d35d6ad953ca0d81959e6cc42dd6e40af4bc73ea2acb923019b
 #EXTM3U
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png" group-title="SPAIN",LA LIGA TV
 http://stream.tvtap.live:8081/live/laligatvbar.stream/playlist.m3u8
