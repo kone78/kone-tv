@@ -4,7 +4,7 @@ https://mmsiptv.com/live/ortm/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/aa/africable_tv.png", AFRICABLE
 https://mmsiptv.com/live/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png", TM1 TV
-https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33eZwSynBIKG_un4jtT-f2sTJzAoeYLtx_9nEZ5AfptHmtmYa9Gvhdj7RxjsJsYvM3fQ
+https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33eatnGeMcXGJOdxLZaJGH0uHfTlGVXwHEapKKrg6HsM7RqGTOjD_ONKkGY4hc-Hkglw
 #EXTINF:0 type="stream" channelId="-1" group="GUINEA EQUATORIAL" logo="https://www.lyngsat-stream.com/logo/tv/tt/tvge_gq_internacional.png", TVGE
 https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://tvgelive.gq/images/icons/menu-divider.png" group-title="NIGER",TELESAHEL
@@ -154,6 +154,18 @@ EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_sud_fr.png" group-ti
 https://stream-12.dc3.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl741FyMsqnekCE501ZnVWeo)/dm/3/x7wrxqb/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="GHANA",ADOM
 https://mmsiptv.com/live/adom/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Antena_3_2017.svg/revision/latest?cb=20200307025520&path-prefix=es" group-title="SPAIN",ANTENA 3 HD  
+http://hls.webredirect.org/gR5t/mp_8495.php/https://directo.atresmedia.com/1617998463_c11c3fbb4b958ab43eefba403bc7ead6d571936e/antena3/master.m3u8
+#EXTINF:0
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/UXxZGEW8yq31Mqx1A
+"group-title="SPAIN",ENERGY 
+https://live.mitele.es/hls/live/2005337/energy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Antena_3_2017.svg/revision/latest?cb=20200307025520&path-prefix=es" group-title="SPAIN",ANTENA 3 HD  
+http://hls.webredirect.org/gR5t/mp_8495.php/https://directo.atresmedia.com/1617998463_c11c3fbb4b958ab43eefba403bc7ead6d571936e/antena3/master.m3u8
+#EXTINF:0
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/energy_tv_es.png
+"group-title="SPAIN",ENERGY 
+https://live.mitele.es/hls/live/2005337/energy/playlist.m3u8
 #EXTM3U
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png" group-title="SPAIN",LA LIGA TV
 http://stream.tvtap.live:8081/live/laligatvbar.stream/playlist.m3u8
