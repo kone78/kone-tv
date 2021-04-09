@@ -6,10 +6,11 @@ https://mmsiptv.com/live/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png", TM1 TV
 https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33eatnGeMcXGJOdxLZaJGH0uHfTlGVXwHEapKKrg6HsM7RqGTOjD_ONKkGY4hc-Hkglw
 #EXTINF:0 type="stream" channelId="-1" group="GUINEA EQUATORIAL" logo="https://www.lyngsat-stream.com/logo/tv/tt/tvge_gq_internacional.png", TVGE
-https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://tvgelive.gq/images/icons/menu-divider.png" group-title="NIGER",TELESAHEL
+https://rsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
+#EXTINF:0
+EXTINF:-1 tvg="https://tvgelive.gq/images/icons/menu-divider.png" group-title="NIGER",TELESAHEL
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tele_sahel/hls_video/hdntl-_-ZXhwPTE2MTY1OTQ5NzV+YWNsPSUyZmxpdmUlMmZyYW1kaXNrJTJmdGVsZV9zYWhlbCUyZmhsc192aWRlbyUyZip+aG1hYz1hNmNlYzJhYzBjYWYxOGZkYmZjNmJlMWJiYzQ2ZTdiNTA3N2EwN2QwMmNkODI3NWMyZGQ4M2U0YjUzYzJjYThk/tele_sahel-avc1_1500000=4-mp4a_98400_qad=1.m3u8
-#EXTINF:0,#EXTM3U
+#
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="GUINEA ECUATORIAL",TVGE
 #EXTINF:0,http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 #EXTM3U
