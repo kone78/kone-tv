@@ -4,15 +4,15 @@ https://mmsiptv.com/live/ortm/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/aa/africable_tv.png", AFRICABLE
 https://mmsiptv.com/live/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png", TM1 TV
-https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33eVqa--Ya9yrx54xLH7W4Xfee7Ix2P9fZXyVxGMzvGeSoukvtDRRikCF1j-p85IXBuw
+https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33eWvKKRtpJLQCycjfFzwp47gsEgKHIgRjX7Yv8J_Qnmb4DMqgITs2YX0lIhp
+#EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/tvchannels/ml/Cherifla-TV.html"CHERIFLA TV
+https://mmsiptv.com/live/rti2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDIxIDI6MzA6MTAgUE0maGFzaF92YWx1ZT1LZi9XTUU1TmNidWVNN1JEOS9BbmxnPT0mdmFsaWRtaW51dGVzPTE1MA==
 #EXTINF:0 type="stream" channelId="-1" group="GUINEA EQUATORIAL" logo="https://www.lyngsat-stream.com/logo/tv/tt/tvge_gq_internacional.png", TVGE
 https://rsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rti_tv1_ci.png" group-title="COTE D IVOIRE",RTI1
 https://mmsiptv.com/live/rti1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rti_tv2_ci.png" group-title="COTE D IVOIRE",RTI2
-https://mmsiptv.com/live/rti2/playlist.m3u8
-#EXTM3U
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/rti-la-3-ci.png" group-title="COTE D IVOIRE",RTI3
+https://mmsiptv.com/live/rti2/play#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/rti-la-3-ci.png" group-title="COTE D IVOIRE",RTI3
 https://enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
 #EXTINF:0,#EXTM3U
 #EXTINF:-1tvg-logo="https://images.app.goo.gl/cMXckN66TaawkSfk6" group-title="COTE D'IVOIRE",NTV
