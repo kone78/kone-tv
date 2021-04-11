@@ -16,7 +16,7 @@ https://mmsiptv.com/live/rti2/playlist.m3u8
 https://enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
 #EXTINF:0,#EXTM3U
 #EXTINF:-1tvg-logo="https://images.app.goo.gl/cMXckN66TaawkSfk6" group-title="COTE D'IVOIRE",NTV
-https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv1080p/playlist.m
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv1080p/playlist.m3u8
 EXTINF:-1 tvg="https://tvgelive.gq/images/icons/menu-divider.png" group-title="NIGER",TELESAHEL
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tele_sahel/hls_video/index.m3u8?hdnea=st=1618136394~exp=1618136604~acl=/*~hmac=5bf1326a286c79f3a6a9f4d4611528b618d301b9a9bdfd06d4dc96d8c107bec8
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="GUINEA ECUATORIAL",TVGE
