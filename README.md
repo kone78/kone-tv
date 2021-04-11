@@ -4,13 +4,24 @@ https://mmsiptv.com/live/ortm/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/aa/africable_tv.png", AFRICABLE
 https://mmsiptv.com/live/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png", TM1 TV
-https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33eatnGeMcXGJOdxLZaJGH0uHfTlGVXwHEapKKrg6HsM7RqGTOjD_ONKkGY4hc-Hkglw
+https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33eVqa--Ya9yrx54xLH7W4Xfee7Ix2P9fZXyVxGMzvGeSoukvtDRRikCF1j-p85IXBuw
 #EXTINF:0 type="stream" channelId="-1" group="GUINEA EQUATORIAL" logo="https://www.lyngsat-stream.com/logo/tv/tt/tvge_gq_internacional.png", TVGE
 https://rsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rti_tv1_ci.png" group-title="COTE D IVOIRE",RTI1
+https://mmsiptv.com/live/rti1/playlist.m3u8
+#EXTINF:0,#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rti_tv2_ci.png" group-title="COTE D IVOIRE",RTI2
+https://mmsiptv.com/live/rti2/playlist.m3u8
+#EXTM3U
+#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/rti-la-3-ci.png" group-title="COTE D IVOIRE",RTI3
+https://enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
+#EXTINF:0,#EXTM3U
+#EXTINF:-1tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/rti-la-3-ci.png" group-title="COTE D IVOIRE",NTV
+#EXTINF:0,https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv1080p/playlist.m3u8
+
 #EXTINF:0
 EXTINF:-1 tvg="https://tvgelive.gq/images/icons/menu-divider.png" group-title="NIGER",TELESAHEL
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tele_sahel/hls_video/hdntl-_-ZXhwPTE2MTY1OTQ5NzV+YWNsPSUyZmxpdmUlMmZyYW1kaXNrJTJmdGVsZV9zYWhlbCUyZmhsc192aWRlbyUyZip+aG1hYz1hNmNlYzJhYzBjYWYxOGZkYmZjNmJlMWJiYzQ2ZTdiNTA3N2EwN2QwMmNkODI3NWMyZGQ4M2U0YjUzYzJjYThk/tele_sahel-avc1_1500000=4-mp4a_98400_qad=1.m3u8
-#
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="GUINEA ECUATORIAL",TVGE
 #EXTINF:0,http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 #EXTM3U
@@ -157,17 +168,6 @@ https://stream-12.dc3.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl741FyMsqnekCE501Z
 https://mmsiptv.com/live/adom/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Antena_3_2017.svg/revision/latest?cb=20200307025520&path-prefix=es" group-title="SPAIN",ANTENA 3 HD  
 http://hls.webredirect.org/gR5t/mp_8495.php/https://directo.atresmedia.com/1617998463_c11c3fbb4b958ab43eefba403bc7ead6d571936e/antena3/master.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/UXxZGEW8yq31Mqx1A
-"group-title="SPAIN",ENERGY 
-https://live.mitele.es/hls/live/2005337/energy/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Antena_3_2017.svg/revision/latest?cb=20200307025520&path-prefix=es" group-title="SPAIN",ANTENA 3 HD  
-http://hls.webredirect.org/gR5t/mp_8495.php/https://directo.atresmedia.com/1617998463_c11c3fbb4b958ab43eefba403bc7ead6d571936e/antena3/master.m3u8
-#EXM3U
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/energy_tv_es.png
-"group-title="SPAIN",ENERGY 
-https://live.mitele.es/hls/live/2005337/energy/playlist.m3u8?hdnts=st=1617990165~exp=1617990195~acl=/*~hmac=b37ded1120c80d35d6ad953ca0d81959e6cc42dd6e40af4bc73ea2acb923019b
-#EXTM3U
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png" group-title="SPAIN",LA LIGA TV
 http://stream.tvtap.live:8081/live/laligatvbar.stream/playlist.m3u8
 #EXTINF:0,#EXTM3U
@@ -227,20 +227,7 @@ https://stream.ecable.tv/afrobeats/tracks-v3a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="1519" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-tv-fr.png", BFM TV
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-5-monde-afrique-fr.png" group-title="SPAIN",TV5 AFRIQUE
-#EXTINF:0,https://mmsiptv.com/live/tv5/playlist.m3u8
-#EXTM3U
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rti_tv1_ci.png" group-title="COTE D IVOIRE",RTI1
-https://mmsiptv.com/live/rti1/playlist.m3u8
-#EXTINF:0,#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rti_tv2_ci.png" group-title="COTE D IVOIRE",RTI2
-https://mmsiptv.com/live/rti2/playlist.m3u8
-#EXTM3U
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/rti-la-3-ci.png" group-title="COTE D IVOIRE",RTI3
-https://enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
-#EXTINF:0,#EXTM3U
-#EXTINF:-1tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/rti-la-3-ci.png" group-title="COTE D IVOIRE",NTV
-#EXTINF:0,https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv1080p/playlist.m3u8
-#EXTM3U
+#EXTINF:0,https://mmsiptv.com/live/tv5/playlist.#EXTM3U
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_a_plus.png" group-title="FRANCE",A plus
 https://mmsiptv.com/live/aplus/playlist.m3u8
 #EXTINF:0,#EXTM3U
