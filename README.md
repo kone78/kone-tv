@@ -47,7 +47,7 @@ https://mmsiptv.com/live/adom/playlist.m3u8
 https://mmsiptv.com/live/afmedia/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_a_plus.png" group-title="FRANCE",A plus
 https://mmsiptv.com/live/aplus/playlist.m3u8
-#EXTINF:-1 tvg="https://tvgelive.gq/images/icons/menu-divider.png" group-title="NIGER",TELESAHEL
+#EXTINF:-1 tvg="https://static.wikia.nocookie.net/logopedia/images/a/a8/ORTN2010.png/revision/latest?cb=20200929081914" group-title="NIGER",TELESAHEL
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tele_sahel/hls_video/hdntl-_-ZXhwPTE2MTgzOTc1NTF+YWNsPSUyZmxpdmUlMmZyYW1kaXNrJTJmdGVsZV9zYWhlbCUyZmhsc192aWRlbyUyZip+aG1hYz0wZWM5ODNmYWJmZDQ1ZmM0NTAzZGM3M2QzMjliY2MyNDEwNzk4ZjVhNzBiMDA3NDQ2MmQwMjZjMzdlM2ZkNWVj/tele_sahel-avc1_1500000=4-mp4a_98400_qad=1.m3u8
 #EXTINF:0 type="stream" channelId="3444" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/tt/trace_fr_africa.png", TRACE AFRICA
 https://mmsiptv.com/live/trace/playlist.m3u8
