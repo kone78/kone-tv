@@ -4,11 +4,14 @@ https://mmsiptv.com/live/ortm/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/aa/africable_tv.png", AFRICABLE
 https://mmsiptv.com/live/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png", TM1 TV
-https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33ea8aZu-iABQ7yW7Q_j8dHHubX7iAqQshgAjtbNzKrB45guIcVei7Gd6kQJ3OoIDCkA
+https://stream-03.dc3.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZfTwJNz_loOqpr039EUjix0)/dm/3/x7v072x/d/live-3.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/tvchannels/ml/Cherifla-TV.html"CHERIFLA TV
 https://mmsiptv.com/live/rti2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDIxIDI6MzA6MTAgUE0maGFzaF92YWx1ZT1LZi9XTUU1TmNidWVNN1JEOS9BbmxnPT0mdmFsaWRtaW51dGVzPTE1MA==
 #EXTINF:0 type="stream" channelId="-1" group="GUINEA EQUATORIAL" logo="https://www.lyngsat-stream.com/logo/tv/tt/tvge_gq_internacional.png", TVGE
 https://rsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="GUINEA ECUATORIAL",TVGE
+#EXTINF:0,#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="GUINEA ECUATORIAL",TVGE
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rti_tv1_ci.png" group-title="COTE D IVOIRE",RTI1
 https://mmsiptv.com/live/rti1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rti_tv2_ci.png" group-title="COTE D IVOIRE",RTI2
@@ -16,11 +19,9 @@ https://mmsiptv.com/live/rti2/play#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyn
 https://enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
 #EXTINF:0,#EXTM3U
 #EXTINF:-1tvg-logo="https://images.app.goo.gl/cMXckN66TaawkSfk6" group-title="COTE D'IVOIRE",NTV
-https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv1080p/playlist.m3u8
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv720p/playlist.m3u8
 EXTINF:-1 tvg="https://tvgelive.gq/images/icons/menu-divider.png" group-title="NIGER",TELESAHEL
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tele_sahel/hls_video/index.m3u8?hdnea=st=1618136394~exp=1618136604~acl=/*~hmac=5bf1326a286c79f3a6a9f4d4611528b618d301b9a9bdfd06d4dc96d8c107bec8
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="GUINEA ECUATORIAL",TVGE
-#EXTINF:0,http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tele_sahel/hls_video/hdntl-_-ZXhwPTE2MTgzOTc1NTF+YWNsPSUyZmxpdmUlMmZyYW1kaXNrJTJmdGVsZV9zYWhlbCUyZmhsc192aWRlbyUyZip+aG1hYz0wZWM5ODNmYWJmZDQ1ZmM0NTAzZGM3M2QzMjliY2MyNDEwNzk4ZjVhNzBiMDA3NDQ2MmQwMjZjMzdlM2ZkNWVj/tele_sahel-avc1_1500000=4-mp4a_98400_qad=1.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo=" "group-title="ANGOLA",TV ZIMBO 
 https://player-api.new.livestream.com/accounts/29819666/events/9254936/broadcasts/219661154.secure.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/qq/qtv_gm.png" group-title="GAMBIA",QTV
@@ -60,18 +61,19 @@ https://playtv4kpro.com:5443/LiveApp/streams/163893638025530331068059.m3u8
 https://mmsiptv.com/live/rtb/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="BURKINA FASO" logo="https://www.lyngsat.com/logo/tv/bb/bf1-bf.png", BF1
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index_4.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.lyngsat-logo.com/logo/tv/rr/rtg-gn.png", RTG GUINEE
+#EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.lyngsat-logo.com/logo/tv/rr/rtg-gn.png", RTG GUINEEv
 https://mmsiptv.com/live/rtg/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.lyngsat.com/logo/tv/ee/espace_tv_gn.png", ESPACE TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/espace_tv/hls_video/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.lyngsat.com/logo/tv/kk/kalac-tv-gn.png", KALAC TV
 https://edge9.vedge.infomaniak.com/livecast/ik:kalactv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", 
-https://www.lyngsat-logo.com/logo/tv/rr/rti_tv1_ci.png", RTI1
-#EXTINF:0 type="stream" channelId="-1", 
-https://www.lyngsat-logo.com/logo/tv/rr/rti_tv2_ci.png", RTI 2
-#EXTINF:0 type="stream" channelId="-1", 
-https://www.lyngsat.com/logo/tv/nn/notre-tv.png"NTV AFRIQUE
+france24,France 24,http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+France24.fr,France 24,http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+ext,France 24 (ESP),http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
+France24fr.fr,France 24 (FR),http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_2000.m3u8
+france24,France24,http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
+ext,Francophonie,http://5421175365ea3.streamlock.net/live/smil:switch.smil/chunklist_b5000000_t64MTA4MHA=.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://upload.wikimedia.org/wikipedia/fr/8/83/A%2B_tele_2014_logo.png", A+
 https://mmsiptv.com/live/aplus/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/rr/rts_sn_tv_1.png", RTS1
@@ -138,14 +140,11 @@ http://stream.tvtap.live:8081/live/it-dazn7.stream/playlist.m3u8
 https://mmsiptv.com/live/adom/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png", AFRIQUE MEDIA
 https://mmsiptv.com/live/afmedia/playlist.m3u8
-#EXTINF:0 type="stream" channelId="455" group="GAMBIA" logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMSEhUSEhMVFRAXFxUWGBcWFhkYFRkbFRUYFhgWGxcYHSggGBsxHhcZITEtJiorMDAuFyAzPTMtNygwLisBCgoKDg0OGxAQGy0mICUtKy0uLi0tLTUtLS0tLS4tLS0tKy0tLS01LS0tLS0tLS8tLS0tLS0tLS0tLS0tLS0tLf/AABEIAJYBTwMBIgACEQEDEQH/xAAcAAEAAgIDAQAAAAAAAAAAAAAABgcDBQIECAH/xABJEAABAwEDBwcFDgQGAwAAAAABAAIDEQQFIQYHEjFBUWETIjJxgZGhQlRygpIUFyMzNFJzk7Gys8HR0hZiosIkQ1OD4eIV0/D/xAAbAQEAAgMBAQAAAAAAAAAAAAAABAUCAwYBB//EADkRAAEDAgIHBwIEBQUAAAAAAAEAAgMEESExBRJBUWGBwRNxkaGx0fAyMxQiUuEGFSRC8SM0gtLi/9oADAMBAAIRAxEAPwC8UREREREREREREREREWivjKqy2YESyjTHkM5z+0Do+tRQ+8s6WsQQdTpT9rGfuWp88bMyp1Po2pnF2Mw3nAeJz5XVmoqVtWcS3v6L2R+jGP7tJdM5bXh5ye5n7Vo/HR7ip7f4eqSMXNHM9Gq9kVIQ5f29pxmDhuMcdPAV8VuLFnSmHxsMb272EsPjpAnuXra2M53Cwk0DVty1T3H/ALAK10UTujL2xz0BeYnnZKNH+oEgdpClTXAioxBUlr2uF2m6qpoJYTqyNIPFckRFktSIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIi0OVOUMdji0nc6R1RGwHFxprO5o2n8yF45waLnJZxxvkeGMFycgu3fF8w2WPlJn6I1AeU47mjafs20VV5S5fT2irISYYeB+EcOLxq6h3lR6+b3ltUhkleS46tjQNwHkt/wDjU4rpKqmq3PwbgPNdjQaHigAdJZz/ACHcOp5WXzrRZLPC57g1jSSdQGtTjJvIMv59oNGDEgGgFN7vK7KAbytEcTnmzQrGpq4qduvK63qVCbLZHyu0Y2PedwBJ8NSlt2ZtrVJQyObC3ccX+yMFubxyxstiBhsMbJHDAv8A8odoxf2UHEqE3tlJa7TXlZXFp8lpozq0BRp8SthbCzM6x4YDxURslbUYsaI273C7uTcuTlNG5GXbCP8AEW2rxrHKRs/pxd4rJHd9xD/MaeuST8sFWI60QTtGTAvTQSu+qok5ENHgArXjycueXCOVlTqDZxpey4k+C2l35MyWX5JaXCPXyUw04zt8kjQPFo71Sh61srrv+1WcgQzPa0eTpVb7LqjwWbaiO9yy3EKPLoyoLdVs5cNzxcdfTBX3Z3vI57dF+0B2k31TQEjrAPBdlV5k7nJZIQy1ARu1co2vJ9rakt68R1KfRShwDmkFpAIINQQdRBGsKyjlbIPylcrVUstO/Vkbbdu5FZURFsUZERERERERERERERERERERERERERERERERERERERERERERERERERERa6+rzZZoXzSHmtGoa3E4NaOJOCoq/b3ktUzppDr6IGoAdFreA8STvUlznX9y0/udh+ChJDtxk1E9nR66qFqpq5tZ2qMh6rs9C0Igi7V31O8hsHPM+GwhfF3rqut9ofotwaNZPRA/M8F8um7nTyBrcG6y7YBv/QKy7kulo0YYhRu07eLjvP8AwtUMJeeCmVtYIBYZ+g3npvzyzy5K5NRtHNHM8px6TiNldg6luL2uJ1qHJvlMdlGHJwgAv4vc4Up/KBTbU4U3kEQY0NaKNAoFlVsImhuquMfWyul7UHHZfEjjjt47NllGLJkLYY8eQ0jve5zvCtPBd05K2LzWL2B9q3SLIRsGQHgtbquocbukcf8AkfdRO2Zv7DJWkTojvjea9z6jwUSvvNnMwF1meJR8x1Gv7D0T/SrZRa300Ttlu5SodLVcRvrk8HY/v4ELzbaIHMcWPaWuBoQQQ4HiDiFjV85RZNw2xlJBoyAcyQdNv7m8Dv2HFUvf1yyWOQxSji1w6Lm7wfy2KtnpnRY5jeuo0fpOOrFrWcNnUb/UcRitepPkblfJY3Bj6vs5PObtbU4ubuO0jUeBxUYXxaWvLTduanTQsmYY5BcH5fv4r0dZLUyVjZI3B0bgC1w1EFabKvKF1ijbKYHSxE0c5rgNAno6QI1HVXfhtFYHmzyjMUgs0h+CkPNJ8mQ6ux2rrpvKte0wNkY5j2hzHAtc06iCKEFXdPM2QBxHeFwWkaF9LIY78Wnh+2RVd++1F5s/22/onvtRebP9tv6KD5a5NusVoLMTC+ro3Ha3a0n5wqAesHao+rttLA4awGHeuafWVDHFptccFbHvtx+bO+sb+ie+1H5s76xv6Kp1yC9NHFu81h+Pm3jwVr++zH5s/wCsb+i5DOxH5u76xv6KpgsgWh1NHuWJ0hPvHgrW99aPzd3tj9FxdnVbssriOMoH9pVWBZAozo2jJYu0hPv8h7KzRnWHmh+u/wCi7NmzoRE/CQPaP5XNf9uiqrC5hRn4ZLD+ZVA/u8h7L0JdV5RWiMSQv0mHDiCNYIOIK7ypvNxfBhtIjcfg5qMI2Agc13XXm+twVyLxrrhXVJUdvHrbciiIiyUpERY5HgAkmgAJJOoAayiKN5WZXMsLmM5PlHuBcQHaOiK0B1GtTX2StD76I80P1v8A0UKyjvQ2q0yTHouPNG4NwaOGAqeJK1iiGVxOBXOT6SmMh7N1m7MB1Csj30R5ofrf+iluS98OtcPLGLkmlxDRpaWkG4F2oUxqOxUrddhdaJo4WdJ7g3q3u6gKnsV9WOytijZGwUYxoaBwAotkTnOOKm6OmnmJc912jgBjyGwLsoiLerZERERFq8oryFms0s21rebXa481g9ohbRV7ndt2jBFCPLe5x6mNpQ9r6+qtUz9SMuUuhgE9QyM5E49wxPkFVjiSakkk4knWScSTxX2NhcQ1oq4kAAbScAFxUmyNsFXGdwwbzW9dOc7uw7SqVjdY2XezzCJhefm5SG5LuFnjDRi84vdvP6DUP+VNcnLLRhkOt2A6h/z9gUWBqaDWcB2qewRBjWtGpoA7hRW0LQDhsXG6QlcW45uOKzIiKSqlERERERERFo8qbiZbITGaaYxY/wCa79p1HhxAW8ReOaHCxWccjo3h7DYjELzbaIHMc5j2kOaSC06wQaELgp7nZunQlZaWjmyDRf6bAKHrLfuqAqikYWOLSvoVLUCohbKNo8DtHje3BfQdqvjI69vdVljlJ54Gg/026z24O9ZUOrJzO24nl4CcObI0d7Xn7ikUb9WS29V2nIO0pS/a035GwPQ8lNcpLgitsXIzaQAcHNcwgPaRtBII1VGraox71Nj/ANS0e1H/AOtT5FdMlewWBXDPhjebuaCq9tOa+xsY9wfaCWtcRV7NgJ2Rqn2r0xePxMnoP+6V5nap9HI54drG+XVVekI2M1dUAZ5clzCk+QFwxW20PilLw0RueCwgGoexu0HCjiouFPszvyyT6B34kayqCQwkKJStDpmh2X7FSj3rrH/qWj2mfsXL3r7J/qT+0z9inCKsLicyr38LD+geCpHLjJgWGRnJlzoXtNHOppBzek00AGogjrO5RtXpllc3uuyvjArI3nx+k3Z2ire1UUFrcqHSFOIpPy5HLr84rIDTEYHeNavfJe9RarNHL5RFH8HNwd1bxwIVDhTvNZe+hK6zOPNkGk30mjEdrfuBaWOs7vXujZ+zm1Tk712e3NWqiIpC6RFEM5F7cjZeTafhJiWjfoihee6jfWUvVJZc3v7ptbyDWOPmM3UacXdrq9lFqldZqg6Qn7KE2zOA+fMbKPIiz2GyOmkZEwVe9waOsmlTw2lRVzABOAVgZq7n6drcNdWR/wB7vsHY5WOundlhbBEyFnRY0NHHeTxJqe1dxTWN1RZddTQiGIM8e/aiIiyW9ERERFUmd6Um1RN2CJp7S99fABW2qbzr/Lf9qP7XKJWfa5hXOgh/V34H2UOaCTQYk4AcTqVh2KERRtjHkinWdZPfUqF3FFpTNrqbU92rxopa+ZQqcWBK6GvOsQzn85eq210HSniH87T3Gv5Kw1WWTcv+Lh9I/YVZqsYDcFcxpQWe0cOpRERb1WIiIiIiIiIiIiKKZybHylgkNOcwskHAh2iT7LnKlFf2VvyK0/QyfdKoIqrrh+cHguv/AIeeTTubud6gey+Ka5pZKWxw3xPHjGfyUKU2zSR1tjjsELz3ujH5nuWin+63vVjpI/0kncrgRFrP/LMNp9yjGQRuldTyQHsa0HidInqHEK8AJXz4my7N4/Eyeg/7pXmdq9M3j8TJ6D/uleZmqfQZO5dVV6T/ALefRcgp9md+VyfQO/EjUBCn2Z35XJ9A78SNbKn6CoVH99vP0KuJERVa6JFS+cS5vc9rL2ikc1Xt3B3lN7zXqeFdCjeXNze6rK4NFZGc9m8lutvaKjrosXDBRK2DtoiBmMR84hUmFnstpdE9sjDRzXBzTxaahdcLkorlyoO0L0FdVvbPEyZnRe0O6t7
-#EXTM3U
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_a_plus.png" group-title="FRANCE",A plus
 https://mmsiptv.com/live/aplus/playlist.m3u8
 #EXTINF:0,#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/africa-24-fr.png" group-title="FRANCE",AFRICA24
 #EXTINF:0,https://mmsiptv.com/live/africa24/playlist.m3u8
-#EXTM3U
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nollywood_tv_fr.png" group-title="FRANCE",NOLLYWOOD FR
 https://mmsiptv.com/live/nollywoodfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Logo_T%C3%A9l%C3%A9_Tchad.png/172px-Logo_T%C3%A9l%C3%A9_Tchad.png" group-title="TCHAD",TELE TCHAD
@@ -201,8 +200,7 @@ http://stream.tvtap.live:8081/live/bein9.stream/playlist.m3u8
 #EXTINF:0,#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-10-qa.png" group-title="QATAR",BEIN SPORTS10 AR
 https://mmsiptv.com/live/bein10.stream/playlist.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.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", QTV
-https://player.qtv.gm/hls/live.stream.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-5-monde-afrique-fr.png", TV5 MONDE AFRIQUE
 https://mmsiptv.com/live/tv5/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TCHAD" logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Logo_T%C3%A9l%C3%A9_Tchad.png/172px-Logo_T%C3%A9l%C3%A9_Tchad.png", TELE TCHAD
@@ -266,21 +264,15 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8
 #EXTINF:0,L'Équipe
 https://mmsiptv.com/live/equipe
 ext,Afrobeats (AFR),https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8
-#EXTINF:0,La 1
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0400_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,La 1 (720p)
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:0,La 2 (720p)
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+ext,A2i Music,https://stream.sen-gt.com/A2iMusic/myStream/chunklist_w652109108.m3u8
+ext,A2i Naja,https://stream.sen-gt.com/A2iNaija/myStream/chunklist_w59258816.m3u8
+ext,A2i Religion,https://stream.sen-gt.com/A2iReligion/myStream/chunklist_w672043691.m3u8
+ext,A2i TV,https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
 #EXTINF:0,La 5
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
 #EXTINF:0,La 8 Burgos
 https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8
 group,Channels
-ext,A2i Music,https://stream.sen-gt.com/A2iMusic/myStream/chunklist_w652109108.m3u8
-ext,A2i Naja,https://stream.sen-gt.com/A2iNaija/myStream/chunklist_w59258816.m3u8
-ext,A2i Religion,https://stream.sen-gt.com/A2iReligion/myStream/chunklist_w672043691.m3u8
-ext,A2i TV,https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
 ElevenSports2.pl,ELEVEN SPORTS,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/517
 ext,Abu Dabi Sports 2,http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 ext,Abu Dabi Sports 3,http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
@@ -1161,12 +1153,7 @@ ext,FOX2CHICAGO,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb
 ext,FOX5NEWYORK,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/539
 ext,FOX7MIAMI,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/540
 ext,FR 24 News,http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8
-france24,France 24,http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-France24.fr,France 24,http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-ext,France 24 (ESP),http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
-France24fr.fr,France 24 (FR),http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_2000.m3u8
-france24,France24,http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
-ext,Francophonie,http://5421175365ea3.streamlock.net/live/smil:switch.smil/chunklist_b5000000_t64MTA4MHA=.m3u8
+
 FrankenTV.de,Franken Fernsehen,https://s3.welocal.world/frankenfernsehen/media/191627/videos/hls.m3u8
 ext,Freedailyiptv.com,http://122.155.180.8:5021/live/223
 ext,Fresh News,http://167.99.65.12:1935/live/myStream/playlist.m3u8
