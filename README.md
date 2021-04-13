@@ -77,12 +77,12 @@ https://mmsiptv.com/live/natgeo/playlist.m3u8
 https://mmsiptv.com/live/natgeowild/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2156" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:0 type="stream" channelId="2156" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France24 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:0 type="stream" channelId="2156" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24 ES
+#EXTINF:0 type="stream" channelId="FRANCE 24" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France24 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:0 type="stream" channelId="FRANCE 24" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24 ES
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
-#EXTINF:0 type="stream" channelId="2156" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24,France 24 (FR)
+#EXTINF:0 type="stream" channelId="FRANCE 24" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24,France 24 (FR)
 http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_2000.m3u8
-#EXTINF:0 type="stream" channelId="2156" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24,France24
+#EXTINF:0 type="stream" channelId="FRANCE 24" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24,France24
 http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/ODIWC6n.jpg" tvg-name="Infowars1" ... tvg-name="Francophonie.fr" tvg-language="French" tvg-id="Francophonie.fr",FrancophonieH
 http://5421175365ea3.streamlock.net/live/smil:switch.smil/chunklist_b5000000_t64MTA4MHA=.m3u8
@@ -261,7 +261,6 @@ https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="QATAR",BEIN SPORTS5 AR
 https://mmsiptv.com/live/bein5.stream/playlist.m3u8
-#EXTINF:0,#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="QATAR",BEIN SPORTS6 AR
 https://mmsiptv.com/live/bein6.stream/playlist.m3u8
 #EXTM3U
