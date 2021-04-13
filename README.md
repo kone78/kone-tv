@@ -10,6 +10,7 @@ https://mmsiptv.com/live/rti2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8y
 #EXTINF:0 type="stream" channelId="-1" group="GUINEA EQUATORIAL" logo="https://www.lyngsat-stream.com/logo/tv/tt/tvge_gq_internacional.png", TVGE
 https://rsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="GUINEA ECUATORIAL",TVGE
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="GUINEA ECUATORIAL",TVGE
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rti_tv1_ci.png" group-title="COTE D IVOIRE",RTI1
@@ -22,8 +23,6 @@ https://enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv720p/playlist.m3u8
 #EXTINF:-1 tvg="https://tvgelive.gq/images/icons/menu-divider.png" group-title="NIGER",TELESAHEL
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tele_sahel/hls_video/hdntl-_-ZXhwPTE2MTgzOTc1NTF+YWNsPSUyZmxpdmUlMmZyYW1kaXNrJTJmdGVsZV9zYWhlbCUyZmhsc192aWRlbyUyZip+aG1hYz0wZWM5ODNmYWJmZDQ1ZmM0NTAzZGM3M2QzMjliY2MyNDEwNzk4ZjVhNzBiMDA3NDQ2MmQwMjZjMzdlM2ZkNWVj/tele_sahel-avc1_1500000=4-mp4a_98400_qad=1.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-logo=" "group-title="ANGOLA",TV ZIMBO 
-https://playback2.akamaized.net/streams/29819666_9254936_lsib8slqkx9wxo639n7_1/exp=1618400665~acl=%2f*~data=hdntl~hmac=75be96061cc03c938781aae07a14bae56486d601a8608f88ed994c74e4a4f358/media/29819666_9254936_lsib8slqkx9wxo639n7_1@2128000p.m3u8?dw=14400&ts=1618311600
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/qq/qtv_gm.png" group-title="GAMBIA",QTV
 https://player.qtv.gm/hls/live.stream.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://fasotv.net/wp-content/plugins/sp-header-image-slider/images/controls.png" group-title="BURKINA FASO",FASO TV
@@ -66,13 +65,17 @@ https://mmsiptv.com/live/rtg/playlist.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/espace_tv/hls_video/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.lyngsat.com/logo/tv/kk/kalac-tv-gn.png", KALAC TV
 https://edge9.vedge.infomaniak.com/livecast/ik:kalactv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", 
-france24,France 24,http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-France24.fr,France 24,http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-ext,France 24 (ESP),http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
-France24fr.fr,France 24 (FR),http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_2000.m3u8
-france24,France24,http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
-ext,Francophonie,http://5421175365ea3.streamlock.net/live/smil:switch.smil/chunklist_b5000000_t64MTA4MHA=.m3u8
+#EXTINF:0 type="stream" channelId="2156" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:0 type="stream" channelId="2156" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France24 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:0 type="stream" channelId="2156" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24 ES
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
+#EXTINF:0 type="stream" channelId="2156" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24,France 24 (FR)
+http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_2000.m3u8
+#EXTINF:0 type="stream" channelId="2156" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24,France24
+http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/ODIWC6n.jpg" tvg-name="Infowars1" ... tvg-name="Francophonie.fr" tvg-language="French" tvg-id="Francophonie.fr",FrancophonieH
+http://5421175365ea3.streamlock.net/live/smil:switch.smil/chunklist_b5000000_t64MTA4MHA=.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_a_plus.png", A+
 https://mmsiptv.com/live/aplus/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/rr/rts_sn_tv_1.png", RTS1
@@ -199,7 +202,6 @@ http://stream.tvtap.live:8081/live/bein9.stream/playlist.m3u8
 #EXTINF:0,#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-10-qa.png" group-title="QATAR",BEIN SPORTS10 AR
 https://mmsiptv.com/live/bein10.stream/playlist.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-5-monde-afrique-fr.png", TV5 MONDE AFRIQUE
 https://mmsiptv.com/live/tv5/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TCHAD" logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Logo_T%C3%A9l%C3%A9_Tchad.png/172px-Logo_T%C3%A9l%C3%A9_Tchad.png", TELE TCHAD
@@ -212,19 +214,20 @@ https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
 #EXTINF:0,https://mmsiptv.com/live/tv5/playlist.#EXTM3U
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_a_plus.png" group-title="FRANCE",A plus
 https://mmsiptv.com/live/aplus/playlist.m3u8
-#EXTINF:0,#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/africa-24-fr.png" group-title="FRANCE",AFRICA24
+#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/africa-24-fr.png" group-title="FRANCE",AFRICA24
 https://mmsiptv.com/live/africa24/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nollywood_tv_fr.png" group-title="FRANCE",NOLLYWOOD FR
 https://mmsiptv.com/live/nollywoodfr/playlist.m3u8
-#EXTINF:0,#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rts_sn_tv_1.png" group-title="SENEGAL",RTS1
-#EXTINF:0,https://mmsiptv.com/live/rts1/playlist.m3u8
-ext,BEIN SPORTS 1 UHD,http://bazarhd.online:80/307210113151/307210113151/80392
-ext,BEIN SPORTS 2 UHD,http://bazarhd.online:80/307210113151/307210113151/80391
-BeINSports.es,BEIN SPORTS HD,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
-ext,BEIN SPORTS HD ESPAÑOL,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
-ext,beIN SPORTS XTRA,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0 type="stream" channelId="2156" group="FRANCE",BEIN SPORTS 1 UHD
+http://bazarhd.online:80/307210113151/307210113151/80392
+#EXTINF:0 type="stream" channelId="2156" group="FRANCE",BEIN SPORTS 2 UHD
+http://bazarhd.online:80/307210113151/307210113151/80391
+#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png",BEIN SPORTS HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
+#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png",BEIN SPORTS HD ESPAÑOL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
+#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png",beIN SPORTS XTRA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 ext,Being Human,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e78f4dd001977000787d7e3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=dd1d87dc-057f-11eb-a18c-0242ac110002&deviceId=5e78f4dd001977000787d7e3&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 #EXTINF:0 type="stream" channelId="-1" group="BEINSPORTS 1 HD
 http://bazarhd.online:80/307210113151/307210113151/80393
