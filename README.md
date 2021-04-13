@@ -5,7 +5,7 @@ https://mmsiptv.com/live/ortm/playlist.m3u8
 https://mmsiptv.com/live/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png", TM1 TV
 https://stream-03.dc3.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZfTwJNz_loOqpr039EUjix0)/dm/3/x7v072x/d/live-3.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/cc/cheriflatv-ml.png"CHERIFLA TV
+#EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/cc/cheriflatv-ml.png", CHERIFLA TV
 https://mmsiptv.com/live/rti2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDIxIDI6MzA6MTAgUE0maGFzaF92YWx1ZT1LZi9XTUU1TmNidWVNN1JEOS9BbmxnPT0mdmFsaWRtaW51dGVzPTE1MA==
 #EXTINF:0 type="stream" channelId="-1" group="GUINEA EQUATORIAL" logo="https://www.lyngsat-stream.com/logo/tv/tt/tvge_gq_internacional.png", TVGE
 https://rsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
@@ -18,18 +18,16 @@ https://mmsiptv.com/live/rti1/playlist.m3u8
 https://mmsiptv.com/live/rti2/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/rti-la-3-ci.png" group-title="COTE D IVOIRE",RTI3
 https://enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
-#EXTINF:0,#EXTM3U
-#EXTINF:-1tvg-logo="https://www.lyngsat.com/logo/tv/nn/notre-tv.png" group-title="COTE D'IVOIRE",NTV
+#EXTINF:0,#EXTINF:-1tvg-logo="https://www.lyngsat.com/logo/tv/nn/notre-tv.png" group-title="COTE D'IVOIRE",NTV
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv720p/playlist.m3u8
-EXTINF:-1 tvg="https://tvgelive.gq/images/icons/menu-divider.png" group-title="NIGER",TELESAHEL
+#EXTINF:-1 tvg="https://tvgelive.gq/images/icons/menu-divider.png" group-title="NIGER",TELESAHEL
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tele_sahel/hls_video/hdntl-_-ZXhwPTE2MTgzOTc1NTF+YWNsPSUyZmxpdmUlMmZyYW1kaXNrJTJmdGVsZV9zYWhlbCUyZmhsc192aWRlbyUyZip+aG1hYz0wZWM5ODNmYWJmZDQ1ZmM0NTAzZGM3M2QzMjliY2MyNDEwNzk4ZjVhNzBiMDA3NDQ2MmQwMjZjMzdlM2ZkNWVj/tele_sahel-avc1_1500000=4-mp4a_98400_qad=1.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo=" "group-title="ANGOLA",TV ZIMBO 
-https://player-api.new.livestream.com/accounts/29819666/events/9254936/broadcasts/219661154.secure.m3u8
+https://playback2.akamaized.net/streams/29819666_9254936_lsib8slqkx9wxo639n7_1/exp=1618400665~acl=%2f*~data=hdntl~hmac=75be96061cc03c938781aae07a14bae56486d601a8608f88ed994c74e4a4f358/media/29819666_9254936_lsib8slqkx9wxo639n7_1@2128000p.m3u8?dw=14400&ts=1618311600
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/qq/qtv_gm.png" group-title="GAMBIA",QTV
 https://player.qtv.gm/hls/live.stream.m3u8
-#EXTINF:0,#EXTM3U
-#EXTINF:-1 tvg-logo="https://fasotv.net/wp-content/plugins/sp-header-image-slider/images/controls.png" group-title="BURKINA FASO",FASO TV
-#EXTINF:0,https://playtv4kpro.com:5443/LiveApp/streams/163893638025530331068059.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-logo="https://fasotv.net/wp-content/plugins/sp-header-image-slider/images/controls.png" group-title="BURKINA FASO",FASO TV
+https://playtv4kpro.com:5443/LiveApp/streams/163893638025530331068059.m3u8
 #EXTINF:0 type="stream" channelId="3444" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/tt/trace_fr_africa.png", TRACE AFRICA
 https://mmsiptv.com/live/trace/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2001" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/aa/action_fr.png", ACTION
