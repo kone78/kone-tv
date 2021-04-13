@@ -9,9 +9,7 @@ https://stream-03.dc3.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZfTwJNz_loOqpr039E
 https://mmsiptv.com/live/rti2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDIxIDI6MzA6MTAgUE0maGFzaF92YWx1ZT1LZi9XTUU1TmNidWVNN1JEOS9BbmxnPT0mdmFsaWRtaW51dGVzPTE1MA==
 #EXTINF:0 type="stream" channelId="-1" group="GUINEA EQUATORIAL" logo="https://www.lyngsat-stream.com/logo/tv/tt/tvge_gq_internacional.png", TVGE
 https://rsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="GUINEA ECUATORIAL",TVGE
-http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="GUINEA ECUATORIAL",TVGE
+#EXTINF:0 type="stream" channelId="-1" group="GUINEA EQUATORIAL" logo="https://www.lyngsat-stream.com/logo/tv/tt/tvge_gq_internacional.png", TVGE
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rti_tv1_ci.png" group-title="COTE D IVOIRE",RTI1
 https://mmsiptv.com/live/rti1/playlist.m3u8
