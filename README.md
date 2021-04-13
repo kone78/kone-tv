@@ -25,7 +25,7 @@ https://mmsiptv.com/live/rtg/playlist.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/espace_tv/hls_video/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.lyngsat.com/logo/tv/kk/kalac-tv-gn.png", KALAC TV
 https://edge9.vedge.infomaniak.com/livecast/ik:kalactv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="BURKINA FASO" logo="https://images.app.goo.gl/PnjDmKyTiFJ5kLfd7", FASO TV
+#EXTINF:0 type="stream" channelId="-1" group="BURKINA FASO" logo="https://fasotv.net/logo/%E2%80%98https://fasotv.net/wp-content/uploads/2019/05/logo.png%E2%80%98", FASO TV
 https://playtv4kpro.com:5443/LiveApp/streams/163893638025530331068059.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="BURKINA FASO" logo="https://www.lyngsat-logo.com/logo/tv/rr/rtb_bf.png", RTB
 https://mmsiptv.com/live/rtb/playlist.m3u8
