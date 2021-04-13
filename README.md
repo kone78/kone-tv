@@ -5,7 +5,7 @@ https://mmsiptv.com/live/ortm/playlist.m3u8
 https://mmsiptv.com/live/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png", TM1 TV
 https://stream-03.dc3.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZfTwJNz_loOqpr039EUjix0)/dm/3/x7v072x/d/live-3.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/tvchannels/ml/Cherifla-TV.html"CHERIFLA TV
+#EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/cc/cheriflatv-ml.png"CHERIFLA TV
 https://mmsiptv.com/live/rti2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDIxIDI6MzA6MTAgUE0maGFzaF92YWx1ZT1LZi9XTUU1TmNidWVNN1JEOS9BbmxnPT0mdmFsaWRtaW51dGVzPTE1MA==
 #EXTINF:0 type="stream" channelId="-1" group="GUINEA EQUATORIAL" logo="https://www.lyngsat-stream.com/logo/tv/tt/tvge_gq_internacional.png", TVGE
 https://rsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
@@ -15,10 +15,11 @@ http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rti_tv1_ci.png" group-title="COTE D IVOIRE",RTI1
 https://mmsiptv.com/live/rti1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rti_tv2_ci.png" group-title="COTE D IVOIRE",RTI2
-https://mmsiptv.com/live/rti2/play#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/rti-la-3-ci.png" group-title="COTE D IVOIRE",RTI3
+https://mmsiptv.com/live/rti2/playlist.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/rti-la-3-ci.png" group-title="COTE D IVOIRE",RTI3
 https://enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
 #EXTINF:0,#EXTM3U
-#EXTINF:-1tvg-logo="https://images.app.goo.gl/cMXckN66TaawkSfk6" group-title="COTE D'IVOIRE",NTV
+#EXTINF:-1tvg-logo="https://www.lyngsat.com/logo/tv/nn/notre-tv.png" group-title="COTE D'IVOIRE",NTV
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv720p/playlist.m3u8
 EXTINF:-1 tvg="https://tvgelive.gq/images/icons/menu-divider.png" group-title="NIGER",TELESAHEL
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tele_sahel/hls_video/hdntl-_-ZXhwPTE2MTgzOTc1NTF+YWNsPSUyZmxpdmUlMmZyYW1kaXNrJTJmdGVsZV9zYWhlbCUyZmhsc192aWRlbyUyZip+aG1hYz0wZWM5ODNmYWJmZDQ1ZmM0NTAzZGM3M2QzMjliY2MyNDEwNzk4ZjVhNzBiMDA3NDQ2MmQwMjZjMzdlM2ZkNWVj/tele_sahel-avc1_1500000=4-mp4a_98400_qad=1.m3u8
@@ -74,13 +75,13 @@ ext,France 24 (ESP),http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/m
 France24fr.fr,France 24 (FR),http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_2000.m3u8
 france24,France24,http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
 ext,Francophonie,http://5421175365ea3.streamlock.net/live/smil:switch.smil/chunklist_b5000000_t64MTA4MHA=.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://upload.wikimedia.org/wikipedia/fr/8/83/A%2B_tele_2014_logo.png", A+
+#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_a_plus.png", A+
 https://mmsiptv.com/live/aplus/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/rr/rts_sn_tv_1.png", RTS1
 https://mmsiptv.com/live/rts1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/rr/rts-2-sn.png", RTS2
 https://mmsiptv.com/live/rts2/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/ww/wal_fadjri_tv_sn.png", WALF TV
+#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/ww/walfadjritvsn.png", WALF TV
 https://mmsiptv.com/live/walftv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/nn/nollywood_tv_fr.png", NOLLYWOOD
 https://mmsiptv.com/live/nollywoodfr/playlist.m3u8
