@@ -509,7 +509,7 @@ ext,Albahrain international,http://185.105.4.106:1935/live/Bahrain%20Internation
 ext,Albahrain Quran,http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8?v=2992052339
 ext,Albahrain TV,http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8?v=3116400149
 ext,Albania : ALBUK TV HD,http://albuk.dyndns.tv:1935/albuk/albuk.stream/chunklist.m3u8
-ext,ALBANIA : RTK 3 HD,http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/chunklist.m3u8
+ext,ALBANIA : RTK 3 HD,http:stream2.rtkit.com:1935/rtk3stream/rtk3.stream/chunklist.m3u8
 ext,ALBANIA : RTK 4,http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/chunklist.m3u8
 ext,ALBDREAMS TV,http://live.albavision.net:1123/live/albdreams.m3u8
 ext,Alcarria TV,http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
