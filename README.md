@@ -25,7 +25,7 @@ https://mmsiptv.com/live/rtg/playlist.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/espace_tv/hls_video/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.lyngsat.com/logo/tv/kk/kalac-tv-gn.png", KALAC TV
 https://edge9.vedge.infomaniak.com/livecast/ik:kalactv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="BURKINA FASO" logo="https://fasotv.net/logo/%E2%80%98https://fasotv.net/wp-content/uploads/2019/05/logo.png%E2%80%98", FASO TV
+#EXTINF:0 type="stream" channelId="-1" group="BURKINA FASO" logo="https://fasotv.net/wp-content/uploads/2019/05/logo.png%E2%80%98", FASO TV
 https://playtv4kpro.com:5443/LiveApp/streams/163893638025530331068059.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="BURKINA FASO" logo="https://www.lyngsat-logo.com/logo/tv/rr/rtb_bf.png", RTB
 https://mmsiptv.com/live/rtb/playlist.m3u8
@@ -60,9 +60,9 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_2000.m3u8
 #EXTINF:0 type="stream" channelId="FRANCE 24" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24,France24
 http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
-#EXTINF:0 type="stream" channelId="EURONEWS FR" group="FRANCE"https://www.lyngsat.com/logo/tv/ee/euronews_fr.png" euronews FRENCH
+#EXTINF:0 type="stream" channelId="EURONEWS FR" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png" euronews FRENCH
 https://mmsiptv.com/live/euronewsfr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDIxIDU6NTg6MzMgUE0maGFzaF92YWx1ZT0yZ2VDY3djdW4rb2pBZGtORitHRXRnPT0mdmFsaWRtaW51dGVzPTE1MA==
-#EXTINF:0 type="stream" channelId="EURONEWS FR" group="FRANCE"https://www.lyngsat.com/logo/tv/ee/euronews_fr.png" euronews English
+#EXTINF:0 type="stream" channelId="EURONEWS FR" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png" euronews English
 https://www.dailymotion.com/cdn/live/video/x2j4h4m.m3u8?sec=TyqvKkKX0r8L7_0XeT9467j84pJvNcjbs1FE7BvvX2sGBI4PgpmjKOIBb5-M69-lAagL_lwIhePe5sfsO6ZwKw
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-5-monde-afrique-fr.png", TV5 MONDE AFRIQUE
 https://mmsiptv.com/live/tv5/playlist.m3u8
