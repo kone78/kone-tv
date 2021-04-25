@@ -2,7 +2,7 @@
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/oo/ortm-1-ml.png", ORTM 1
 https://mmsiptv.com/live/ortm/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/aa/africable_tv.png", AFRICABLE
-https://mmsiptv.com/live/africable/playlist.m3U8
+https://mmsiptv.com/live/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png",TM1
 https://stream-08.ix7.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zc1nIoltp0LrQYf7ekjLvUc)/dm/3/x7v072x/d/live-3.m3u8#cell=lcore&qos_vpart=1
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/cc/cheriflatv-ml.png", CHERIFLA TV
