@@ -215,7 +215,7 @@ https://mmsiptv.com/live/bein2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="FRANCE",BEIN SPORTS3
 https://mmsiptv.com/live/bein3/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="QATAR",BEIN SPORTS1 AR
-https://mmsiptv.com/live/bein1.stream/playlist.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="QATAR",BEIN SPORTS2 AR
 https://mmsiptv.com/live/bein2.stream/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="QATAR",BEIN SPORTS3 AR
