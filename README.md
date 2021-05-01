@@ -37,7 +37,7 @@ https://playtv4kpro.com:5443/LiveApp/streams/163893638025530331068059.m3u8
 https://mmsiptv.com/live/rts1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/rr/rts-2-sn.png", RTS2
 https://mmsiptv.com/live/rts2/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/ww/walfadjritv.sn.png", WALF TV
+#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ww/wal_fadjri_tv_sn.png", WALF TV
 https://mmsiptv.com/live/walftv/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/qq/qtv_gm.png" group-title="GAMBIA",QTV
 https://player.qtv.gm/hls/live.stream.m3u8
