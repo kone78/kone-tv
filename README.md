@@ -31,8 +31,6 @@ https://playtv4kpro.com:5443/LiveApp/streams/163893638025530331068059.m3u8
 https://mmsiptv.com/live/rtb/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="BURKINA FASO" logo="https://www.lyngsat.com/logo/tv/bb/bf1-bf.png", BF1
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index_4.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://fasotv.net/wp-content/plugins/sp-header-image-slider/images/controls.png" group-title="BURKINA FASO",FASO TV
-https://playtv4kpro.com:5443/LiveApp/streams/163893638025530331068059.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/rr/rts_sn_tv_1.png", RTS1
 https://mmsiptv.com/live/rts1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/rr/rts-2-sn.png", RTS2
