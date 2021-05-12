@@ -65,12 +65,20 @@ https://1600706787.rsc.cdn77.org/1600706787/index.m3u8
 https://5c46fa289c89f.streamlock.net/kc2/kc2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ANGOLA" logo="https://www.lyngsat.com/logo/tv/tt/tv-zimbo-ao.png",Zimbo tv
 https://player-api.new.livestream.com/accounts/29819666/events/9254936/broadcasts/221031300.secure.m3u8?dw=80&hdnea=st=1620847306~exp=1620849106~acl=/i/29819666_9254936_lsiaxz9afp9oufndx1r_1@446785/*~hmac=1ac8a7e114517c7046593d4a8c94a952c65f65b3d80a6821105ab05080ff0d94&token=609c2bf6_bdc0aea81c5da2610e5ec95551a45caeeca45aea
+#EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/cc/crtv_cameroon.png", CRTV
+https://mmsiptv.com/live/crtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/vv/voxafrica_afrique.png",VOX AFRICA
+https://mmsiptv.com/live/voxafrica/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat-stream.com/logo/tv/cc/canal2_international_cm.png",CANAL2
+https://www.dailymotion.com/cdn/live/video/x7v9nky.m3u8?sec=yAOGEgJreVX1XUQw9liB21EpZWwhDXXvaqUK56V_KgNh0fpY2WssWzn3WmlzXZsv-1d8OV3_A0VGQAm3DQ8Aog
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png", AFRIQUE MEDIA
 https://mmsiptv.com/live/afmedia/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_a_plus.png" group-title="FRANCE",A+
 https://mmsiptv.com/live/aplus/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/nn/novelas-tv-fr.png",Novelas tv 
 https://mmsiptv.com/live/novelas/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/nn/nollywood_tv_fr.png", NOLLYWOOD
+https://mmsiptv.com/live/nollywoodfr/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_sahel.png",TELESAHEL
 https://cdnamd-hls-globecast.akamaized.net:443/live/ramdisk/tele_sahel/hls_video/hdntl-_-ZXhwPTE2MjA5MjE4OTR+YWNsPSUyZmxpdmUlMmZyYW1kaXNrJTJmdGVsZV9zYWhlbCUyZmhsc192aWRlbyUyZip+aG1hYz1hODExZDg4NjM3MDZmYmM2MTYwNDU5MzE1ZDY1NWM2OWQyMGI1NTdkZDkzYzEyNmRhZTJkMmM2ZmE3MmZiYzE2/tele_sahel-avc1_600000=2-mp4a_98400_qad=1-begin=2007650654833667-dur=60000000-seq=33460845.ts
 #EXTINF:0 type="stream" channelId="2156" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24
@@ -82,6 +90,8 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_2000.m3u8
 #EXTINF:0 type="stream" channelId="FRANCE 24" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24,France24
 http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
+#EXTINF:0 type="stream" channelId="1519" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-tv-fr.png", BFM TV
+https://www.dailymotion.com/cdn/live/video/xgz4t1.m3u8?sec=cmnLCuUN-F0OEcwhuZb2BDSSCv_Mwvk8JepEd_MnIyQu8p1cYRUr65Hxtha-YvUXh7XIe3oV3Rn-EAMgWcgDkw
 #EXTINF:0 type="stream" channelId="EURONEWS FR" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png", euronews FRENCH
 https://mmsiptv.com/live/euronewsfr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDIxIDU6NTg6MzMgUE0maGFzaF92YWx1ZT0yZ2VDY3djdW4rb2pBZGtORitHRXRnPT0mdmFsaWRtaW51dGVzPTE1MA==
 #EXTINF:0 type="stream" channelId="EURONEWS FR" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png", euronews English
@@ -90,14 +100,18 @@ https://www.dailymotion.com/cdn/live/video/x2j4h4m.m3u8?sec=TyqvKkKX0r8L7_0XeT94
 https://mmsiptv.com/live/tv5/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/tt/tv-5-monde-fr.png", TV5 INFO
 https://live.easybroadcast.fr/hls/live/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1519" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-tv-fr.png", BFM TV
-https://www.dailymotion.com/cdn/live/video/xgz4t1.m3u8?sec=cmnLCuUN-F0OEcwhuZb2BDSSCv_Mwvk8JepEd_MnIyQu8p1cYRUr65Hxtha-YvUXh7XIe3oV3Rn-EAMgWcgDkw
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-5-monde-afrique-fr.png" group-title="france",TV5 AFRIQUE
 #EXTINF:0,https://mmsiptv.com/live/tv5/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/africa-24-fr.png" group-title="FRANCE",AFRICA24
 https://mmsiptv.com/live/africa24/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3444" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/tt/trace_fr_africa.png", TRACE AFRICA
 https://mmsiptv.com/live/trace/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/ODIWC6n.jpg" tvg-name="Infowars1" ... tvg-name="Francophonie.fr" tvg-language="French" tvg-id="Francophonie.fr",FrancophonieH
+http://5421175365ea3.streamlock.net/live/smil:switch.smil/chunklist_b5000000_t64MTA4MHA=.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/tt/tele_sud_fr.png", TELESUD
+https://mmsiptv.com/live/telesud/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://odotv.com.ng/uploads/watermark_logo.png", AFROBEAT ODO TV
+https://stream.ecable.tv/afrobeats/tracks-v3a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="2001" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/aa/action_fr.png", ACTION
 https://mmsiptv.com/live/action/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2156" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/rr/rtl9.png", RTL9
@@ -118,26 +132,10 @@ https://mmsiptv.com/live/france4/playlist.m3u8
 https://mmsiptv.com/live/france5/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1507" group="FRANCE" logo="https://es.m.wikipedia.org/wiki/Archivo:France_%C3%94_logo.png",FRANCE Ô
 https://mmsiptv.com/live/franceo/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/cc/crtv_cameroon.png", CRTV
-https://mmsiptv.com/live/crtv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/vv/voxafrica_afrique.png",VOX AFRICA
-https://mmsiptv.com/live/voxafrica/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat-stream.com/logo/tv/cc/canal2_international_cm.png",CANAL2
-https://www.dailymotion.com/cdn/live/video/x7v9nky.m3u8?sec=yAOGEgJreVX1XUQw9liB21EpZWwhDXXvaqUK56V_KgNh0fpY2WssWzn3WmlzXZsv-1d8OV3_A0VGQAm3DQ8Aog
 #EXTINF:0 type="stream" channelId="207" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us_hd.png", NATIONAL GEO HD
 https://mmsiptv.com/live/natgeo/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png", NATIONAL GEO WILD HD
 https://mmsiptv.com/live/natgeowild/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/ODIWC6n.jpg" tvg-name="Infowars1" ... tvg-name="Francophonie.fr" tvg-language="French" tvg-id="Francophonie.fr",FrancophonieH
-http://5421175365ea3.streamlock.net/live/smil:switch.smil/chunklist_b5000000_t64MTA4MHA=.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_a_plus.png", A+
-https://mmsiptv.com/live/aplus/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/nn/nollywood_tv_fr.png", NOLLYWOOD
-https://mmsiptv.com/live/nollywoodfr/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/tt/tele_sud_fr.png", TELESUD
-https://mmsiptv.com/live/telesud/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://odotv.com.ng/uploads/watermark_logo.png", AFROBEAT ODO TV
-https://stream.ecable.tv/afrobeats/tracks-v3a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24
@@ -152,13 +150,13 @@ https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24 English 
+#EXTINF:0 type="stream" channelId="-1" group="FRANCE", France 24 English 
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24 English (576p)
+#EXTINF:0 type="stream" channelId="-1" group="FRANCE", France 24 English (576p)
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24 French (576p)
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24 Spanish (576p)
+#EXTINF:0 type="stream" channelId="-1" group="FRANCE", France 24 Spanish (576p)
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo=https://www.lyngsat.com/logo/tv/rr/rt-france-ru-fr.png",RT FRANCE
 https://rt-france.secure.footprint.net/1107.m3u8
