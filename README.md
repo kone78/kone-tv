@@ -37,14 +37,20 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec
 https://mmsiptv.com/live/rts1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/rr/rts-2-sn.png", RTS2
 https://mmsiptv.com/live/rts2/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ww/wal_fadjri_tv_sn.png", WALF TV
+#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ww/wal_fadjri_tv_sn.png",WALF TV
 https://mmsiptv.com/live/walftv/playlist.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/qq/qtv_gm.png" group-title="GAMBIA",QTV
+#EXTINF:0 type="stream" channelId="-1" group="GAMBIA" logo="https://www.lyngsat-logo.com/logo/tv/qq/qtv_gm.png",QTV
 https://player.qtv.gm/hls/live.stream.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NIGERIA" logo="https://www.lyngsat.com/logo/tv/tt/tvc-ng.png"TVC
+https://tvce.gridpapaservers.com/TVCSEPT/smil:myStream.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TCHAD" logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Logo_T%C3%A9l%C3%A9_Tchad.png/172px-Logo_T%C3%A9l%C3%A9_Tchad.png", TELE TCHAD
 https://strhls.streamakaci.tv/str_tchad_tchad/str_tchad_multi/str_tchad_tchad/str_tchad_tchad_480p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="BÉNIN" logo="https://www.lyngsat.com/logo/tv/oo/ortb-tv-bj.png",ORTB
+https://mmsiptv.com/live/ortb/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GHANA" logo="https://www.lyngsat.com/logo/tv/aa/adom_tv_gh.png",ADOM
 https://mmsiptv.com/live/adom/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="GHANA" logo=https://www.lyngsat.com/logo/tv/hh/hsm-tv-gh.png" HSM tv
+https://82vod-adaptive.akamaized.net/exp=1621002340~acl=%2Fbf84640d-ac92-4a4f-84e8-699b68f5c121%2F%2A~hmac=5cd8296e15b1632a921d27200c5233e482d7fc6c7561870962d44f93c115cb3b/bf84640d-ac92-4a4f-84e8-699b68f5c121/sep/video/144a1479,87b4cd7b,bafac26c/audio/296d216c,cbe96a3b/master.m3u8?query_string_ranges=1
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png", AFRIQUE MEDIA
 https://mmsiptv.com/live/afmedia/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_a_plus.png" group-title="FRANCE",A plus
@@ -96,6 +102,8 @@ https://mmsiptv.com/live/france4/playlist.m3u8
 https://mmsiptv.com/live/france5/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/cc/crtv_cameroon.png", CRTV
 https://mmsiptv.com/live/crtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat-stream.com/logo/tv/cc/canal2_international_cm.png",CANAL2
+https://www.dailymotion.com/cdn/live/video/x7v9nky.m3u8?sec=yAOGEgJreVX1XUQw9liB21EpZWwhDXXvaqUK56V_KgNh0fpY2WssWzn3WmlzXZsv-1d8OV3_A0VGQAm3DQ8Aog
 #EXTINF:0 type="stream" channelId="207" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us_hd.png", NATIONAL GEO HD
 https://mmsiptv.com/live/natgeo/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png", NATIONAL GEO WILD HD
@@ -112,14 +120,6 @@ https://mmsiptv.com/live/telesud/playlist.m3u8
 https://stream.ecable.tv/afrobeats/tracks-v3a1/mono.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_a_plus.png" group-title="FRANCE",A plus
 https://mmsiptv.com/live/aplus/playlist.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nollywood_tv_fr.png" group-title="FRANCE",NOLLYWOOD FR
-https://mmsiptv.com/live/nollywoodfr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/africa-24-fr.png" group-title="FRANCE",AFRICA24
-#EXTINF:0,https://mmsiptv.com/live/africa24/playlist.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nollywood_tv_fr.png" group-title="FRANCE",NOLLYWOOD FR
-https://mmsiptv.com/live/nollywoodfr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Logo_T%C3%A9l%C3%A9_Tchad.png/172px-Logo_T%C3%A9l%C3%A9_Tchad.png" group-title="TCHAD",TELE TCHAD
-https://strhls.streamakaci.tv/str_tchad_tchad/str_tchad_multi/str_tchad_tchad/str_tchad_tchad_480p/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24
