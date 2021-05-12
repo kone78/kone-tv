@@ -51,7 +51,7 @@ https://strhls.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 https://mmsiptv.com/live/ortb/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TOGO" logo="https://www.lyngsat.com/logo/tv/tt/tvt_tg.png",TVT
 https://mmsiptv.com/live/tvt/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CONGO" logo="https://www.lyngsat.com/logo/tv/tt/tele_congo_cg.png"Télé Congo
+#EXTINF:0 type="stream" channelId="-1" group="CONGO" logo="https://www.lyngsat.com/logo/tv/tt/tele_congo_cg.png",Télé Congo
 https://mmsiptv.com/live/telecongo/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RD CONGO" logo="https://www.lyngsat.com/logo/tv/rr/rtnc-cd.png",RTNC
 https://mmsiptv.com/live/rtnc/playlist.m3u8
@@ -67,8 +67,10 @@ https://5c46fa289c89f.streamlock.net/kc2/kc2/playlist.m3u8
 https://player-api.new.livestream.com/accounts/29819666/events/9254936/broadcasts/221031300.secure.m3u8?dw=80&hdnea=st=1620847306~exp=1620849106~acl=/i/29819666_9254936_lsiaxz9afp9oufndx1r_1@446785/*~hmac=1ac8a7e114517c7046593d4a8c94a952c65f65b3d80a6821105ab05080ff0d94&token=609c2bf6_bdc0aea81c5da2610e5ec95551a45caeeca45aea
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png", AFRIQUE MEDIA
 https://mmsiptv.com/live/afmedia/playlist.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_a_plus.png" group-title="FRANCE",A plus
+#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_a_plus.png" group-title="FRANCE",A+
 https://mmsiptv.com/live/aplus/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/nn/novelas-tv-fr.png",Novelas tv 
+https://mmsiptv.com/live/novelas/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_sahel.png",TELESAHEL
 https://cdnamd-hls-globecast.akamaized.net:443/live/ramdisk/tele_sahel/hls_video/hdntl-_-ZXhwPTE2MjA5MjE4OTR+YWNsPSUyZmxpdmUlMmZyYW1kaXNrJTJmdGVsZV9zYWhlbCUyZmhsc192aWRlbyUyZip+aG1hYz1hODExZDg4NjM3MDZmYmM2MTYwNDU5MzE1ZDY1NWM2OWQyMGI1NTdkZDkzYzEyNmRhZTJkMmM2ZmE3MmZiYzE2/tele_sahel-avc1_600000=2-mp4a_98400_qad=1-begin=2007650654833667-dur=60000000-seq=33460845.ts
 #EXTINF:0 type="stream" channelId="2156" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24
@@ -136,8 +138,6 @@ https://mmsiptv.com/live/nollywoodfr/playlist.m3u8
 https://mmsiptv.com/live/telesud/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://odotv.com.ng/uploads/watermark_logo.png", AFROBEAT ODO TV
 https://stream.ecable.tv/afrobeats/tracks-v3a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/nn/novelas-tv-fr.png",Novelas tv 
-https://mmsiptv.com/live/novelas/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24
