@@ -66,6 +66,8 @@ https://mmsiptv.com/live/euronewsfr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC
 https://www.dailymotion.com/cdn/live/video/x2j4h4m.m3u8?sec=TyqvKkKX0r8L7_0XeT9467j84pJvNcjbs1FE7BvvX2sGBI4PgpmjKOIBb5-M69-lAagL_lwIhePe5sfsO6ZwKw
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-5-monde-afrique-fr.png", TV5 MONDE AFRIQUE
 https://mmsiptv.com/live/tv5/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/tt/tv-5-monde-fr.png", TV5 INFO
+https://live.easybroadcast.fr/hls/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1519" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-tv-fr.png", BFM TV
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-5-monde-afrique-fr.png" group-title="france",TV5 AFRIQUE
