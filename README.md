@@ -66,16 +66,16 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_2000.m3u8
 #EXTINF:0 type="stream" channelId="FRANCE 24" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24,France24
 http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
-#EXTINF:0 type="stream" channelId="EURONEWS FR" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png" euronews FRENCH
+#EXTINF:0 type="stream" channelId="EURONEWS FR" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png", euronews FRENCH
 https://mmsiptv.com/live/euronewsfr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDIxIDU6NTg6MzMgUE0maGFzaF92YWx1ZT0yZ2VDY3djdW4rb2pBZGtORitHRXRnPT0mdmFsaWRtaW51dGVzPTE1MA==
-#EXTINF:0 type="stream" channelId="EURONEWS FR" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png" euronews English
+#EXTINF:0 type="stream" channelId="EURONEWS FR" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png", euronews English
 https://www.dailymotion.com/cdn/live/video/x2j4h4m.m3u8?sec=TyqvKkKX0r8L7_0XeT9467j84pJvNcjbs1FE7BvvX2sGBI4PgpmjKOIBb5-M69-lAagL_lwIhePe5sfsO6ZwKw
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-5-monde-afrique-fr.png", TV5 MONDE AFRIQUE
 https://mmsiptv.com/live/tv5/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/tt/tv-5-monde-fr.png", TV5 INFO
 https://live.easybroadcast.fr/hls/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1519" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-tv-fr.png", BFM TV
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
+https://www.dailymotion.com/cdn/live/video/xgz4t1.m3u8?sec=cmnLCuUN-F0OEcwhuZb2BDSSCv_Mwvk8JepEd_MnIyQu8p1cYRUr65Hxtha-YvUXh7XIe3oV3Rn-EAMgWcgDkw
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-5-monde-afrique-fr.png" group-title="france",TV5 AFRIQUE
 #EXTINF:0,https://mmsiptv.com/live/tv5/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/africa-24-fr.png" group-title="FRANCE",AFRICA24
@@ -195,8 +195,6 @@ http://stream.tvtap.live:8081/live/it-dazn7.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GHANA" logo="https://www.lyngsat.com/logo/tv/aa/adom_tv_gh.png", ADOM
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D1175797012507302&imgrefurl=https%3A%2F%2Fwww.facebook.com%2F187778414642505%2Fphotos%2F1175797012507302%2F&tbnid=Lzn9qwVkDeLbFM&vet=12ahUKEwiqmrPY9bzvAhUGNBoKHUqSBA8QMygDegQIARA0..i&docid=0MvhyOUKpylyIM&w=512&h=512&q=logo%20itv%20nigeria&ved=2ahUKEwiqmrPY9bzvAhUGNBoKHUqSBA8QMygDegQIARA0" group-title="NIGERIA",ITV
 https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CuUEiM7v7_VL1SGMkdwjaks96hf3ZXK-56XAc4V9a4YAs7i33GMjWSvp7MhnjSDyze0MOPKkswtMQQSYvvpFqKELAyGZ-0-8II_B0TSM_ebE8eWwehi_CNfjuDos18vObExqHFqWd82Fjix3bW8tEjHQHWcWEEELPFKzyDluoXi0_ohc_QgJYh77qjWt289tuip92BTLbL4bY8h9Sx-OrzlwbQID40pE_mpl5YN1qR47pkFWdJUH7xuc1tmFsMXbG8mmRqiu0tX_7CqFAVx_8MpG38IKIzrBQ_Ircj3TjURLE9vHvt2rcc0hg7FzGGLpoRpdDjjyGRgt4VyPpv7rjyaPFMYLYPeb3CNkevQ1Ma4RCRWfA7VA_28U5qHheFovvDSeJVmvsIBke8JgCUCUvkgDEadZeSerwwK3zkHFcvOMIV9lUhkNHDBxKvxYEIMulmTYgAYkz1NY5r8oqmcMGgUgPLJ2DPBV5gk_GnRTpsMbPdbPO-0SrXOIskMrJwG8STu5gpIXXzR5oS6LWfN_gMhoftZBDBSbPuGYwpXmq24_oOZVJvIRiiQ6FCzMHxCqRoOxNrlJPudbJt6ZQ2pm9zEj_LMa_wmFD8NDo8lsn6P3HUwzr8obz1Ez6MRECTUf38h2OMNLdaUW-OdzXe1YoR6fTKX6byi3RQOVQoYMd30EbqwRmZZAVhWihkO3np4F27L9cQcPVsZNrzK4sb2IQATc6iHsJOAMb0ZxFHII7QTHJgNjLrgpeSigi7RsUaTKqRrRdd_MTjARnT55IGwwoA3BOTQXlfClE89bh6k0jN8oUp2IvF-qvhIQ6XXXi40MMviVQrk5TMNedRoMXjQTAepnuVHREcYk.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal2_international_cm.png" group-title="CAMEROUN",C2
-https://mmsiptv.com/live/c2inter/playlist.m3u8
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_sud_fr.png" group-title="FRANCE",TELESUD 
 https://stream-12.dc3.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl741FyMsqnekCE501ZnVWeo)/dm/3/x7wrxqb/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="GHANA",ADOM
