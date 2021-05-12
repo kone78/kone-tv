@@ -37,20 +37,34 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec
 https://mmsiptv.com/live/rts1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/rr/rts-2-sn.png", RTS2
 https://mmsiptv.com/live/rts2/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ww/wal_fadjri_tv_sn.png",WALF TV
+#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ww/wal_fadjri_tv_sn.png", WALF TV
 https://mmsiptv.com/live/walftv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/tt/tfm_sn.png",TFM
+https://mmsiptv.com/live/tfm/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GAMBIA" logo="https://www.lyngsat-logo.com/logo/tv/qq/qtv_gm.png",QTV
 https://player.qtv.gm/hls/live.stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="NIGERIA" logo="https://www.lyngsat.com/logo/tv/tt/tvc-ng.png",TVC
 https://tvce.gridpapaservers.com/TVCSEPT/smil:myStream.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TCHAD" logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Logo_T%C3%A9l%C3%A9_Tchad.png/172px-Logo_T%C3%A9l%C3%A9_Tchad.png", TELE TCHAD
-https://strhls.streamakaci.tv/str_tchad_tchad/str_tchad_multi/str_tchad_tchad/str_tchad_tchad_480p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TCHAD" logo="https://fr.m.wikipedia.org/wiki/Fichier:Logo_T%C3%A9l%C3%A9_Tchad.png", TELE TCHAD
+https://strhls.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="BÉNIN" logo="https://www.lyngsat.com/logo/tv/oo/ortb-tv-bj.png",ORTB
 https://mmsiptv.com/live/ortb/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TOGO" logo="https://www.lyngsat.com/logo/tv/tt/tvt_tg.png",TVT
+https://mmsiptv.com/live/tvt/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CONGO" logo="https://www.lyngsat.com/logo/tv/tt/tele_congo_cg.png"Télé Congo
+https://mmsiptv.com/live/telecongo/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="RD CONGO" logo="https://www.lyngsat.com/logo/tv/rr/rtnc-cd.png",RTNC
+https://mmsiptv.com/live/rtnc/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GHANA" logo="https://www.lyngsat.com/logo/tv/aa/adom_tv_gh.png",ADOM
 https://mmsiptv.com/live/adom/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GHANA" logo=https://www.lyngsat.com/logo/tv/hh/hsm-tv-gh.png", HSM tv
 https://82vod-adaptive.akamaized.net/exp=1621002340~acl=%2Fbf84640d-ac92-4a4f-84e8-699b68f5c121%2F%2A~hmac=5cd8296e15b1632a921d27200c5233e482d7fc6c7561870962d44f93c115cb3b/bf84640d-ac92-4a4f-84e8-699b68f5c121/sep/video/144a1479,87b4cd7b,bafac26c/audio/296d216c,cbe96a3b/master.m3u8?query_string_ranges=1
+#EXTINF:0 type="stream" channelId="-1" group="RWANDA" logo="https://www.lyngsat.com/logo/tv/rr/ruanda_tv_rw.png",RTV
+https://1600706787.rsc.cdn77.org/1600706787/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="RWANDA" logo="https://www.lyngsat.com/logo/tv/kk/kc2-rw.png",kc2
+https://5c46fa289c89f.streamlock.net/kc2/kc2/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ANGOLA" logo="https://www.lyngsat.com/logo/tv/tt/tv-zimbo-ao.png",Zimbo tv
+https://player-api.new.livestream.com/accounts/29819666/events/9254936/broadcasts/221031300.secure.m3u8?dw=80&hdnea=st=1620847306~exp=1620849106~acl=/i/29819666_9254936_lsiaxz9afp9oufndx1r_1@446785/*~hmac=1ac8a7e114517c7046593d4a8c94a952c65f65b3d80a6821105ab05080ff0d94&token=609c2bf6_bdc0aea81c5da2610e5ec95551a45caeeca45aea
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png", AFRIQUE MEDIA
 https://mmsiptv.com/live/afmedia/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_a_plus.png" group-title="FRANCE",A plus
@@ -100,8 +114,12 @@ https://mmsiptv.com/live/france3/playlist.m3u8
 https://mmsiptv.com/live/france4/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1507" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france5-fr.png", FRANCE 5
 https://mmsiptv.com/live/france5/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1507" group="FRANCE" logo="https://es.m.wikipedia.org/wiki/Archivo:France_%C3%94_logo.png",FRANCE Ô
+https://mmsiptv.com/live/franceo/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/cc/crtv_cameroon.png", CRTV
 https://mmsiptv.com/live/crtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/vv/voxafrica_afrique.png",VOX AFRICA
+https://mmsiptv.com/live/voxafrica/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat-stream.com/logo/tv/cc/canal2_international_cm.png",CANAL2
 https://www.dailymotion.com/cdn/live/video/x7v9nky.m3u8?sec=yAOGEgJreVX1XUQw9liB21EpZWwhDXXvaqUK56V_KgNh0fpY2WssWzn3WmlzXZsv-1d8OV3_A0VGQAm3DQ8Aog
 #EXTINF:0 type="stream" channelId="207" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us_hd.png", NATIONAL GEO HD
@@ -118,8 +136,8 @@ https://mmsiptv.com/live/nollywoodfr/playlist.m3u8
 https://mmsiptv.com/live/telesud/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://odotv.com.ng/uploads/watermark_logo.png", AFROBEAT ODO TV
 https://stream.ecable.tv/afrobeats/tracks-v3a1/mono.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_a_plus.png" group-title="FRANCE",A plus
-https://mmsiptv.com/live/aplus/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/nn/novelas-tv-fr.png",Novelas tv 
+https://mmsiptv.com/live/novelas/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24
@@ -142,6 +160,8 @@ https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24 Spanish (576p)
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo=https://www.lyngsat.com/logo/tv/rr/rt-france-ru-fr.png",RT FRANCE
+https://rt-france.secure.footprint.net/1107.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/mm/movistar-laliga-es.png", MOVISTAR FÚTBOL
 http://stream.tvtap.live:8081/live/es-movistar-futbol.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png", BEIN LA LIGA
@@ -192,13 +212,10 @@ http://stream.tvtap.live:8081/live/it-dazn5.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/it-dazn6.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ITALY" logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-de.png", DAZN 7
 http://stream.tvtap.live:8081/live/it-dazn7.stream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="GHANA" logo="https://www.lyngsat.com/logo/tv/aa/adom_tv_gh.png", ADOM
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D1175797012507302&imgrefurl=https%3A%2F%2Fwww.facebook.com%2F187778414642505%2Fphotos%2F1175797012507302%2F&tbnid=Lzn9qwVkDeLbFM&vet=12ahUKEwiqmrPY9bzvAhUGNBoKHUqSBA8QMygDegQIARA0..i&docid=0MvhyOUKpylyIM&w=512&h=512&q=logo%20itv%20nigeria&ved=2ahUKEwiqmrPY9bzvAhUGNBoKHUqSBA8QMygDegQIARA0" group-title="NIGERIA",ITV
 https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CuUEiM7v7_VL1SGMkdwjaks96hf3ZXK-56XAc4V9a4YAs7i33GMjWSvp7MhnjSDyze0MOPKkswtMQQSYvvpFqKELAyGZ-0-8II_B0TSM_ebE8eWwehi_CNfjuDos18vObExqHFqWd82Fjix3bW8tEjHQHWcWEEELPFKzyDluoXi0_ohc_QgJYh77qjWt289tuip92BTLbL4bY8h9Sx-OrzlwbQID40pE_mpl5YN1qR47pkFWdJUH7xuc1tmFsMXbG8mmRqiu0tX_7CqFAVx_8MpG38IKIzrBQ_Ircj3TjURLE9vHvt2rcc0hg7FzGGLpoRpdDjjyGRgt4VyPpv7rjyaPFMYLYPeb3CNkevQ1Ma4RCRWfA7VA_28U5qHheFovvDSeJVmvsIBke8JgCUCUvkgDEadZeSerwwK3zkHFcvOMIV9lUhkNHDBxKvxYEIMulmTYgAYkz1NY5r8oqmcMGgUgPLJ2DPBV5gk_GnRTpsMbPdbPO-0SrXOIskMrJwG8STu5gpIXXzR5oS6LWfN_gMhoftZBDBSbPuGYwpXmq24_oOZVJvIRiiQ6FCzMHxCqRoOxNrlJPudbJt6ZQ2pm9zEj_LMa_wmFD8NDo8lsn6P3HUwzr8obz1Ez6MRECTUf38h2OMNLdaUW-OdzXe1YoR6fTKX6byi3RQOVQoYMd30EbqwRmZZAVhWihkO3np4F27L9cQcPVsZNrzK4sb2IQATc6iHsJOAMb0ZxFHII7QTHJgNjLrgpeSigi7RsUaTKqRrRdd_MTjARnT55IGwwoA3BOTQXlfClE89bh6k0jN8oUp2IvF-qvhIQ6XXXi40MMviVQrk5TMNedRoMXjQTAepnuVHREcYk.m3u8
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_sud_fr.png" group-title="FRANCE",TELESUD 
 https://stream-12.dc3.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl741FyMsqnekCE501ZnVWeo)/dm/3/x7wrxqb/s/live-3.m3u8
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="GHANA",ADOM
-https://mmsiptv.com/live/adom/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Antena_3_2017.svg/revision/latest?cb=20200307025520&path-prefix=es" group-title="SPAIN",ANTENA 3 HD  
 http://hls.webredirect.org/gR5t/mp_8495.php/https://directo.atresmedia.com/1617998463_c11c3fbb4b958ab43eefba403bc7ead6d571936e/antena3/master.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png" group-title="SPAIN",LA LIGA TV
@@ -207,7 +224,6 @@ http://stream.tvtap.live:8081/live/laligatvbar.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/es-movistar-futbol.stream/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png" group-title="SPAIN",BEIN LA LIGA 
 http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
-#EXTINF:0,#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="FRANCE",BEIN SPORTS1
 https://mmsiptv.com/live/bein1/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="FRANCE",BEIN SPORTS2
@@ -233,7 +249,6 @@ https://mmsiptv.com/live/bein7.stream/playlist.m3u8
 https://mmsiptv.com/live/bein8.stream/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="QATAR",BEIN SPORTS9 AR
 http://stream.tvtap.live:8081/live/bein9.stream/playlist.m3u8
-#EXTINF:0,#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-10-qa.png" group-title="QATAR",BEIN SPORTS10 AR
 https://mmsiptv.com/live/bein10.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2156" group="FRANCE",BEIN SPORTS 1 UHD
