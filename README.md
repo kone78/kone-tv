@@ -106,7 +106,7 @@ https://live.easybroadcast.fr/hls/live/playlist.m3u8
 https://mmsiptv.com/live/africa24/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3444" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/tt/trace_fr_africa.png", TRACE AFRICA
 https://mmsiptv.com/live/trace/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/ODIWC6n.jpg" tvg-name="Infowars1" ... tvg-name="Francophonie.fr" tvg-language="French" tvg-id="Francophonie.fr",FrancophonieH
+#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHMTQnU5MHc2Rbf_TZQBkVxTqpbdZKE4FJvQ&usqp=CAU",Francophonie tv
 http://5421175365ea3.streamlock.net/live/smil:switch.smil/chunklist_b5000000_t64MTA4MHA=.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/tt/tele_sud_fr.png", TELESUD
 https://mmsiptv.com/live/telesud/playlist.m3u8
