@@ -41,7 +41,7 @@ https://mmsiptv.com/live/rts2/playlist.m3u8
 https://mmsiptv.com/live/walftv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GAMBIA" logo="https://www.lyngsat-logo.com/logo/tv/qq/qtv_gm.png",QTV
 https://player.qtv.gm/hls/live.stream.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="NIGERIA" logo="https://www.lyngsat.com/logo/tv/tt/tvc-ng.png"TVC
+#EXTINF:0 type="stream" channelId="-1" group="NIGERIA" logo="https://www.lyngsat.com/logo/tv/tt/tvc-ng.png",TVC
 https://tvce.gridpapaservers.com/TVCSEPT/smil:myStream.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TCHAD" logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Logo_T%C3%A9l%C3%A9_Tchad.png/172px-Logo_T%C3%A9l%C3%A9_Tchad.png", TELE TCHAD
 https://strhls.streamakaci.tv/str_tchad_tchad/str_tchad_multi/str_tchad_tchad/str_tchad_tchad_480p/playlist.m3u8
@@ -49,7 +49,7 @@ https://strhls.streamakaci.tv/str_tchad_tchad/str_tchad_multi/str_tchad_tchad/st
 https://mmsiptv.com/live/ortb/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GHANA" logo="https://www.lyngsat.com/logo/tv/aa/adom_tv_gh.png",ADOM
 https://mmsiptv.com/live/adom/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="GHANA" logo=https://www.lyngsat.com/logo/tv/hh/hsm-tv-gh.png" HSM tv
+#EXTINF:0 type="stream" channelId="-1" group="GHANA" logo=https://www.lyngsat.com/logo/tv/hh/hsm-tv-gh.png", HSM tv
 https://82vod-adaptive.akamaized.net/exp=1621002340~acl=%2Fbf84640d-ac92-4a4f-84e8-699b68f5c121%2F%2A~hmac=5cd8296e15b1632a921d27200c5233e482d7fc6c7561870962d44f93c115cb3b/bf84640d-ac92-4a4f-84e8-699b68f5c121/sep/video/144a1479,87b4cd7b,bafac26c/audio/296d216c,cbe96a3b/master.m3u8?query_string_ranges=1
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png", AFRIQUE MEDIA
 https://mmsiptv.com/live/afmedia/playlist.m3u8
