@@ -23,6 +23,8 @@ https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv720p/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.lyngsat-logo.com/logo/tv/rr/rtg-gn.png", RTG GUINEE
 https://mmsiptv.com/live/rtg/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo=",https://www.lyngsat-logo.com/logo/tv/rr/rtg-gn.png",GUINEE tv1
+https://playtv4kpro.com:5443/LiveApp/streams/664825404798849938149128.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.lyngsat.com/logo/tv/ee/espace_tv_gn.png", ESPACE TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/espace_tv/hls_video/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.lyngsat.com/logo/tv/kk/kalac-tv-gn.png", KALAC TV
@@ -97,7 +99,7 @@ https://www.dailymotion.com/cdn/live/video/xgz4t1.m3u8?sec=cmnLCuUN-F0OEcwhuZb2B
 #EXTINF:0 type="stream" channelId="EURONEWS FR" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png", euronews FRENCH
 https://mmsiptv.com/live/euronewsfr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDIxIDU6NTg6MzMgUE0maGFzaF92YWx1ZT0yZ2VDY3djdW4rb2pBZGtORitHRXRnPT0mdmFsaWRtaW51dGVzPTE1MA==
 #EXTINF:0 type="stream" channelId="EURONEWS FR" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png", euronews English
-https://www.dailymotion.com/cdn/live/video/x2j4h4m.m3u8?sec=TyqvKkKX0r8L7_0XeT9467j84pJvNcjbs1FE7BvvX2sGBI4PgpmjKOIBb5-M69-lAagL_lwIhePe5sfsO6ZwKw
+https://www.dailymotion.com/cdn/live/video/x2j4h4m.m3u8?sec=TyqvKkKX0r8L7_0XeT9464SNh83GUcRkrW8vhI9y2xAd6Vn8ZsobaIHGw7jHqioU8BsIjXjP05P5IAe5VTAeww
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-5-monde-afrique-fr.png", TV5 MONDE AFRIQUE
 https://mmsiptv.com/live/tv5/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/tt/tv-5-monde-fr.png", TV5 INFO
