@@ -45,7 +45,7 @@ https://mmsiptv.com/live/tfm/playlist.m3u8
 https://player.qtv.gm/hls/live.stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="NIGERIA" logo="https://www.lyngsat.com/logo/tv/tt/tvc-ng.png",TVC
 https://tvce.gridpapaservers.com/TVCSEPT/smil:myStream.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TCHAD" logo="https://fr.m.wikipedia.org/wiki/Fichier:Logo_T%C3%A9l%C3%A9_Tchad.png", TELE TCHAD
+#EXTINF:0 type="stream" channelId="-1" group="TCHAD" logo="https://upload.wikimedia.org/wikipedia/fr/b/b6/Logo_T%C3%A9l%C3%A9_Tchad.png", TELE TCHAD
 https://strhls.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="BÉNIN" logo="https://www.lyngsat.com/logo/tv/oo/ortb-tv-bj.png",ORTB
 https://mmsiptv.com/live/ortb/playlist.m3u8
