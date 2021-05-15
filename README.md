@@ -4,7 +4,7 @@ https://mmsiptv.com/live/ortm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIw
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/aa/africable_tv.png", AFRICABLE
 https://mmsiptv.com/live/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png",TM1
-https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33edLZFe185FrbirIp_c5vE1PnywGtPv_vjUUZcRRcntVHbVxuyO0ITjP2GV5x9zpo3w
+https://stream-10.dc3.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZahX4wDTb3_LAym5g7lUsnY)/dm/3/x7v072x/d/stream-0-1621087979.ts
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/cc/cheriflatv-ml.png", CHERIFLA TV
 https://mmsiptv.com/live/rti2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDIxIDI6MzA6MTAgUE0maGFzaF92YWx1ZT1LZi9XTUU1TmNidWVNN1JEOS9BbmxnPT0mdmFsaWRtaW51dGVzPTE1MA==
 #EXTINF:0 type="stream" channelId="-1" group="GUINEA EQUATORIAL" logo="https://www.lyngsat-stream.com/logo/tv/tt/tvge_gq_internacional.png", TVGE
