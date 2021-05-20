@@ -87,6 +87,8 @@ https://mmsiptv.com/live/nollywoodfr/playlist.m3u8
 https://cdnamd-hls-globecast.akamaized.net:443/live/ramdisk/tele_sahel/hls_video/hdntl-_-ZXhwPTE2MjA5MjE4OTR+YWNsPSUyZmxpdmUlMmZyYW1kaXNrJTJmdGVsZV9zYWhlbCUyZmhsc192aWRlbyUyZip+aG1hYz1hODExZDg4NjM3MDZmYmM2MTYwNDU5MzE1ZDY1NWM2OWQyMGI1NTdkZDkzYzEyNmRhZTJkMmM2ZmE3MmZiYzE2/tele_sahel-avc1_600000=2-mp4a_98400_qad=1-begin=2007650654833667-dur=60000000-seq=33460845.ts
 #EXTINF:0 type="stream" channelId="2156" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24 French (576p)
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:0 type="stream" channelId="FRANCE 24" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France24 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:0 type="stream" channelId="FRANCE 24" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24 ES
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
@@ -158,8 +160,6 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE", France 24 English (576p)
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24 French (576p)
-https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE", France 24 Spanish (576p)
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo=https://www.lyngsat.com/logo/tv/rr/rt-france-ru-fr.png",RT FRANCE
