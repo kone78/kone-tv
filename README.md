@@ -85,10 +85,10 @@ https://mmsiptv.com/live/novelas/playlist.m3u8
 https://mmsiptv.com/live/nollywoodfr/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_sahel.png",TELESAHEL
 https://cdnamd-hls-globecast.akamaized.net:443/live/ramdisk/tele_sahel/hls_video/hdntl-_-ZXhwPTE2MjA5MjE4OTR+YWNsPSUyZmxpdmUlMmZyYW1kaXNrJTJmdGVsZV9zYWhlbCUyZmhsc192aWRlbyUyZip+aG1hYz1hODExZDg4NjM3MDZmYmM2MTYwNDU5MzE1ZDY1NWM2OWQyMGI1NTdkZDkzYzEyNmRhZTJkMmM2ZmE3MmZiYzE2/tele_sahel-avc1_600000=2-mp4a_98400_qad=1-begin=2007650654833667-dur=60000000-seq=33460845.ts
-#EXTINF:0 type="stream" channelId="2156" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24 French (576p)
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:0 type="stream" channelId="2156" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:0 type="stream" channelId="FRANCE 24" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France24 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:0 type="stream" channelId="FRANCE 24" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24 ES
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
@@ -99,9 +99,13 @@ http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
 #EXTINF:0 type="stream" channelId="1519" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-tv-fr.png", BFM TV
 https://www.dailymotion.com/cdn/live/video/xgz4t1.m3u8?sec=cmnLCuUN-F0OEcwhuZb2BDSSCv_Mwvk8JepEd_MnIyQu8p1cYRUr65Hxtha-YvUXh7XIe3oV3Rn-EAMgWcgDkw
 #EXTINF:0 type="stream" channelId="EURONEWS FR" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png", euronews FRENCH
-https://mmsiptv.com/live/euronewsfr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDIxIDU6NTg6MzMgUE0maGFzaF92YWx1ZT0yZ2VDY3djdW4rb2pBZGtORitHRXRnPT0mdmFsaWRtaW51dGVzPTE1MA==
+https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 type="stream" channelId="EURONEWS FR" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png", euronews España
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 type="stream" channelId="EURONEWS FR" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png", euronews English
-https://www.dailymotion.com/cdn/live/video/x2j4h4m.m3u8?sec=TyqvKkKX0r8L7_0XeT9464SNh83GUcRkrW8vhI9y2xAd6Vn8ZsobaIHGw7jHqioU8BsIjXjP05P5IAe5VTAeww
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="usa" logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png",CNN
+http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-5-monde-afrique-fr.png", TV5 MONDE AFRIQUE
 https://mmsiptv.com/live/tv5/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/tt/tv-5-monde-fr.png", TV5 INFO
