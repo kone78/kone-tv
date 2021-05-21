@@ -97,7 +97,9 @@ http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_2000.m3u8
 #EXTINF:0 type="stream" channelId="FRANCE 24" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24,France24
 http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
 #EXTINF:0 type="stream" channelId="1519" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-tv-fr.png", BFM TV
-https://www.dailymotion.com/cdn/live/video/xgz4t1.m3u8?sec=cmnLCuUN-F0OEcwhuZb2BDSSCv_Mwvk8JepEd_MnIyQu8p1cYRUr65Hxtha-YvUXh7XIe3oV3Rn-EAMgWcgDkw
+https://bfmtvalive1-a.akamaihd.net/2cc377e69b5f492e91de57728c82f907/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo=https://www.lyngsat.com/logo/tv/rr/rt-france-ru-fr.png",RT FRANCE
+https://rt-france.secure.footprint.net/1107.m3u8
 #EXTINF:0 type="stream" channelId="EURONEWS FR" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png", euronews FRENCH
 https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 type="stream" channelId="EURONEWS FR" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png", euronews España
@@ -166,8 +168,6 @@ https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE", France 24 Spanish (576p)
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo=https://www.lyngsat.com/logo/tv/rr/rt-france-ru-fr.png",RT FRANCE
-https://rt-france.secure.footprint.net/1107.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/mm/movistar-laliga-es.png", MOVISTAR FÚTBOL
 http://stream.tvtap.live:8081/live/es-movistar-futbol.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png", BEIN LA LIGA
