@@ -238,6 +238,250 @@ https://mmsiptv.com/live/bein1/playlist.m3u8
 https://mmsiptv.com/live/bein2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="FRANCE",BEIN SPORTS3
 https://mmsiptv.com/live/bein3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106968.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 1 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106969.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 2 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106970.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADiUM 3 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106971.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 4 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106972.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 5 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106973.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 6 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106974.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 7 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106975.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 8 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106976.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106977.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 1 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106978.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 2 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106979.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADiUM 3 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106980.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 4 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106981.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 5 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106982.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 6 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106983.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 7 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106984.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 8 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106985.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106986.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 1 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106987.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 2 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106988.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 3 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106989.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 4 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106990.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 5 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106991.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 6 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106992.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 7 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106993.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 8 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106994.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT HEVC
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106995.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 1 HEVC
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106996.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 2 HEVC
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106997.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADiUM 3 HEVC
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106998.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 4 HEVC
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106999.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 5 HEVC
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107000.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 6 HEVC
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107001.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 7 HEVC
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107002.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 8 HEVC
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107003.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",TeleFoot 4k
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107004.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",RMC SPORT NEWS
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107005.ts
+#EXTINF:0 tvg-id="RMCSportNews.fr" group-title="Sport",RMC SPORT NEWS  FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107006.ts
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="Sport",RMC SPORT 1 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107007.ts
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="Sport",RMC SPORT 1
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107008.ts
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="Sport",RMC SPORT 1 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107009.ts
+#EXTINF:0 tvg-id="RMCSport2.fr" group-title="Sport",RMC SPORT 2 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107010.ts
+#EXTINF:0 tvg-id="RMCSport2.fr" group-title="Sport",RMC SPORT 2
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107011.ts
+#EXTINF:0 tvg-id="RMCSport2.fr" group-title="Sport",RMC SPORT 2 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107012.ts
+#EXTINF:0 tvg-id="RMCSport3.fr" group-title="Sport",RMC SPORT 3 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107013.ts
+#EXTINF:0 tvg-id="RMCSport3.fr" group-title="Sport",RMC SPORT 3
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107014.ts
+#EXTINF:0 tvg-id="RMCSport3.fr" group-title="Sport",RMC SPORT 3 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107015.ts
+#EXTINF:0 tvg-id="RMCSport4.fr" group-title="Sport",RMC SPORT 4 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107016.ts
+#EXTINF:0 tvg-id="RMCSport4.fr" group-title="Sport",RMC SPORT 4
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107017.ts
+#EXTINF:0 tvg-id="RMCSport4.fr" group-title="Sport",RMC SPORT 4 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107018.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",RMC SPORT 5
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107019.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",RMC SPORT 6
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107020.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",RMC SPORT 7
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107021.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",RMC Sport Live 8 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107022.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",RMC Sport Live 9 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107023.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",RMC Sport Live 10 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107024.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",RMC Sport Live 11 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107025.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",RMC Sport Live 12 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107026.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",RMC Sport Live 14 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107027.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",RMC Sport Live 13 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107028.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",RMC Sport Live 15 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107029.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",RMC Sport Live 16 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107030.ts
+#EXTINF:0 tvg-id="RMCSportAccess1.fr" group-title="Sport",RMC SPORT ACCESS 1 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107031.ts
+#EXTINF:0 tvg-id="RMCSportAccess1.fr" group-title="Sport",RMC SPORT ACCESS 1
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107032.ts
+#EXTINF:0 tvg-id="RMCSportAccess2.fr" group-title="Sport",RMC SPORT ACCESS 2 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107033.ts
+#EXTINF:0 tvg-id="RMCSportAccess2.fr" group-title="Sport",RMC SPORT ACCESS 2
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107034.ts
+#EXTINF:0 tvg-id="RMCSportAccess3.fr" group-title="Sport",RMC SPORT ACCESS 3 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107035.ts
+#EXTINF:0 tvg-id="RMCSportAccess3.fr" group-title="Sport",RMC SPORT ACCESS 3
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107036.ts
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Sport",BEIN SPORTS 1 HD FR
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107037.ts
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",BEIN SPORTS 1 FULLHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107038.ts
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Sport",BEIN SPORTS 2 HD FR
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107039.ts
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Sport",BEIN SPORTS 2 FULLHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107040.ts
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="Sport",BEIN SPORTS 3 HD FR
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107041.ts
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Sport",BEIN SPORTS 3 FULLHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107042.ts
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="Sport",BEIN SPORT MAX 4
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107043.ts
+#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="Sport",BEIN SPORT MAX 5
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107044.ts
+#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="Sport",BEIN SPORT MAX 6
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107045.ts
+#EXTINF:0 tvg-id="BeInSportMax7.fr" group-title="Sport",BEIN SPORT MAX 7
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107046.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORT MAX 8
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107047.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORT MAX 9
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107048.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORT MAX 10
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107049.ts
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="Sport",SFR SPORT 1 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107050.ts
+#EXTINF:0 tvg-id="RMCSport2.fr" group-title="Sport",SFR SPORT 2 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107051.ts
+#EXTINF:0 tvg-id="RMCSport3.fr" group-title="Sport",SFR SPORT 3 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107052.ts
+#EXTINF:0 tvg-id="RMCSport4.fr" group-title="Sport",SFR SPORT 5
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107053.ts
+#EXTINF:0 tvg-id="CanalplusSports.pl" group-title="Sport",CANAL SPORT SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107054.ts
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="Sport",CANAL+ SPORT
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107055.ts
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="Sport",CANAL  SPORT FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107056.ts
+#EXTINF:0 tvg-id="Infosport.fr" group-title="Sport",INFOSPORT SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107057.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",VOO SPORT 1
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107058.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",VOO SPORT 2
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107059.ts
+#EXTINF:0 tvg-id="Golfplus.fr" group-title="Sport",GOLF +
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107060.ts
+#EXTINF:0 tvg-id="Golf.fr" group-title="Sport",GOLF + FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107061.ts
+#EXTINF:0 tvg-id="Golf.fr" group-title="Sport",GOLF CHANNEL SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107062.ts
+#EXTINF:0 tvg-id="GolfChannel.us" group-title="Sport",Golf Channel HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107063.ts
+#EXTINF:0 tvg-id="GolfChannel.us" group-title="Sport",GOLF CHANNEL FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107064.ts
+#EXTINF:0 tvg-id="esp" group-title="Sport",EUROSPORT 1 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107065.ts
+#EXTINF:0 tvg-id="esp" group-title="Sport",EUROSPORT 1
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107066.ts
+#EXTINF:0 tvg-id="esp-hd" group-title="Sport",EUROSPORT 1 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107067.ts
+#EXTINF:0 tvg-id="esp2" group-title="Sport",EUROSPORT 2 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107068.ts
+#EXTINF:0 tvg-id="esp2" group-title="Sport",EUROSPORT 2
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107069.ts
+#EXTINF:0 tvg-id="esp2-hd" group-title="Sport",EUROSPORT 2 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107070.ts
+#EXTINF:0 tvg-id="Infosport.fr" group-title="Sport",INFOSPORT+
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107071.ts
+#EXTINF:0 tvg-id="Infosport.fr" group-title="Sport",INFOSPORT FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107072.ts
+#EXTINF:0 tvg-id="EquipeTV.fr" group-title="Sport",L'EQUIPE 21 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107073.ts
+#EXTINF:0 tvg-id="EquipeTV.fr" group-title="Sport",L EQUIPE 21
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107074.ts
+#EXTINF:0 tvg-id="Equipe21.fr" group-title="Sport",L EQUIPE 21 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107075.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",MOTORSPORT FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107076.ts
+#EXTINF:0 tvg-id="extreme-sports" group-title="Sport",EXTREME SPORTS SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107077.ts
+#EXTINF:0 tvg-id="extreme-sports" group-title="Sport",EXTREME SPORTS FULLHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107078.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",FOOT  FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107079.ts
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="Sport",EQUIDIA LIVE SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107080.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",AUTOMOTO FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107081.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",MOTOR SPORT SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107082.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",AUTOMOTO LA CHAINE HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107083.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",MULTISPORTS 1 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107084.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",MULTISPORTS 2
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107085.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",MULTISPORTS 3
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107086.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",MULTISPORTS 4
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107087.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",MULTISPORTS 5
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107088.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",MULTISPORTS 6
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107089.ts
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="QATAR",BEIN SPORTS1 AR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="QATAR",BEIN SPORTS2 AR
@@ -247,7 +491,7 @@ https://mmsiptv.com/live/bein3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="QATAR",BEIN SPORTS4 AR
 https://mmsiptv.com/live/bein4.stream/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="QATAR",BEIN SPORTS5 AR
-https://mmsiptv.com/live/bein5.stream/playlist.m3u8
+https://mmsiptv.co5m/live/bein5.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="QATAR",BEIN SPORTS6 AR
 https://mmsiptv.com/live/bein6.stream/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="QATAR",BEIN SPORTS7 AR
