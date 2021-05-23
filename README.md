@@ -2,13 +2,14 @@
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/oo/ortm-1-ml.png", ORTM 1
 https://mmsiptv.com/live/ortm/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/oo/ortm-1-ml.png", ORTM 1
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/108433.ts
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/oo/ortm-2-ml.png",ORTM2
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108435.ts
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/aa/africable_tv.png", AFRICABLE
 https://mmsiptv.com/live/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/aa/africable_tv.png", AFRICABLE
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108438.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",MALI: M7 Mali
+#EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/mm/m7-tv-ml.png",MALI: M7 Mali
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108431.ts
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png",TM1
 https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33eR1-2lShWWjqHnaB_VzLvHX671rNXI4cDFOcsjurIdPZmd1ClIGJDJmCVmD7NHLiYg
@@ -81,8 +82,6 @@ http://ottin.me:8000/live/salam_000946/ImHfNpi5/108429.ts
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108430.ts
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",MALI: ORTB
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108432.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",MALI: ORTM
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108433.ts
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",MALI: RTB
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108434.ts
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",MALI: ORTM2
