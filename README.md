@@ -12,7 +12,7 @@ http://ottin.me:8000/live/salam_000946/ImHfNpi5/108438.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/mm/m7-tv-ml.png",MALI: M7 Mali
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108431.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png",TM1
-https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33eY27zKs0j0OThTH-E4_5d0mVTRqZQcUgZjbqxAM0W_zlftneSx-N2OzUJC0LIQwcNw
+https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33ec3d-tuidnLrSJpZR_tU-prwoQHp_DpNvvQg3V8AR5k2RSpPjgtXmuaU5-b1m5gBDg
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/cc/cheriflatv-ml.png", CHERIFLA TV
 https://mmsiptv.com/live/rti2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDIxIDI6MzA6MTAgUE0maGFzaF92YWx1ZT1LZi9XTUU1TmNidWVNN1JEOS9BbmxnPT0mdmFsaWRtaW51dGVzPTE1MA==
 #EXTINF:0 type="stream" channelId="-1" group="GUINEA EQUATORIAL" logo="https://www.lyngsat-stream.com/logo/tv/tt/tvge_gq_internacional.png", TVGE
