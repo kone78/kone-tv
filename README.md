@@ -30,7 +30,7 @@ https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CÔTE D'IVOIRE" logo="https://www.lyngsat.com/logo/tv/nn/notre-tv.png", NTV
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv720p/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.lyngsat-logo.com/logo/tv/rr/rtg-gn.png", RTG GUINEE
-https://mmsiptv.com/live/rtg/playlist.m3u8
+http://dcunilive38-lh.akamaihd.net/i/dclive_1@690091/index_150_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo=",https://www.lyngsat-logo.com/logo/tv/rr/rtg-gn.png",GUINEE tv1
 https://playtv4kpro.com:5443/LiveApp/streams/664825404798849938149128.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.lyngsat.com/logo/tv/ee/espace_tv_gn.png", ESPACE TV
