@@ -40,7 +40,7 @@ https://edge9.vedge.infomaniak.com/livecast/ik:kalactv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="BURKINA FASO" logo="https://fasotv.net/wp-content/uploads/2019/05/logo.png", FASO TV
 https://playtv4kpro.com:5443/LiveApp/streams/163893638025530331068059.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="BURKINA FASO" logo="https://www.lyngsat-logo.com/logo/tv/rr/rtb_bf.png", RTB
-https://mmsiptv.com/live/rtb/playlist.m3u8
+https://edge9.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8?spark=c0915158-df3e-4926-90f2-97a1745e3ab0&token=
 #EXTINF:0 type="stream" channelId="-1" group="BURKINA FASO" logo="https://www.lyngsat.com/logo/tv/bb/bf1-bf.png", BF1
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index_4.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="BURKINA FASO" logo="https://www.lyngsat.com/logo/tv/ii/impac_tv_bf.png", IMPACT TV
