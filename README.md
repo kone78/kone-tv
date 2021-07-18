@@ -705,7 +705,7 @@ https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE", France 24 Spanish (576p)
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/mm/movistar-laliga-es.png", MOVISTAR FÚTBOL
-http://stream.tvtap.live:8081/live/es-movistar-futbol.stream/playlist.m3u8
+http://iptvcanales.gq/canales/cable/659emi1n06e/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png", BEIN LA LIGA
 http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png", LA LIGA TV
