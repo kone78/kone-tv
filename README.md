@@ -46,9 +46,9 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec
 #EXTINF:0 type="stream" channelId="-1" group="BURKINA FASO" logo="https://www.lyngsat.com/logo/tv/ii/impac_tv_bf.png", IMPACT TV
 https://edge8.vedge.infomaniak.com/livecast/ik:impacttv_1/manifest.m3u8?spark=06014a1d-fabb-4835-aeb1-82b960fd3dd2&token=
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/rr/rts_sn_tv_1.png", RTS1
-https://live1.acangroup.org:1929/larts/rts1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDIxIDg6MzA6MjIgUE0maGFzaF92YWx1ZT1hVmg4WFNHL0ppTjVnblpOaEtKcTRnPT0mdmFsaWRtaW51dGVzPTEw
+https://stream.mmsiptv.com/droid/rts1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDIxIDk6Mjc6MjQgUE0maGFzaF92YWx1ZT1uVm4yRHRpR0FJOVc1TUlSY3U5bGVBPT0mdmFsaWRtaW51dGVzPTE1MA==
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/rr/rts-2-sn.png", RTS2
-https://live1.acangroup.org:1929/larts/rts2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDIxIDg6MDA6NTkgUE0maGFzaF92YWx1ZT1rS2FVd0dWMmx3UnJwYlcrSDFTRTdBPT0mdmFsaWRtaW51dGVzPTEw
+https://stream.mmsiptv.com/droid/rts2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDIxIDk6MjM6MDUgUE0maGFzaF92YWx1ZT1SODFuQldiUituYnpHL3dmYnhHdVFBPT0mdmFsaWRtaW51dGVzPTE1MA==
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ww/wal_fadjri_tv_sn.png", WALF TV
 https://mmsiptv.com/live/walftv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/tt/tfm_sn.png",TFM
