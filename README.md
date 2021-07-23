@@ -62,7 +62,7 @@ https://tvce.gridpapaservers.com/TVCSEPT/smil:myStream.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TCHAD" logo="https://upload.wikimedia.org/wikipedia/fr/b/b6/Logo_T%C3%A9l%C3%A9_Tchad.png", TELE TCHAD
 https://strhls.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="BÉNIN" logo="https://www.lyngsat.com/logo/tv/oo/ortb-tv-bj.png",ORTB
-https://mmsiptv.com/live/ortb/playlist.m3u8
+https://stream.mmsiptv.com/droid/ortb/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TOGO" logo="https://www.lyngsat.com/logo/tv/tt/tvt_tg.png",TVT
 https://mmsiptv.com/live/tvt/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CONGO" logo="https://www.lyngsat.com/logo/tv/tt/tele_congo_cg.png",Télé Congo
