@@ -71,509 +71,14 @@ https://mmsiptv.com/droid/telecongo/playlist.m3u8
 https://mmsiptv.com/droid/rtnc/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GHANA" logo="https://www.lyngsat.com/logo/tv/aa/adom_tv_gh.png",ADOM
 https://www.dailymotion.com/cdn/live/video/x7w71b8.m3u8?sec=AIgt0iq98dgGvoRjJzXUyIAyewvG04gfhI4tN-UJwwpRozxpxFoKEzSQz857UD25rijq_nRM2gS-nCA8PDoUug
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: AFRICA NEWS
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108437.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: Africanews (ferance)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108439.ts
-#EXTINF:0 type="stream" channelId="-1" group="",CAMEROUN: Afrique Média (cameroun)
+#EXTINF:0 type="stream" channelId="-1" group="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png",Afrique Média (cameroun)
 https://mmsiptv.com/droid/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: Afrique Media TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108441.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: BOOM TV(cameroun)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108442.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: CANAL2
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108443.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: CANAL2 MOVIES
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108444.ts
 #EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="https://www.lyngsat.com/logo/tv/cc/crtv_cameroon.png", CRTV
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108445.ts
 #EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="https://www.lyngsat.com/logo/tv/vv/voxafrica_afrique.png",Vox africa
 https://stream.mmsiptv.com/droid/voxafrica/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: CRTV NEWS
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108446.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: EQUINOXE CAMEROUN
-http://ottin.me:8000/live/salam_000946.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: France info
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108449.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: France24
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108450.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: ImpacTV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108451.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: LTM (cameroun)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108452.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: MY COMEDY
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108453.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: STV (cameroun)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108454.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: Suivez  SIKKA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108455.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: WES AFRICA TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108457.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA :  ACBN  (nijer)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108458.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA :  NTA NEWS
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108459.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA :  TV Continental Nigeria
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108460.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : AIT
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108461.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : AIT INTERNATINAL
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108462.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : Amen TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108463.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : ARSENALTV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108464.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : BET
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108465.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : Biafra Nigeria
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108466.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : Biafra TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108467.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : Bride TV Nigeria
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108468.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : Channels24 Nigeria
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108469.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : CHELSEA TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108470.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : Comedy Channel
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108471.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : DoveTV Nigeria
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108472.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : Dunamis TV Nigeria
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108473.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : EBONYLIFE TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108474.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : Ebru Africa
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108475.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : Eko4Show
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108476.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : EMCI TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108477.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : ET
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108478.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : Fashion TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108479.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : FuFu Kitchen
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108480.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : FusionPlus TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108481.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : GALAXY TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108482.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : God TV Africa
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108483.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : Hope Channel Africa
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108484.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : ITV Networks
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108485.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : KingsWord TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108486.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : KingswordInfoTV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108487.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : Liberation TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108488.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : LIGHT TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108489.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : Love world plus
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108490.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : LoveWorld PLUS
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108491.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : LoveWorld Sat TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108492.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : Metro TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108493.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : More Grace TV Nigeria
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108494.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : New Beginning Tv Network
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108495.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : nollywood MOVIE
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108496.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : Nollywood Movies channel
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108497.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : nolywood
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108498.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : NTA LIVE TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108499.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : NUSMILES TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108500.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : Once Spoken Network
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108501.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : QVC
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108502.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : QVC Plus
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108503.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : Rave TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108504.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : Salvation TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108505.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : Spydar Tv Network
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108506.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : TEMPO
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108507.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : TV Continental Nigeria
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108508.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : TV360
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108509.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : TVC Entertainment
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108510.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : VHTV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108511.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA : Western4U Tv Network
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108512.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA :AFRICAN ENTERTAIMENT TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108513.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA :FAM TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108514.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA :Gospel Channel (Nigeria)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108515.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CONGO : B-ONE
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108516.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CONGO : CANALCVV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108517.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CONGO : citytv
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108518.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CONGO : DRTV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108519.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CONGO : Ouest TV LOCAL
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108520.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CONGO : Ratelki Congo
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108521.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CONGO : RTNC
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108522.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CONGO : Tele 50
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108523.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CONGO : TELE congo
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108524.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CONGO : TOP TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108525.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CONGO : VOX TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108526.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA:  ALJAZEERA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108527.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: 3ABN Français
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108528.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: 3ABN International
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108529.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: 3ABN KIDS
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108530.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: adom tv
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108531.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: AFRICA TV 1 (ZA)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108532.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: AFRICA TV 2 (ZA)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108533.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: ARRYADIA TV (MA)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108534.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: BEN
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108535.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: Cine Plus Africa Ghana
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108536.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: CNBC AFRICA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108537.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: EL WATANIYA 1 (TN)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108538.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: ELIJAH TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108539.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: Emmanuel TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108540.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: Fresh TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108541.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: GBC24
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108542.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: GH ONE TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108543.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: Ghana Broadcasting Corporation
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108544.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: Ghana KessbenTV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108545.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: GISPORTSTV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108546.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: GNTV (GHANA)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108547.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: GTV  GHANA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108548.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: GTV 2 TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108549.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: GTV GOV  TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108550.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: GTV SPORTS
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108551.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: Hope Channel Africa
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108552.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: JOY NEWS  GHANA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108553.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: Joy News Ghana AF
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108554.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: OBICE TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108555.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: ogyaba (ghana)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108556.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: Resurrection Television
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108557.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: ROK TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108558.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: ROYAL TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108559.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: RTV (ghana)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108560.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: SNRT TV (MA)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108561.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: STUDIO1 TV (ghana)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108562.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: tv3 ghana
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108563.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA: Volta1 (ghana)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108564.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA:JOY PRIME GHANA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108565.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA:Music TV Plus
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108566.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA:Omegatv (713)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108567.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",GHANA:UTV G hana
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108568.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",TOGO: Nw INFO 1 Togo
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108569.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",TOGO: Nw INFO 2 Togo
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108570.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",TOGO: Nw magazine Togo
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108571.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",TOGO: Nw Muzik Togo
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108572.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",TOGO: TVT International TOGO
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108573.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",TOGO:newworldsport1
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108574.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",KENYA: Guinée Buzz
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108575.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",KENYA: K24
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108576.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",KENYA: Kajou TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108577.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",KENYA: Kass TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108578.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",KENYA: Kenya CitizenTV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108579.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",KENYA: Kicc tv
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108580.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",KENYA: KTN KENYA NEWS
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108581.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",KENYA: KTN LIVE KENYA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108582.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",KENYA: KTV (Sierra Leone)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108583.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",KENYA: KWANZA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108584.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",KENYA: Njata  Kenya
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108585.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",KENYA: NTV LIVE KENYA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108586.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",KENYA: Omytv -(GAHAN)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108587.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",|GAMBIA| GRTS
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108588.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",|GAMBIA| QTV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108589.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SUDAN AF: Africa International University tv
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108590.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SUDAN AF: Africa TV1
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108591.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SUDAN AF: Africa TV2
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108592.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SUDAN AF: Africa TV3
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108593.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SUDAN AF: AFRICA24
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108594.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SUDAN AF: Al Horreya tv
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108595.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SUDAN AF: ALKHARTOUM
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108596.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SUDAN AF: Blue Nile (Sudan)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108597.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SUDAN AF: south sudan tv
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108598.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SUDAN AF: Sudan TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108599.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SUDAN AF: Sudania 24 TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108600.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA:  KANA TV ETHIOPIA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108601.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: 7Sprits TV ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108602.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: Afrihealth ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108603.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: Amhara  ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108604.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: AMHARA TV ETHIOPIA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108605.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: Anointing TV  ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108606.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: Arara TV ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108607.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: ARTS  ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108608.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: Asham  ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108609.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: Bisrat  ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108610.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: Christ Army TV ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108611.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: CM TV ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108612.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: DW  ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108613.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: EBS
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108614.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: ElShaddai  ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108615.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: EOTC TV ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108616.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: ETV entertainment (EBC3)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108617.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: ETV LANGUAGE  (ebc2)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108618.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: ETV NEWS (EBC1)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108619.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: Evangelical TV ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108620.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: FAITH TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108621.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: Fana TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108622.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: IFA FAYINA  ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108623.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: Jesus TV ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108624.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: Jesus Wonderful TV ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108625.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: JTV Ethiopia
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108626.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: Kale Awadi TV ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108627.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: LTV ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108628.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: Mar-Cil TV ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108629.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: Meazer Semay ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108630.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: Moaa TV ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108631.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: Nahoo ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108632.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: OBS ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108633.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: ONN ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108634.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: OROMIA TV ETHIOPIA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108635.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: Presence TV ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108636.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: Southern  ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108637.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: Tigrai  ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108638.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: Walta TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108639.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA: Winners Way TV  ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108640.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",ETHIOPA:JTV  ETHIOPA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108641.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SOMAL:  SBC TV  SOMALI
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108642.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SOMAL: Galmudug Somali TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108643.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SOMAL: Jubbaland Somali
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108644.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SOMAL: Jubbaland TV (SOMALIA°
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108645.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SOMAL: Kalsan TV Somali AF
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108646.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SOMAL: Puntland TV (somalia)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108647.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SOMAL: RTN Somali TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108648.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SOMAL: Saab Somali TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108649.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SOMAL: So-Quran Hidayah Somali
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108650.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SOMAL: Somali Cable TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108651.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SOMAL: Somali Dayax TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108652.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SOMAL: SOMALI HCTV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108653.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SOMAL: Somali National TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108654.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SOMAL: Somalia PLTV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108655.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SOMAL: Somalia SLN TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108656.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SOMAL: Universal Somali TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108657.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SOMAL:TV Slovenija 3 (somalia)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108658.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",Mozambique:  TV Maná Maputo (Mozambique)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108659.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",Mozambique: TV Maná Maputo (mozanbi9)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108660.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",Mozambique: Tv Maná Moçambique
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108661.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",Mozambique: TVM1
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108662.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",Mozambique: TVM2
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108663.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",Eritrea: Eritrean Tv channel
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108664.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",AF: KTV (Sierra Leone)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108665.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",Hadi: Hadi TV1
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108666.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",Hadi: Hadi TV2
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108667.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",Hadi: Hadi TV3
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108668.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",Hadi: Hadi TV4
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108669.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",Hadi: Hadi TV5
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108670.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",Hadi: Hadi TV6
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108671.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",TRACE: TRACE AFRICA
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108672.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",TRACE: TRACE GOSPEL
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108673.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",TRACE: TRACE MISIKI
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108674.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",TRACE: Trace Naija
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108675.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",TRACE: TRACE TOPICAL
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108676.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",TRACE: Trace Urbaine
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108677.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",Bblack: Afro Music
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108678.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",Bblack: Bblack Africa
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108679.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",Bblack: Bblack Carrabean
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108680.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",Bblack: BBlack Classik
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108681.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",Bblack: DBMTV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108682.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",Bblack: Digital Black Music
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108683.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",Bblack: Hit TV Africa
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108684.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",LO BEINS PORTS 01 PREMIUM FHD
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/109005.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",LO BEINS PORTS 01 PREMIUM HD
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/109006.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",LO BEINS PORTS 01 PREMIUM SD
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/109007.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",LO BEINS PORTS 02 PREMIUM FHD
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/109008.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",LO BEINS PORTS 02 PREMIUM HD
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/109009.ts
-https://mmsiptv.com/live/adom/playlist.m3u8
+
+
 #EXTINF:0 type="stream" channelId="-1" group="GHANA" logo=https://www.lyngsat.com/logo/tv/hh/hsm-tv-gh.png", HSM tv
 https://82vod-adaptive.akamaized.net/exp=1621002340~acl=%2Fbf84640d-ac92-4a4f-84e8-699b68f5c121%2F%2A~hmac=5cd8296e15b1632a921d27200c5233e482d7fc6c7561870962d44f93c115cb3b/bf84640d-ac92-4a4f-84e8-699b68f5c121/sep/video/144a1479,87b4cd7b,bafac26c/audio/296d216c,cbe96a3b/master.m3u8?query_string_ranges=1
 #EXTINF:0 type="stream" channelId="-1" group="RWANDA" logo="https://www.lyngsat.com/logo/tv/rr/ruanda_tv_rw.png",RTV
@@ -624,45 +129,45 @@ https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="usa" logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png",CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-5-monde-afrique-fr.png", TV5 MONDE AFRIQUE
-https://mmsiptv.com/live/tv5/playlist.m3u8
+https://mmsiptv.com/droid/tv5/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/tt/tv-5-monde-fr.png", TV5 INFO
 https://live.easybroadcast.fr/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-5-monde-afrique-fr.png" group-title="france",TV5 AFRIQUE
-#EXTINF:0,https://mmsiptv.com/live/tv5/playlist.m3u8
+#EXTINF:0,https://mmsiptv.com/droid/tv5/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/africa-24-fr.png" group-title="FRANCE",AFRICA24
-https://mmsiptv.com/live/africa24/playlist.m3u8
+https://mmsiptv.com/droid/africa24/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3444" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/tt/trace_fr_africa.png", TRACE AFRICA
-https://mmsiptv.com/live/trace/playlist.m3u8
+https://mmsiptv.com/droid/trace/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHMTQnU5MHc2Rbf_TZQBkVxTqpbdZKE4FJvQ&usqp=CAU",Francophonie tv
 http://5421175365ea3.streamlock.net/live/smil:switch.smil/chunklist_b5000000_t64MTA4MHA=.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/tt/tele_sud_fr.png", TELESUD
-https://mmsiptv.com/live/telesud/playlist.m3u8
+https://mmsiptv.com/droid/telesud/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://odotv.com.ng/uploads/watermark_logo.png", AFROBEAT ODO TV
 https://stream.ecable.tv/afrobeats/tracks-v3a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="2001" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/aa/action_fr.png", ACTION
-https://mmsiptv.com/live/action/playlist.m3u8
+https://mmsiptv.com/droid/action/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2156" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/rr/rtl9.png", RTL9
 https://mmsiptv.com/live/rtl9/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2130" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ww/w9_suisse.png", W9
-https://mmsiptv.com/live/w9/playlist.m3u8
+https://mmsiptv.com/droid/w9/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2128" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/mm/m6_fr.png", M6
-https://mmsiptv.com/live/m6/playlist.m3u8
+https://mmsiptv.com/droid/m6/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2127" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/tt/tf1.png", TF1
-https://mmsiptv.com/live/tf1/playlist.m3u8
+https://mmsiptv.com/droid/tf1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1502" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france2-fr.png", FRANCE 2
-https://mmsiptv.com/live/france2/playlist.m3u8
+https://mmsiptv.com/droid/france2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1504" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france3-fr.png", FRANCE 3
-https://mmsiptv.com/live/france3/playlist.m3u8
+https://mmsiptv.com/droid/france3/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1506" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france4-fr.png", FRANCE 4
-https://mmsiptv.com/live/france4/playlist.m3u8
+https://mmsiptv.com/droi/france4/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1507" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france5-fr.png", FRANCE 5
-https://mmsiptv.com/live/france5/playlist.m3u8
+https://mmsiptv.com/droid/france5/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1507" group="FRANCE" logo="https://es.m.wikipedia.org/wiki/Archivo:France_%C3%94_logo.png",FRANCE Ô
-https://mmsiptv.com/live/franceo/playlist.m3u8
+https://mmsiptv.com/droid/franceo/playlist.m3u8
 #EXTINF:0 type="stream" channelId="207" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us_hd.png", NATIONAL GEO HD
-https://mmsiptv.com/live/natgeo/playlist.m3u8
+https://mmsiptv.com/droid/natgeo/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png", NATIONAL GEO WILD HD
-https://mmsiptv.com/live/natgeowild/playlist.m3u8
+https://mmsiptv.com/droid/natgeowild/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24
@@ -690,35 +195,35 @@ http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png", LA LIGA TV
 http://stream.tvtap.live:8081/live/laligatvbar.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png", BEIN SPORTS 1 HD
-https://mmsiptv.com/live/bein1/playlist.m3u8
+https://mmsiptv.com/droid/bein1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png", BEIN SPORTS 2 HD
-https://mmsiptv.com/live/bein2/playlist.m3u8
+https://mmsiptv.com/droid/bein2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png", BEIN SPORTS 3 HD
-https://mmsiptv.com/live/bein3/playlist.m3u8
+https://mmsiptv.com/droid/bein3/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport.png", CANAL+SPORT
-https://mmsiptv.com/live/cpsport/playlist.m3u8
+https://mmsiptv.com/droid/cpsport/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3388" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-1-fr.png", RMC SPORT 1
-https://mmsiptv.com/live/rmc1/playlist.m3u8
+https://mmsiptv.com/droid/rmc1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3387" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-2-fr.png", RMC  SPORT 2
-https://mmsiptv.com/live/rmc2/playlist.m3u8
+https://mmsiptv.com/droid/rmc2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3390" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-3-fr.png", RMC SPORT 3
-https://mmsiptv.com/live/rmc3/playlist.m3u8
+https://mmsiptv.com/droid/rmc3/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3391" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-4-fr.png", RMC  SPORT 4
 http://stream.tvtap.live:8081/live/fr-sfr4.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="82" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png", EUROSPORT 1
-https://mmsiptv.com/live/eurosport2/playlist.m3u8
+https://mmsiptv.com/droid/eurosport2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="83" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png", EUROSPORT 2
-https://mmsiptv.com/live/eurosport1/playlist.m3u8
+https://mmsiptv.com/droid/eurosport1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1345" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_clair.png", CANAL+
-https://mmsiptv.com/live/cplus/playlist.m3u8
+https://mmsiptv.com/droid/cplus/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="UK" logo="hhttps://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png", SKY SPORT PREMIER
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SOUTH AFRICA" logo="https://i.goalzz.com/?i=amir_ganjvar%2fsportstv_amir%2fsuperafrica1.jpg", SUPER SPORT 1
-https://mmsiptv.com/live/sps1/playlist.m3u8
+https://mmsiptv.com/droid/sps1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SOUTH AFRICA" logo="https://i.goalzz.com/?i=amir_ganjvar%2fsportstv_amir%2fsuperafrica2.jpg", SUPER SUPORT 2
-https://mmsiptv.com/live/sps2/playlist.m3u8
+https://mmsiptv.com/droid/sps2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SOUTH AFRICA" logo="https://i.goalzz.com/?i=amir_ganjvar%2fsportstv_amir%2fsuperafrica3.jpg", SUPER SPORT 3
-https://mmsiptv.com/live/sps3/playlist.m3u8
+https://mmsiptv.com/droid/sps3/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ITALY" logo="https://www.lyngsat.com/logo/tv/dd/dazn-1-italia-uk-it.png", DAZN 1
 http://stream.tvtap.live:8081/live/it-dazn1.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ITALY" logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png", DAZN 2
@@ -746,11 +251,11 @@ http://stream.tvtap.live:8081/live/es-movistar-futbol.stream/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png" group-title="SPAIN",BEIN LA LIGA 
 http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="FRANCE",BEIN SPORTS1
-https://mmsiptv.com/live/bein1/playlist.m3u8
+https://mmsiptv.com/droid/bein1/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="FRANCE",BEIN SPORTS2
-https://mmsiptv.com/live/bein2/playlist.m3u8
+https://mmsiptv.com/droid/bein2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="FRANCE",BEIN SPORTS3
-https://mmsiptv.com/live/bein3/playlist.m3u8
+https://mmsiptv.com/droid/bein3/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT SD
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/106968.ts
 #EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 1 SD
