@@ -105,7 +105,7 @@ http://ottin.me:8000/live/salam_000946/ImHfNpi5/108453.ts
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108454.ts
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: Suivez  SIKKA
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108455.ts
-#EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo=" Vox africa
+#EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="https://www.lyngsat.com/logo/tv/vv/voxafrica_afrique.png",Vox afric
 https://stream.mmsiptv.com/droid/voxafrica/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: WES AFRICA TV
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108457.ts
