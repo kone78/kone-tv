@@ -70,7 +70,7 @@ https://mmsiptv.com/live/telecongo/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RD CONGO" logo="https://www.lyngsat.com/logo/tv/rr/rtnc-cd.png",RTNC
 https://mmsiptv.com/live/rtnc/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GHANA" logo="https://www.lyngsat.com/logo/tv/aa/adom_tv_gh.png",ADOM
-
+https://www.dailymotion.com/cdn/live/video/x7w71b8.m3u8?sec=AIgt0iq98dgGvoRjJzXUyIAyewvG04gfhI4tN-UJwwpRozxpxFoKEzSQz857UD25rijq_nRM2gS-nCA8PDoUug
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: AFRICA NEWS
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108437.ts
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: Africanews (ferance)
@@ -90,9 +90,7 @@ http://ottin.me:8000/live/salam_000946/ImHfNpi5/108445.ts
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: CRTV NEWS
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108446.ts
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: EQUINOXE CAMEROUN
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108447.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: Espace TV
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108448.ts
+http://ottin.me:8000/live/salam_000946.ts
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: France info
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108449.ts
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: France24
@@ -107,7 +105,7 @@ http://ottin.me:8000/live/salam_000946/ImHfNpi5/108453.ts
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108454.ts
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: Suivez  SIKKA
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108455.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: Vox africa
+#EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo=" Vox africa
 https://stream.mmsiptv.com/droid/voxafrica/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: WES AFRICA TV
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108457.ts
