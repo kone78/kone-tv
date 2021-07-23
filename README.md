@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/oo/ortm-1-ml.png", ORTM 1
-https://mmsiptv.com/live/ortm/playlist.m3u8
+https://stream.mmsiptv.com/droid/ortm/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/oo/ortm-1-ml.png", ORTM 1
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108433.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/oo/ortm-2-ml.png",ORTM2
