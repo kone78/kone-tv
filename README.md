@@ -53,7 +53,7 @@ https://stream.mmsiptv.com/droid/rts2/playlist.m3u8
 https://stream.mmsiptv.com/droid/sentv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/tt/tfm_sn.png",TFM
 https://stream.mmsiptv.com/droid/tfm/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="
+#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ss/sen-tv-sn.png",Sen TV
 https://stream.mmsiptv.com/droid/tfm/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GAMBIA" logo="https://www.lyngsat-logo.com/logo/tv/qq/qtv_gm.png",QTV
 https://player.qtv.gm:443/hls/live.stream.m3u8
