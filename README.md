@@ -72,7 +72,7 @@ https://mmsiptv.com/live/rtnc/playlist.m3u8
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108424.ts
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SENEGAL: TFM  Religions
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108425.ts
-#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="
+#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/tt/tfm_sn.png",2STV
 https://stream.mmsiptv.com/droid/2stv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",SENEGAL: Touba Monde Bi
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108426.ts
