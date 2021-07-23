@@ -64,19 +64,19 @@ https://strhls.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="BÉNIN" logo="https://www.lyngsat.com/logo/tv/oo/ortb-tv-bj.png",ORTB
 https://stream.mmsiptv.com/droid/ortb/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TOGO" logo="https://www.lyngsat.com/logo/tv/tt/tvt_tg.png",TVT
-https://mmsiptv.com/live/tvt/playlist.m3u8
+https://mmsiptv.com/droid/tvt/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CONGO" logo="https://www.lyngsat.com/logo/tv/tt/tele_congo_cg.png",Télé Congo
-https://mmsiptv.com/live/telecongo/playlist.m3u8
+https://mmsiptv.com/droid/telecongo/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RD CONGO" logo="https://www.lyngsat.com/logo/tv/rr/rtnc-cd.png",RTNC
-https://mmsiptv.com/live/rtnc/playlist.m3u8
+https://mmsiptv.com/droid/rtnc/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GHANA" logo="https://www.lyngsat.com/logo/tv/aa/adom_tv_gh.png",ADOM
 https://www.dailymotion.com/cdn/live/video/x7w71b8.m3u8?sec=AIgt0iq98dgGvoRjJzXUyIAyewvG04gfhI4tN-UJwwpRozxpxFoKEzSQz857UD25rijq_nRM2gS-nCA8PDoUug
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: AFRICA NEWS
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108437.ts
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: Africanews (ferance)
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108439.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: Afrique Média (cameroun)
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108440.ts
+#EXTINF:0 type="stream" channelId="-1" group="",CAMEROUN: Afrique Média (cameroun)
+https://mmsiptv.com/droid/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: Afrique Media TV
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108441.ts
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: BOOM TV(cameroun)
@@ -85,8 +85,10 @@ http://ottin.me:8000/live/salam_000946/ImHfNpi5/108442.ts
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108443.ts
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: CANAL2 MOVIES
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108444.ts
-#EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: CRTV
+#EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="https://www.lyngsat.com/logo/tv/cc/crtv_cameroon.png", CRTV
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108445.ts
+#EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="https://www.lyngsat.com/logo/tv/vv/voxafrica_afrique.png",Vox africa
+https://stream.mmsiptv.com/droid/voxafrica/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: CRTV NEWS
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108446.ts
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: EQUINOXE CAMEROUN
@@ -105,8 +107,6 @@ http://ottin.me:8000/live/salam_000946/ImHfNpi5/108453.ts
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108454.ts
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: Suivez  SIKKA
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108455.ts
-#EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="https://www.lyngsat.com/logo/tv/vv/voxafrica_afrique.png",Vox afric
-https://stream.mmsiptv.com/droid/voxafrica/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",CAMEROUN: WES AFRICA TV
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108457.ts
 #EXTINF:0 tvg-id="ext" group-title="|AR| IRAQ",NIGERIA :  ACBN  (nijer)
@@ -1047,10 +1047,8 @@ https://mmsiptv.com/live/bein9.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-10-qa.png" group-title="QATAR",BEIN SPORTS10 AR
 https://mmsiptv.com/live/bein10.stream/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be
-#EXTINF:0,L'Équipe (576p)
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8
-#EXTINF:0,L'Équipe
-https://mmsiptv.com/live/equipe
+#EXTINF:0, #EXTINF:0 type="stream" channelId="-1" group="FRANCE",L'Équipe
+https://mmsiptv./doid/equipe
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",Afrobeats (AFR)
 https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",A2i Music
