@@ -70,7 +70,7 @@ https://mmsiptv.com/droid/telecongo/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RD CONGO" logo="https://www.lyngsat.com/logo/tv/rr/rtnc-cd.png",RTNC
 https://mmsiptv.com/droid/rtnc/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GHANA" logo="https://www.lyngsat.com/logo/tv/aa/adom_tv_gh.png",ADOM
-https://www.dailymotion.com/cdn/live/video/x7w71b8.m3u8?sec=AIgt0iq98dgGvoRjJzXUyIAyewvG04gfhI4tN-UJwwpRozxpxFoKEzSQz857UD25rijq_nRM2gS-nCA8PDoUug
+https://stream-05.ix7.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7qj7boMWaHEBXgebMxZmZI)/dm/3/x7w71b8/s/live-0.m3u8#cell=lcore
 #EXTINF:0 type="stream" channelId="-1" group="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png",Afrique Média (cameroun)
 https://mmsiptv.com/droid/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="https://www.lyngsat.com/logo/tv/cc/crtv_cameroon.png", CRTV
