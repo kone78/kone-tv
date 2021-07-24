@@ -55,6 +55,8 @@ https://stream.mmsiptv.com/droid/sentv/playlist.m3u8
 https://stream.mmsiptv.com/droid/tfm/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ss/sen-tv-sn.png",Sen TV
 https://stream.mmsiptv.com/droid/tfm/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="GAMBIA" logo="
+
 #EXTINF:0 type="stream" channelId="-1" group="GAMBIA" logo="https://www.lyngsat-logo.com/logo/tv/qq/qtv_gm.png",QTV
 https://player.qtv.gm:443/hls/live.stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="NIGERIA" logo="https://www.lyngsat.com/logo/tv/tt/tvc-ng.png",TVC
@@ -77,8 +79,6 @@ https://mmsiptv.com/droid/playlist.m3u8
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108445.ts
 #EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="https://www.lyngsat.com/logo/tv/vv/voxafrica_afrique.png",Vox africa
 https://stream.mmsiptv.com/droid/voxafrica/playlist.m3u8
-
-
 #EXTINF:0 type="stream" channelId="-1" group="GHANA" logo=https://www.lyngsat.com/logo/tv/hh/hsm-tv-gh.png", HSM tv
 https://82vod-adaptive.akamaized.net/exp=1621002340~acl=%2Fbf84640d-ac92-4a4f-84e8-699b68f5c121%2F%2A~hmac=5cd8296e15b1632a921d27200c5233e482d7fc6c7561870962d44f93c115cb3b/bf84640d-ac92-4a4f-84e8-699b68f5c121/sep/video/144a1479,87b4cd7b,bafac26c/audio/296d216c,cbe96a3b/master.m3u8?query_string_ranges=1
 #EXTINF:0 type="stream" channelId="-1" group="RWANDA" logo="https://www.lyngsat.com/logo/tv/rr/ruanda_tv_rw.png",RTV
@@ -96,13 +96,13 @@ https://mmsiptv.com/live/voxafrica/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat-stream.com/logo/tv/cc/canal2_international_cm.png",CANAL2
 https://www.dailymotion.com/cdn/live/video/x7v9nky.m3u8?sec=yAOGEgJreVX1XUQw9liB21EpZWwhDXXvaqUK56V_KgNh0fpY2WssWzn3WmlzXZsv-1d8OV3_A0VGQAm3DQ8Aog
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png", AFRIQUE MEDIA
-https://mmsiptv.com/live/afmedia/playlist.m3u8
+https://mmsiptv.com/droid/afmedia/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_a_plus.png" group-title="FRANCE",A+
-https://mmsiptv.com/live/aplus/playlist.m3u8
+https://mmsiptv.com/droid/aplus/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/nn/novelas-tv-fr.png",Novelas tv 
-https://mmsiptv.com/live/novelas/playlist.m3u8
+https://mmsiptv.com/droid/novelas/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/nn/nollywood_tv_fr.png", NOLLYWOOD
-https://mmsiptv.com/live/nollywoodfr/playlist.m3u8
+https://mmsiptv.com/droid/nollywoodfr/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_sahel.png",TELESAHEL
 https://cdnamd-hls-globecast.akamaized.net:443/live/ramdisk/tele_sahel/hls_video/hdntl-_-ZXhwPTE2MjA5MjE4OTR+YWNsPSUyZmxpdmUlMmZyYW1kaXNrJTJmdGVsZV9zYWhlbCUyZmhsc192aWRlbyUyZip+aG1hYz1hODExZDg4NjM3MDZmYmM2MTYwNDU5MzE1ZDY1NWM2OWQyMGI1NTdkZDkzYzEyNmRhZTJkMmM2ZmE3MmZiYzE2/tele_sahel-avc1_600000=2-mp4a_98400_qad=1-begin=2007650654833667-dur=60000000-seq=33460845.ts
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24 French (576p)
