@@ -104,7 +104,7 @@ https://mmsiptv.com/droid/novelas/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/nn/nollywood_tv_fr.png", NOLLYWOOD
 https://mmsiptv.com/droid/nollywoodfr/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_sahel.png",TELESAHEL
-https://cdnamd-hls-globecast.akamaized.net:443/live/ramdisk/tele_sahel/hls_video/hdntl-_-ZXhwPTE2MjA5MjE4OTR+YWNsPSUyZmxpdmUlMmZyYW1kaXNrJTJmdGVsZV9zYWhlbCUyZmhsc192aWRlbyUyZip+aG1hYz1hODExZDg4NjM3MDZmYmM2MTYwNDU5MzE1ZDY1NWM2OWQyMGI1NTdkZDkzYzEyNmRhZTJkMmM2ZmE3MmZiYzE2/tele_sahel-avc1_600000=2-mp4a_98400_qad=1-begin=2007650654833667-dur=60000000-seq=33460845.ts
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tele_sahel/hls_video/index.m3u8?hdnea=st=1627231947~exp=1627232157~acl=/*~hmac=bbc7e1188d5f44dc248f7392f4c5fbeaefda26022b0738ad4feabccf432ff395
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24 French (576p)
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:0 type="stream" channelId="2156" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24
