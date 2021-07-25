@@ -2,7 +2,7 @@
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/oo/ortm-1-ml.png", ORTM 1
 https://stream.mmsiptv.com/droid/ortm/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/oo/ortm-1-ml.png", ORTM 1
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108433.m3u8
+http://46.105.114.82/ortm.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/oo/ortm-2-ml.png",ORTM2
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108435.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/aa/africable_tv.png", AFRICABLE
