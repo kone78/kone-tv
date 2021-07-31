@@ -129,7 +129,7 @@ https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="usa" logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png",CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-5-monde-afrique-fr.png", TV5 MONDE AFRIQUE
-https://mmsiptv.com/droid/tv5/playlist.m3u8
+https://stream.mmsiptv.com/droid/tv5/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/tt/tv-5-monde-fr.png", TV5 INFO
 https://live.easybroadcast.fr/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-5-monde-afrique-fr.png" group-title="france",TV5 AFRIQUE
