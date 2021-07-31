@@ -79,7 +79,7 @@ https://mmsiptv.com/droid/playlist.m3u8
 https://stream-11.ix7.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql565wFtyR2E3riGWAJ51ArI4ik)/dm/3/x7o9p4a/s/live-0.m3u8#cell=lcore
 #EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="https://www.lyngsat.com/logo/tv/vv/voxafrica_afrique.png",Vox africa
 https://stream.mmsiptv.com/droid/voxafrica/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="
+#EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="https://www.lyngsat.com/logo/tv/cc/canal2_international_cm.png
 https://stream-04.ix7.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqlhQhOL1CKRKAXnQJPedmX4)/dm/3/x7uw6jc/d/live-0.m3u8#cell=lcore
 #EXTINF:0 type="stream" channelId="-1" group="GHANA" logo=https://www.lyngsat.com/logo/tv/hh/hsm-tv-gh.png", HSM tv
 https://82vod-adaptive.akamaized.net/exp=1621002340~acl=%2Fbf84640d-ac92-4a4f-84e8-699b68f5c121%2F%2A~hmac=5cd8296e15b1632a921d27200c5233e482d7fc6c7561870962d44f93c115cb3b/bf84640d-ac92-4a4f-84e8-699b68f5c121/sep/video/144a1479,87b4cd7b,bafac26c/audio/296d216c,cbe96a3b/master.m3u8?query_string_ranges=1
