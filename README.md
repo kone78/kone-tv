@@ -249,19 +249,21 @@ https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CuUEiM7v7_VL1SGMkdwjaks96hf
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_sud_fr.png" group-title="FRANCE",TELESUD 
 https://stream-12.dc3.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl741FyMsqnekCE501ZnVWeo)/dm/3/x7wrxqb/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Antena_3_2017.svg/revision/latest?cb=20200307025520&path-prefix=es" group-title="SPAIN",ANTENA 3 HD  
-http://hls.webredirect.org/gR5t/mp_8495.php/https://directo.atresmedia.com/1617998463_c11c3fbb4b958ab43eefba403bc7ead6d571936e/antena3/master.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png" group-title="SPAIN",LA LIGA TV
+http://hls.webredirect.org/gR5t/mp_8495.php/https://directo.atresmedia.com/1617998463_c11c3fbb4b958ab43eefba403bc7ead6d571936e/antena3/maste
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png" group-title="SPAIN",LA LIGA TV
 http://stream.tvtap.live:8081/live/laligatvbar.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar-laliga-es.png" group-title="SPAIN",MOVISTAR FUTBOL
 http://stream.tvtap.live:8081/live/es-movistar-futbol.stream/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png" group-title="SPAIN",BEIN LA LIGA 
 http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="
+http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="FRANCE",BEIN SPORTS1
-https://mmsiptv.com/droid/bein1/playlist.m3u8
+https://stream.mmsiptv.com/droid/bein1/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="FRANCE",BEIN SPORTS2
-https://mmsiptv.com/droid/bein2/playlist.m3u8
+https://stream.mmsiptv.com/droid/bein2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="FRANCE",BEIN SPORTS3
-https://mmsiptv.com/droid/bein3/playlist.m3u8
+https://stream.mmsiptv.com/droid/bein3/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT SD
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/106968.ts
 #EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 1 SD
