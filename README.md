@@ -52,7 +52,7 @@ https://stream.mmsiptv.com/droid/2stv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ww/wal_fadjri_tv_sn.png", WALF TV
 https://stream.mmsiptv.com/droid/sentv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/tt/tfm_sn.png",TFM
-https://stream.mmsiptv.com/droid/tfm/playlist.m3u8
+https://stream-02.dc3.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7ieNBhCeJq8OzrOJspaOkg)/dm/3/x7wcr45/s/live-0.m3u8#cell=lcore
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ss/sen-tv-sn.png",Sen TV
 https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/dd/dakar-tv-international-sn.png",DTV
