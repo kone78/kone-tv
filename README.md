@@ -139,37 +139,37 @@ https://live.easybroadcast.fr/hls/live/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/africa-24-fr.png" group-title="FRANCE",AFRICA24
 https://mmsiptv.com/droid/africa24/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3444" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/tt/trace_fr_africa.png", TRACE AFRICA
-https://mmsiptv.com/droid/trace/playlist.m3u8
+https://stream.mmsiptv.com/droid/trace/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHMTQnU5MHc2Rbf_TZQBkVxTqpbdZKE4FJvQ&usqp=CAU",Francophonie tv
 http://5421175365ea3.streamlock.net/live/smil:switch.smil/chunklist_b5000000_t64MTA4MHA=.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/tt/tele_sud_fr.png", TELESUD
-https://mmsiptv.com/droid/telesud/playlist.m3u8
+https://stream.mmsiptv.com/droid/telesud/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://odotv.com.ng/uploads/watermark_logo.png", AFROBEAT ODO TV
 https://stream.ecable.tv/afrobeats/tracks-v3a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="2001" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/aa/action_fr.png", ACTION
-https://mmsiptv.com/droid/action/playlist.m3u8
+https://stream.mmsiptv.com/droid/action/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2156" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/rr/rtl9.png", RTL9
-https://mmsiptv.com/live/rtl9/playlist.m3u8
+https://stream.mmsiptv.com/live/rtl9/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2130" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ww/w9_suisse.png", W9
-https://mmsiptv.com/droid/w9/playlist.m3u8
+https://stream.mmsiptv.com/droid/w9/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2128" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/mm/m6_fr.png", M6
-https://mmsiptv.com/droid/m6/playlist.m3u8
+https://stream.mmsiptv.com/droid/m6/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2127" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/tt/tf1.png", TF1
-https://mmsiptv.com/droid/tf1/playlist.m3u8
+https://stream.mmsiptv.com/droid/tf1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1502" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france2-fr.png", FRANCE 2
-https://mmsiptv.com/droid/france2/playlist.m3u8
+https://stream.mmsiptv.com/droid/france2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1504" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france3-fr.png", FRANCE 3
-https://mmsiptv.com/droid/france3/playlist.m3u8
+https://stream.mmsiptv.com/droid/france3/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1506" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france4-fr.png", FRANCE 4
-https://mmsiptv.com/droi/france4/playlist.m3u8
+https://stream.mmsiptv.com/droi/france4/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1507" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france5-fr.png", FRANCE 5
-https://mmsiptv.com/droid/france5/playlist.m3u8
+https://stream.mmsiptv.com/droid/france5/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1507" group="FRANCE" logo="https://es.m.wikipedia.org/wiki/Archivo:France_%C3%94_logo.png",FRANCE Ô
-https://mmsiptv.com/droid/franceo/playlist.m3u8
+https://stream.mmsiptv.com/droid/franceo/playlist.m3u8
 #EXTINF:0 type="stream" channelId="207" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us_hd.png", NATIONAL GEO HD
-https://mmsiptv.com/droid/natgeo/playlist.m3u8
+https://stream.mmsiptv.com/droid/natgeo/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png", NATIONAL GEO WILD HD
-https://mmsiptv.com/droid/natgeowild/playlist.m3u8
+https://stream.mmsiptv.com/droid/natgeowild/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24
@@ -197,35 +197,35 @@ http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png", LA LIGA TV
 http://stream.tvtap.live:8081/live/laligatvbar.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png", BEIN SPORTS 1 HD
-https://mmsiptv.com/droid/bein1/playlist.m3u8
+https://stream.mmsiptv.com/droid/bein1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png", BEIN SPORTS 2 HD
-https://mmsiptv.com/droid/bein2/playlist.m3u8
+https://stream.mmsiptv.com/droid/bein2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png", BEIN SPORTS 3 HD
-https://mmsiptv.com/droid/bein3/playlist.m3u8
+https://stream.mmsiptv.com/droid/bein3/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport.png", CANAL+SPORT
-https://mmsiptv.com/droid/cpsport/playlist.m3u8
+https://stream.mmsiptv.com/droid/cpsport/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3388" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-1-fr.png", RMC SPORT 1
-https://mmsiptv.com/droid/rmc1/playlist.m3u8
+https://stream.mmsiptv.com/droid/rmc1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3387" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-2-fr.png", RMC  SPORT 2
-https://mmsiptv.com/droid/rmc2/playlist.m3u8
+https://stream.mmsiptv.com/droid/rmc2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3390" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-3-fr.png", RMC SPORT 3
-https://mmsiptv.com/droid/rmc3/playlist.m3u8
+https://stream.mmsiptv.com/droid/rmc3/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3391" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-4-fr.png", RMC  SPORT 4
 http://stream.tvtap.live:8081/live/fr-sfr4.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="82" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png", EUROSPORT 1
-https://mmsiptv.com/droid/eurosport2/playlist.m3u8
+https://stream.mmsiptv.com/droid/eurosport2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="83" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png", EUROSPORT 2
-https://mmsiptv.com/droid/eurosport1/playlist.m3u8
+https://stream.mmsiptv.com/droid/eurosport1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1345" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_clair.png", CANAL+
-https://mmsiptv.com/droid/cplus/playlist.m3u8
+https://stream.mmsiptv.com/droid/cplus/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="UK" logo="hhttps://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png", SKY SPORT PREMIER
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SOUTH AFRICA" logo="https://i.goalzz.com/?i=amir_ganjvar%2fsportstv_amir%2fsuperafrica1.jpg", SUPER SPORT 1
-https://mmsiptv.com/droid/sps1/playlist.m3u8
+https://stream.mmsiptv.com/droid/sps1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SOUTH AFRICA" logo="https://i.goalzz.com/?i=amir_ganjvar%2fsportstv_amir%2fsuperafrica2.jpg", SUPER SUPORT 2
-https://mmsiptv.com/droid/sps2/playlist.m3u8
+https://stream.mmsiptv.com/droid/sps2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SOUTH AFRICA" logo="https://i.goalzz.com/?i=amir_ganjvar%2fsportstv_amir%2fsuperafrica3.jpg", SUPER SPORT 3
-https://mmsiptv.com/droid/sps3/playlist.m3u8
+https://stream.mmsiptv.com/droid/sps3/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ITALY" logo="https://www.lyngsat.com/logo/tv/dd/dazn-1-italia-uk-it.png", DAZN 1
 http://stream.tvtap.live:8081/live/it-dazn1.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ITALY" logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png", DAZN 2
