@@ -167,9 +167,9 @@ https://stream.mmsiptv.com/droid/france5/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1507" group="FRANCE" logo="https://es.m.wikipedia.org/wiki/Archivo:France_%C3%94_logo.png",FRANCE Ô
 https://stream.mmsiptv.com/droid/franceo/playlist.m3u8
 #EXTINF:0 type="stream" channelId="207" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us_hd.png", NATIONAL GEO HD
-https://stream.mmsiptv.com/droid/natgeo/playlist.m3u8
+http://stream.tvtap.live:8081/live/fr-natgeo.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png", NATIONAL GEO WILD HD
-https://stream.mmsiptv.com/droid/natgeowild/playlist.m3u8
+http://stream.tvtap.live:8081/live/es-national-geographic.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24
@@ -273,8 +273,8 @@ https://stream.mmsiptv.com/droid/bein2/playlist.m3u8
 https://stream.mmsiptv.com/droid/bein3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png", National Geo wild
 http://stream.tvtap.live:8081/live/es-nat-geo-wild.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT SD
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/106968.ts
+#EXTINF:-1 tvg-logo="
+http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 1 SD
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/106969.ts
 #EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 2 SD
