@@ -273,7 +273,7 @@ https://stream.mmsiptv.com/droid/bein2/playlist.m3u8
 https://stream.mmsiptv.com/droid/bein3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png", National Geo wild
 http://stream.tvtap.live:8081/live/es-nat-geo-wild.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-football-it.png", Sky sports Football
 http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT STADIUM 1 SD
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/106969.ts
@@ -520,18 +520,17 @@ http://ottin.me:8000/live/salam_000946/ImHfNpi5/107089.ts
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="QATAR",BEIN SPORTS1 AR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="QATAR",BEIN SPORTS2 AR
-https://mmsiptv.com/live/bein2.stream/playlist.m3u8
+https://stream.mmsiptv.com/droid/bein2.stream/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="QATAR",BEIN SPORTS3 AR
-https://mmsiptv.com/live/bein3.stream/playlist.m3u8
+https://stream.mmsiptv.com/droid/bein3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="QATAR",BEIN SPORTS4 AR
-https://mmsiptv.com/live/bein4.stream/playlist.m3u8
+https://stream.mmsiptv.com/droid/bein4.stream/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="QATAR",BEIN SPORTS5 AR
 https://mmsiptv.co5m/live/bein5.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="QATAR",BEIN SPORTS6 AR
 https://mmsiptv.com/live/bein6.stream/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="QATAR",BEIN SPORTS7 AR
 https://mmsiptv.com/live/bein7.stream/playlist.m3u8
-#EXTINF:0,#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="QATAR",BEIN SPORTS8 AR
 https://mmsiptv.com/live/bein8.stream/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="QATAR",BEIN SPORTS9 AR
@@ -542,11 +541,11 @@ https://mmsiptv.com/live/bein10.stream/playlist.m3u8
 http://bazarhd.online:80/307210113151/307210113151/80392
 #EXTINF:0 type="stream" channelId="2156" group="FRANCE",BEIN SPORTS 2 UHD
 http://bazarhd.online:80/307210113151/307210113151/80391
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png",BEIN SPORTS HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png",BEIN SPORTS HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png",BEIN SPORTS HD ESPAÑOL
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png",BEIN SPORTS HD ESPAÑOL
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png",beIN SPORTS XTRA
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png",beIN SPORTS XTRA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 ext,Being Human,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e78f4dd001977000787d7e3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=dd1d87dc-057f-11eb-a18c-0242ac110002&deviceId=5e78f4dd001977000787d7e3&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 #EXTINF:0 type="stream" channelId="-1" group="BEINSPORTS 1 HD
@@ -557,20 +556,17 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 https://mmsiptv.com/live/bein5.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="QATAR",BEIN SPORTS6 AR
 https://mmsiptv.com/live/bein6.stream/playlist.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="QATAR",BEIN SPORTS7 AR
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="QATAR",BEIN SPORTS7 AR
 https://mmsiptv.com/live/bein7.stream/playlist.m3u8
-#EXTINF:0,#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="QATAR",BEIN SPORTS8 AR
 https://mmsiptv.com/live/bein8.stream/playlist.m3u8
-#EXTM3U
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="QATAR",BEIN SPORTS9 AR
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="QATAR",BEIN SPORTS9 AR
 https://mmsiptv.com/live/bein9.stream/playlist.m3u8
-#EXTINF:0,#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-10-qa.png" group-title="QATAR",BEIN SPORTS10 AR
 https://mmsiptv.com/live/bein10.stream/playlist.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be
-#EXTINF:0, #EXTINF:0 type="stream" channelId="-1" group="FRANCE",L'Équipe
-https://mmsiptv./doid/equipe
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be
+#EXTINF:0 type="stream" channelId="-1" group="FRANCE",L'Équipe
+https://stream.mmsiptv.com/doid/equipe/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",Afrobeats (AFR)
 https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",A2i Music
