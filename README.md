@@ -271,7 +271,7 @@ https://stream.mmsiptv.com/droid/bein1/playlist.m3u8
 https://stream.mmsiptv.com/droid/bein2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="FRANCE",BEIN SPORTS3
 https://stream.mmsiptv.com/droid/bein3/playlist.m3u8
-#EXTINF:-1 tvg-logo="
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png", National Geo wild
 http://stream.tvtap.live:8081/live/es-nat-geo-wild.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",TELEFOOT SD
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/106968.ts
