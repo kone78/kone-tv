@@ -16,7 +16,7 @@ https://stream-11.dc3.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZXagPVFoBh5LRk88pX
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/cc/cheriflatv-ml.png", CHERIFLA TV
 https://mmsiptv.com/live/rti2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDIxIDI6MzA6MTAgUE0maGFzaF92YWx1ZT1LZi9XTUU1TmNidWVNN1JEOS9BbmxnPT0mdmFsaWRtaW51dGVzPTE1MA==
 #EXTINF:0 type="stream" channelId="-1" group="GUINEA EQUATORIAL" logo="https://www.lyngsat-stream.com/logo/tv/tt/tvge_gq_internacional.png", TVGE
-https://rsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8?fluxustv.m3u8=
 #EXTINF:0 type="stream" channelId="-1" group="GUINEA EQUATORIAL" logo="https://www.lyngsat-stream.com/logo/tv/tt/tvge_gq_internacional.png", TVGE
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CÔTE D'IVOIRE" logo="https://www.lyngsat-logo.com/logo/tv/rr/rti_tv1_ci.png" group-title="COTE D IVOIRE",RTI1
