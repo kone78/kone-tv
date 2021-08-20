@@ -111,6 +111,10 @@ https://stream.mmsiptv.com/droid/novelas/playlist.m3u8
 https://stream.mmsiptv.com/droid/nollywoodfr/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_sahel.png",TELESAHEL
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tele_sahel/hls_video/index.m3u8?hdnea=st=1627231947~exp=1627232157~acl=/*~hmac=bbc7e1188d5f44dc248f7392f4c5fbeaefda26022b0738ad4feabccf432ff395
+#EXTINF:0 type="stream" channelId="-1" group-title="CONGO",AfricaNews Français
+https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="CONGO",AfricaNews English
+https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 type="stream" channelId="France24" group="FRANCE",France 24 French (576p)
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:0 type="stream" channelId="France24" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24
