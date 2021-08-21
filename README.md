@@ -280,3 +280,73 @@ https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",A2itv (1080p)
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Euronews en Español (720p)
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Euronews en Español (720p)
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Euronews en Español via Alchimie (720p)
+https://alchimie-euronews-3-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Euronews English (720p)
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Euronews English (360p)
+https://euronews-euronews-world-1.roku.wurl.com/manifest/b34060fcaf527710b244a3e16504edd0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Euronews English via Alchimie (720p)
+https://alchimie-euronews-4-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Euronews Français (720p)
+https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Euronews Italiano (720p)
+https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Euronews Italiano via Alchimie (720p)
+https://alchimie-euronews-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Euronews Português (720p)
+https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Euronews по-русски (480p)
+http://ott-cdn.ucom.am/s89/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Everyday Heroes (720p)
+https://a.jsrdn.com/broadcast/7b1451fa52/+0000/c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Exitosa TV (720p)
+https://cu.onliv3.com/livevd1/user2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Express News Pakistan (720p)
+https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Expressen TV (720p)
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/chunklist_b3628000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Expressen TV (720p)
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",External Ottera (Bumblebee) (720p)
+https://otteravision-tg.ottera.tv/live/master.m3u8?channel=tg_tg_us
+#EXTINF:0 tvg-id="ext" group-title="News",Extrema TV (720p)
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",EXTREMA TV (1080p)
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Extrema TV (720p)
+https://www.livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",EYE95 America [Not 24/7]
+https://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Ezo TV (576p) [Not 24/7]
+http://live.ezotv.pl:1935/live/EZOTV/playlist.m3u8
+#EXTINF:0 tvg-id="FDF.es" group-title="News",Factoría de Ficción (720p)
+http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",FOX 10 Phoenix AZ (KZAS) (720p)
+https://lnc-ksaz-fox-aws.tubi.video/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",FOX 11 Los Angeles CA (KTTV) (720p)
+https://lnc-kttv-fox-aws.tubi.video/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",FOX 2 Detroit MI (WJBK) (720p)
+https://lnc-wjbk-fox-aws.tubi.video/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",FOX 2 San Francisco CA (KTVU) (720p)
+https://lnc-ktvu-fox-aws.tubi.video/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",FOX 26 Houston TX (KRIV) (720p)
+https://lnc-kriv-fox-aws.tubi.video/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",FOX 4 Dallas / Fort Worth TX (KDFW) (720p)
+https://lnc-kdfw-fox-aws.tubi.video/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",FOX 5 Atlanta GA (WAGA-TV) (720p)
+https://lnc-waga-fox-aws.tubi.video/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",FOX 7 Austin TX (KTBC) (720p)
+https://lnc-ktbc-fox-aws.tubi.video/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",FOX 9 ST Paul Minneapolis MN (KMSP) (720p)
+https://lnc-kmsp-fox-aws.tubi.video/index.m3u8
+#EXTINF:0 tvg-id="FoxNews.it" group-title="News",FOX News (720p)
+https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",FOX News (美国) (720p)
+http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",FOX News Now (720p)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
