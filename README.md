@@ -280,3 +280,7 @@ https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",A2itv (1080p)
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Afrobeats (720p)
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Afrobeats (720p)
+https://stream.ecable.tv/afrobeats/index.m3u8
