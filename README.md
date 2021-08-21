@@ -144,7 +144,7 @@ https://stream.mmsiptv.com/droid/tv5/playlist.m3u8
 https://live.easybroadcast.fr/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-5-monde-afrique-fr.png" group-title="france",TV5 AFRIQUE
 #EXTINF:0,https://stream.mmsiptv.com/droid/tv5/playlist.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/africa-24-fr.png" group-title="FRANCE",AFRICA24
+#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/africa-24-fr.png" group-title="FRANCE",AFRICA 24
 https://stream.mmsiptv.com/droid/africa24/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3444" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/tt/trace_fr_africa.png", TRACE AFRICA
 https://stream.mmsiptv.com/droid/trace/playlist.m3u8
@@ -254,4 +254,10 @@ http://stream.tvtap.live:8081/live/eurosport1.stream/playlist.m3u8
 https://stream.mmsiptv.com/droid/cplus/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="UK" logo="hhttps://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png", SKY SPORT PREMIER
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Medi 1 TV Afrique (1080p)
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Medi 1 TV Arabic (1080p)
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Medi 1 TV Maghreb (1080p)
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/playlist.m3u8
 
