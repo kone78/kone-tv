@@ -198,6 +198,21 @@ https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE", France 24 Spanish (576p)
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+lnc-ktvu-fox-aws.tubi.video/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",FOX 26 Houston TX (KRIV) (720p)
+https://lnc-kriv-fox-aws.tubi.video/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",FOX 4 Dallas / Fort Worth TX (KDFW) (720p)
+https://lnc-kdfw-fox-aws.tubi.video/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",FOX 5 Atlanta GA (WAGA-TV) (720p)
+https://lnc-waga-fox-aws.tubi.video/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",FOX 7 Austin TX (KTBC) (720p)
+https://lnc-ktbc-fox-aws.tubi.video/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",FOX 9 ST Paul Minneapolis MN (KMSP) (720p)
+https://lnc-kmsp-fox-aws.tubi.video/index.m3u8
+#EXTINF:0 tvg-id="FoxNews.it" group-title="News",FOX News (720p)
+https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",FOX News (美国) (720p)
+http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/mm/movistar-laliga-es.png", MOVISTAR FÚTBOL
 http://stream.tvtap.live:8081/live/es-laligatvbar.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png",La liga 123
