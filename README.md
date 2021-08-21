@@ -270,3 +270,13 @@ https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 https://rt-france-gd.secure2.footprint.net/1107.m3u8
 #EXTINF:0 tvg-id="RussiaToday.uk" group-title="News",RT UK (720p)
 https://rt-uk-gd.secure2.footprint.net/1106.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",A2i Music (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",A2i Naja (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",A2i Religion (720p)
+https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",A2i TV (1080p)
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",A2itv (1080p)
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
