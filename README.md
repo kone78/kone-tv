@@ -260,4 +260,8 @@ https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8
 https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Medi 1 TV Maghreb (1080p)
 https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="PressTV.uk" group-title="News",Press TV English (720p)
+https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
+#EXTINF:0 tvg-id="PressTV.uk" group-title="News",Press TV French (720p)
+https://live1.presstv.ir/live/presstvfr/index.m3u8
 
