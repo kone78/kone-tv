@@ -115,7 +115,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tele_sahel/hls_video/ind
 https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="CONGO",AfricaNews English
 https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 type="stream" channelId="France24" group="FRANCE",France 24 French (576p)
+#EXTINF:0 type="stream" channelId="France24" group="FRANCE",France 24 French 
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:0 type="stream" channelId="France24" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
