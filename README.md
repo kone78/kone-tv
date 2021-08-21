@@ -264,4 +264,9 @@ https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/playlist.m3u8
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
 #EXTINF:0 tvg-id="PressTV.uk" group-title="News",Press TV French (720p)
 https://live1.presstv.ir/live/presstvfr/index.m3u8
-
+#EXTINF:0 tvg-id="RTEspanol.es" group-title="News",RT en Español (720p)
+https://rt-esp-gd.secure2.footprint.net/1102.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",RT France (720p)
+https://rt-france-gd.secure2.footprint.net/1107.m3u8
+#EXTINF:0 tvg-id="RussiaToday.uk" group-title="News",RT UK (720p)
+https://rt-uk-gd.secure2.footprint.net/1106.m3u8
