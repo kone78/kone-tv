@@ -35,7 +35,6 @@ https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv720p/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.lyngsat-logo.com/logo/tv/rr/rtg-gn.png", RTG GUINEE
 https://stream.mmsiptv.com/droid/rtg/playlist.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.guineetv1.com/images/logos/guineetv1-logo.png" , GUINEE tv1
 https://playtv4kpro.com:5443/LiveApp/streams/664825404798849938149128.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.lyngsat.com/logo/tv/ee/espace_tv_gn.png", ESPACE TV
@@ -57,7 +56,7 @@ https://stream.mmsiptv.com/droid/2stv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ww/wal_fadjri_tv_sn.png", WALF TV
 https://stream.mmsiptv.com/droid/sentv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/tt/tfm_sn.png",TFM
-https://stream-02.dc3.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7ieNBhCeJq8OzrOJspaOkg)/dm/3/x7wcr45/s/live-0.m3u8#cell=lcore
+https://stream-02.ix7.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl80WA4ybDmmbYOUdtJ-oC4o)/dm/3/x7wcr45/s/live-0.m3u8#cell=lcore
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ss/sen-tv-sn.png",Sen TV
 https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/dd/dakar-tv-international-sn.png",DTV
@@ -99,9 +98,11 @@ https://1600706787.rsc.cdn77.org/1600706787/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RWANDA" logo="https://www.lyngsat.com/logo/tv/kk/kc2-rw.png",kc2
 https://5c46fa289c89f.streamlock.net/kc2/kc2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ANGOLA" logo="https://www.lyngsat.com/logo/tv/tt/tpa1_ao.png",TPA1
-https://player-api.new.livestream.com/accounts/30360708/events/9496693/broadcasts/221079796.secure.m3u8?dw=80&hdnea=st=1620910183~exp=1620911983~acl=/i/30360708_9496693_lsi9vu7r6s5n51zdkbh_1@688391/*~hmac=52b1a8fb462f42ea79d9e60bf78d65b7f8e5582b153c3e0aabf45f1aeb709dc7&token=609d2193_6c51c89ee48dcf3cc0cc5f4e90ea3e04da0a6cd8
+https://player-api.new.livestream.com/accounts/30360708/events/9496693/broadcasts/225256862.secure.m3u8?dw=80&hdnea=st=1629623393~exp=1629625193~acl=/i/30360708_9496693_lsiypkhur0wig2n9ekw_1@446987/*~hmac=9d9f425b7269c7121b93fb973c79bdb2bb21381d808082eedf4cf81e991c33a7&token=6122158d_9841d210072b82341f0332f439ffdaf4a022bed1
 #EXTINF:0 type="stream" channelId="-1" group="ANGOLA" logo="https://www.lyngsat.com/logo/tv/tt/tv-zimbo-ao.png",Zimbo tv
-https://player-api.new.livestream.com/accounts/29819666/events/9254936/broadcasts/221031300.secure.m3u8?dw=80&hdnea=st=1620847306~exp=1620849106~acl=/i/29819666_9254936_lsiaxz9afp9oufndx1r_1@446785/*~hmac=1ac8a7e114517c7046593d4a8c94a952c65f65b3d80a6821105ab05080ff0d94&token=609c2bf6_bdc0aea81c5da2610e5ec95551a45caeeca45aea
+https://player-api.new.livestream.com/accounts/29819666/events/9254936/broadcasts/225262906.secure.m3u8?dw=80&hdnea=st=1629623593~exp=1629625393~acl=/i/29819666_9254936_lsiv3du99nys6mg91kz_1@447087/*~hmac=9160101fac810afc634baa2c83694745ba57483dc296ec1e3dc9197f523144e7&token=61221655_fc5f83b38ef086fbb256a5dd8f52962c49ba5435
+#EXTINF:0 type="stream" channelId="-1" group="PORTUGAL"logo="https://www.lyngsat.com/logo/tv/pp/porto_canal.png", Porto Canal
+https://stream-02.ix7.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl80WA4ybDmmbYOUdtJ-oC4o)/dm/3/x7wcr45/s/live-0.m3u8#cell=lcore
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/cc/crtv_cameroon.png", CRTV
 https://stream.mmsiptv.com/droid/crtv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/vv/voxafrica_afrique.png",VOX AFRICA
