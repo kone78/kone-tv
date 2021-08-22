@@ -194,7 +194,8 @@ https://stream.mmsiptv.com/droi/france4/playlist.m3u8
 https://stream.mmsiptv.com/droid/france5/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1507" group="FRANCE" logo="https://es.m.wikipedia.org/wiki/Archivo:France_%C3%94_logo.png",FRANCE Ô
 https://stream.mmsiptv.com/droid/franceo/playlist.m3u.com/logo/tv/nn/nat_geo_us_hd.png", NATIONAL GEO HD
-http://stream.tvtap.live:8081/live/fr-natgeo.stream/playlist.m3u8
+#EXTINF:0 type="stream" ChannelId="-1"group=FRANCE"logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us_hd.png", NATIONAL GEOGRAPHIC
+http://stream.tvtap.live:8081/droid/fr-natgeo.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png", NATIONAL GEO WILD HD
 http://stream.tvtap.live:8081/live/es-national-geographic.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="FRANCE 24" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24,France 24
