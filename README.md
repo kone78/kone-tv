@@ -356,3 +356,85 @@ https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Pluto TV Telenovelas (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Movies",Pluto TV Terror (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c6dc88fcd232425a6e0f06e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=76&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Movies",Pluto TV TV Land Drama (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d40bebc5e3d2750a2239d7e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=130&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Movies",Pluto TV TV Land Sitcoms (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c2d64ffbdf11b71587184b8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=455&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Movies",Pluto TV Westerns (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8df4bc16e34700077e77d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=526&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Movies",PopCornFlix Action (Bumblebee) (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+#EXTINF:0 tvg-id="RajDigitalPlus.in" group-title="Movies",Raj Digital Plus (404p)
+http://acv.asianetmobiletvplus.com/channels/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_hls/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rajeen TV (1080p)
+https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten Action (Denmark) (720p)
+https://rakuten-action-10-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten Action (Netherland) (720p)
+https://rakuten-action-8-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten Action (Norway) (720p)
+https://rakuten-action-11-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten Action (Sweden) (720p)
+https://rakuten-action-9-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten Action Movies 1 (720p)
+https://rakuten-actionmovies-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten Action Movies 2 (720p)
+https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten Action Movies 3 (720p)
+https://rakuten-actionmovies-3-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten Drama (Denmark) (720p)
+https://rakuten-drama-10-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten Drama (Finland) (720p)
+https://rakuten-drama-12-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten Drama (Netherlands) (720p)
+https://rakuten-drama-8-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten Drama (Norway) (720p)
+https://rakuten-drama-11-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten Drama (Sweden) (720p)
+https://rakuten-drama-9-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Action Movies Austria (720p)
+https://rakuten-actionmovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Action Movies France (720p)
+https://rakuten-actionmovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Action Movies Germany (720p)
+https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Action Movies Italy (720p)
+https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Action Movies Switzerland (720p)
+https://rakuten-actionmovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Action Movies UK (720p)
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Comedy Movies Austria (720p)
+https://rakuten-comedymovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Comedy Movies France (720p)
+https://rakuten-comedymovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Comedy Movies Germany (720p)
+https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Comedy Movies Italy (720p)
+https://rakuten-comedymovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Comedy Movies Switzerland (720p)
+https://rakuten-comedymovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Comedy Movies UK (720p)
+https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Drama Austria (720p)
+https://rakuten-tvshows-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Drama France (720p)
+https://rakuten-tvshows-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Drama Germany (720p)
+https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Drama Italy (720p)
+https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Drama Switzerland (720p)
+https://rakuten-tvshows-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Drama UK (720p)
+https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Family Movies France (720p)
+https://rakuten-family-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Family Movies Italy (720p)
+https://rakuten-family-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Family Movies UK (720p)
+https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
