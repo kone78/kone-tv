@@ -76,7 +76,9 @@ https://stream.mmsiptv.com/droid/ortb/playlist.m3u8
 https://stream.mmsiptv.com/droid/tvt/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CONGO" logo="https://www.lyngsat.com/logo/tv/tt/tele_congo_cg.png",Télé Congo
 https://stream.mmsiptv.com/droid/telecongo/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CONGO" logo="https://www.lyngsat.com/logo/tv/aa/africa_news_cg.png",africanews FR
+#EXTINF:0 type="stream" channelId="-1" group="CONGO" logo="https://www.lyngsat.com/logo/tv/aa/africa_news_cg.png", africanews FR
+https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Congo" log="https://www.lyngsat.com/logo/tv/aa/africa_news_cg.png" ,africanews fr
 https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RD CONGO" logo="https://www.lyngsat.com/logo/tv/rr/rtnc-cd.png",RTNC
 https://stream.mmsiptv.com/droid/rtnc/playlist.m3u8
@@ -96,8 +98,6 @@ https://82vod-adaptive.akamaized.net/exp=1621002340~acl=%2Fbf84640d-ac92-4a4f-84
 https://1600706787.rsc.cdn77.org/1600706787/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RWANDA" logo="https://www.lyngsat.com/logo/tv/kk/kc2-rw.png",kc2
 https://5c46fa289c89f.streamlock.net/kc2/kc2/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Congo" log="https://www.lyngsat.com/logo/tv/aa/africa_news_cg.png" ,africanews fr
-https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ANGOLA" logo="https://www.lyngsat.com/logo/tv/tt/tpa1_ao.png",TPA1
 https://player-api.new.livestream.com/accounts/30360708/events/9496693/broadcasts/221079796.secure.m3u8?dw=80&hdnea=st=1620910183~exp=1620911983~acl=/i/30360708_9496693_lsi9vu7r6s5n51zdkbh_1@688391/*~hmac=52b1a8fb462f42ea79d9e60bf78d65b7f8e5582b153c3e0aabf45f1aeb709dc7&token=609d2193_6c51c89ee48dcf3cc0cc5f4e90ea3e04da0a6cd8
 #EXTINF:0 type="stream" channelId="-1" group="ANGOLA" logo="https://www.lyngsat.com/logo/tv/tt/tv-zimbo-ao.png",Zimbo tv
