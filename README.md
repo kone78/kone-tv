@@ -114,7 +114,7 @@ https://player-api.new.livestream.com/accounts/30360708/events/9496693/broadcast
 #EXTINF:0 type="stream" channelId="-1" group="ANGOLA" logo="https://www.lyngsat.com/logo/tv/tt/tv-zimbo-ao.png",Zimbo tv
 https://player-api.new.livestream.com/accounts/29819666/events/9254936/broadcasts/225262906.secure.m3u8?dw=80&hdnea=st=1629623593~exp=1629625393~acl=/i/29819666_9254936_lsiv3du99nys6mg91kz_1@447087/*~hmac=9160101fac810afc634baa2c83694745ba57483dc296ec1e3dc9197f523144e7&token=61221655_fc5f83b38ef086fbb256a5dd8f52962c49ba5435
 #EXTINF:0 type="stream" channelId="-1" group="PORTUGAL"logo="https://www.lyngsat.com/logo/tv/pp/porto_canal.png", Porto Canal
-https://stream-02.ix7.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl80WA4ybDmmbYOUdtJ-oC4o)/dm/3/x7wcr45/s/live-0.m3u8#cell=lcore
+https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/cc/crtv_cameroon.png", CRTV
 https://stream.mmsiptv.com/droid/crtv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/vv/voxafrica_afrique.png",VOX AFRICA
