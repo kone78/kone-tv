@@ -25,6 +25,8 @@ https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
 https://stream.mmsiptv.com/droid/rti2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CÔTE D'IVOIRE" logo="https://www.lyngsat-stream.com/logo/tv/rr/rti-la-3-ci.png" group-title="COTE D IVOIRE",RTI3
 https://enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CÔTE D'IVOIRE" logo="https://www.lintelligent.tv/assets/images/logo/liatv-black.png",L'intelligent tv
+https://video1.getstreamhosting.com:1936/8210/8210/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CÔTE D'IVOIRE" logo=https://www.lyngsat.com/logo/tv/ll/la-nouvelle-chaine-ivorienne-ci.png",NCI
 https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CÔTE D'IVOIRE" logo="https://www.lyngsat.com/logo/tv/nn/notre-tv.png", NTV
@@ -59,6 +61,8 @@ https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
 https://live1.acangroup.org:1929/acanabr/dtv.stream_all/acanabr/dtv.stream_HD/chunks.m3u8?nimblesessionid=40527963&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIxIDQ6MDg6MjggUE0maGFzaF92YWx1ZT1JVVBoelhMM0VPaE5EN0l3QXNHR3BRPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:0 type="stream" channelId="-1" group="GAMBIA" logo="https://www.lyngsat-logo.com/logo/tv/qq/qtv_gm.png",QTV
 https://player.qtv.gm:443/hls/live.stream.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Africa" logo=https://afroculturetv.com/wp-content/uploads/2020/01/g.png", Afro culture tv
+https://stream-10.dc3.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZVP1hUJXfrgyD7XL3SvJLas)/dm/3/x7t09ft/s/live-0.m3u8#cell=lcore
 #EXTINF:0 type="stream" channelId="-1" group="NIGERIA" logo="https://www.lyngsat.com/logo/tv/tt/tvc-ng.png",TVC
 https://tvce.gridpapaservers.com/TVCSEPT/smil:myStream.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TCHAD" logo="https://upload.wikimedia.org/wikipedia/fr/b/b6/Logo_T%C3%A9l%C3%A9_Tchad.png", TELE TCHAD
