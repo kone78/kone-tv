@@ -61,8 +61,20 @@ https://stream-02.ix7.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl80WA4ybDmmbYOUdtJ
 https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/dd/dakar-tv-international-sn.png",DTV
 https://live1.acangroup.org:1929/acanabr/dtv.stream_all/acanabr/dtv.stream_HD/chunks.m3u8?nimblesessionid=40527963&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIxIDQ6MDg6MjggUE0maGFzaF92YWx1ZT1JVVBoelhMM0VPaE5EN0l3QXNHR3BRPT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:0 tvg-id="ext" group-title="Music",A2i Music (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",A2i Naja (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",A2i Religion (720p)
+https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",A2i TV (1080p)
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",A2itv (1080p)
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GAMBIA" logo="https://www.lyngsat-logo.com/logo/tv/qq/qtv_gm.png",QTV
 https://player.qtv.gm:443/hls/live.stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Medi 1 TV Afrique (1080p)
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Africa" logo=https://afroculturetv.com/wp-content/uploads/2020/01/g.png", Afro culture tv
 https://stream-10.dc3.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZVP1hUJXfrgyD7XL3SvJLas)/dm/3/x7t09ft/s/live-0.m3u8#cell=lcore
 #EXTINF:0 type="stream" channelId="-1" group="NIGERIA" logo="https://www.lyngsat.com/logo/tv/tt/tvc-ng.png",TVC
@@ -206,6 +218,38 @@ https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE", France 24 Spanish (576p)
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 lnc-ktvu-fox-aws.tubi.video/index.m3u8
+#EXTINF:0 type="stream" ChannelId="-1"group="France",Euronews en Español (720p)
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Euronews en Español (720p)
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Euronews en Español via Alchimie (720p)
+https://alchimie-euronews-3-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Euronews English (720p)
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Euronews English (360p)
+https://euronews-euronews-world-1.roku.wurl.com/manifest/b34060fcaf527710b244a3e16504edd0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Euronews English via Alchimie (720p)
+https://alchimie-euronews-4-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Euronews Français (720p)
+https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Euronews Italiano (720p)
+https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Euronews Italiano via Alchimie (720p)
+https://alchimie-euronews-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Euronews Português (720p)
+https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Euronews по-русски (480p)
+http://ott-cdn.ucom.am/s89/index.m3u8
+#EXTINF:0 tvg-id="PressTV.uk" group-title="News",Press TV English (720p)
+https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
+#EXTINF:0 tvg-id="PressTV.uk" group-title="News",Press TV French (720p)
+https://live1.presstv.ir/live/presstvfr/index.m3u8
+#EXTINF:0 tvg-id="RTEspanol.es" group-title="News",RT en Español (720p)
+https://rt-esp-gd.secure2.footprint.net/1102.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",RT France (720p)
+https://rt-france-gd.secure2.footprint.net/1107.m3u8
+#EXTINF:0 tvg-id="RussiaToday.uk" group-title="News",RT UK (720p)
+https://rt-uk-gd.secure2.footprint.net/1106.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",FOX 26 Houston TX (KRIV) (720p)
 https://lnc-kriv-fox-aws.tubi.video/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",FOX 4 Dallas / Fort Worth TX (KDFW) (720p)
@@ -261,54 +305,10 @@ http://stream.tvtap.live:8081/live/eurosport1.stream/playlist.m3u8
 https://stream.mmsiptv.com/droid/cplus/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="UK" logo="hhttps://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png", SKY SPORT PREMIER
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Medi 1 TV Afrique (1080p)
-https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Medi 1 TV Arabic (1080p)
 https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Medi 1 TV Maghreb (1080p)
 https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="PressTV.uk" group-title="News",Press TV English (720p)
-https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
-#EXTINF:0 tvg-id="PressTV.uk" group-title="News",Press TV French (720p)
-https://live1.presstv.ir/live/presstvfr/index.m3u8
-#EXTINF:0 tvg-id="RTEspanol.es" group-title="News",RT en Español (720p)
-https://rt-esp-gd.secure2.footprint.net/1102.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",RT France (720p)
-https://rt-france-gd.secure2.footprint.net/1107.m3u8
-#EXTINF:0 tvg-id="RussiaToday.uk" group-title="News",RT UK (720p)
-https://rt-uk-gd.secure2.footprint.net/1106.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",A2i Music (720p) [Not 24/7]
-https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",A2i Naja (720p) [Not 24/7]
-https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",A2i Religion (720p)
-https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",A2i TV (1080p)
-https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",A2itv (1080p)
-https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Euronews en Español (720p)
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Euronews en Español (720p)
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Euronews en Español via Alchimie (720p)
-https://alchimie-euronews-3-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Euronews English (720p)
-https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Euronews English (360p)
-https://euronews-euronews-world-1.roku.wurl.com/manifest/b34060fcaf527710b244a3e16504edd0.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Euronews English via Alchimie (720p)
-https://alchimie-euronews-4-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Euronews Français (720p)
-https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Euronews Italiano (720p)
-https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Euronews Italiano via Alchimie (720p)
-https://alchimie-euronews-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Euronews Português (720p)
-https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Euronews по-русски (480p)
-http://ott-cdn.ucom.am/s89/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Everyday Heroes (720p)
 https://a.jsrdn.com/broadcast/7b1451fa52/+0000/c.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Exitosa TV (720p)
