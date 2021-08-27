@@ -10,7 +10,7 @@ https://stream.mmsiptv.com/droid/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/aa/africable_tv.png", AFRICABLE
 https://stream.mmsiptv.com/droid/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png",TM1
-https://stream-08.ix7.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZZScKmkUedFlXOAqYyfBjeU)/dm/3/x7v072x/s/live-1.m3u8#cell=lcore
+https://stream-01.dc3.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZZScKmkUedFlXOAqYyfBjeU)/dm/3/x7v072x/s/live-0.m3u8#cell=lcore
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/mm/m7-tv-ml.png",MALI: M7 Mali
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/108431.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/cc/cheriflatv-ml.png", CHERIFLA TV
@@ -149,7 +149,7 @@ http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
 #EXTINF:0 type="stream" channelId="1519" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-tv-fr.png", BFM TV
 https://bfmtvalive1-a.akamaihd.net/2cc377e69b5f492e91de57728c82f907/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo=https://www.lyngsat.com/logo/tv/rr/rt-france-ru-fr.png",RT FRANCE
-https://rt-france.secure.footprint.net/1107.m3u8
+https://rt-fra.gcdn.co/live/rtfrance/playlist_2500Kb.m3u8
 #EXTINF:0 type="stream" channelId="EURONEWS FR" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png", euronews FRENCH
 https://stream.mmsiptv.com/droid/euronewsfr/playlist.m3u8
 #EXTINF:0 type="stream" channelId="EURONEWS FR" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png", euronews España
