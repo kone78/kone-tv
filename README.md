@@ -54,22 +54,24 @@ https://stream.mmsiptv.com/droid/rts1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/rr/rts-2-sn.png", RTS2
 https://stream.mmsiptv.com/droid/2stv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ww/wal_fadjri_tv_sn.png", WALF TV
-https://stream.mmsiptv.com/droid/sentv/playlist.m3u8
+https://stream.mmsiptv.com/droid/walftv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ww/wal_fadjri_tv_sn.png", WALF TV
+https://stream-08.ix7.dailymotion.com/sec(p8YnJV3FLjCMnNAdm2Yx4d64pxC_FBZBnCbiTlEbxC8)/dm/3/x5s5vw3/s/live-0.m3u8#cell=lcore
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/tt/tfm_sn.png",TFM
-https://stream-02.ix7.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl80WA4ybDmmbYOUdtJ-oC4o)/dm/3/x7wcr45/s/live-0.m3u8#cell=lcore
+https://stream-06.dc3.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlz-wRO5zaIY3h9HX1PbV8xA)/dm/3/x7wcr45/s/live-0.m3u8#cell=lcore
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ss/sen-tv-sn.png",Sen TV
 https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="SENEGAL",A2itv 
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/dd/dakar-tv-international-sn.png",DTV
 https://live1.acangroup.org:1929/acanabr/dtv.stream_all/acanabr/dtv.stream_HD/chunks.m3u8?nimblesessionid=40527963&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIxIDQ6MDg6MjggUE0maGFzaF92YWx1ZT1JVVBoelhMM0VPaE5EN0l3QXNHR3BRPT0mdmFsaWRtaW51dGVzPTEw
-#EXTINF:0 tvg-id="ext" group-title="Music",A2i Music (720p) [Not 24/7]
+#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo=https://www.lyngsat-logo.com/logo/tv/aa/a2i_tv_it.png",A2i music
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",A2i Naja (720p) [Not 24/7]
+#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo=https://www.lyngsat-logo.com/logo/tv/aa/a2i_tv_it.png",A2i Naja 
 https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",A2i Religion (720p)
+#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo=https://www.lyngsat-logo.com/logo/tv/aa/a2i_tv_it.png",A2i Religion 
 https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",A2i TV (1080p)
-https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",A2itv (1080p)
+#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo=https://www.lyngsat-logo.com/logo/tv/aa/a2i_tv_it.png",A2i TV
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GAMBIA" logo="https://www.lyngsat-logo.com/logo/tv/qq/qtv_gm.png",QTV
 https://player.qtv.gm:443/hls/live.stream.m3u8
@@ -93,8 +95,6 @@ https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RD CONGO" logo="https://www.lyngsat.com/logo/tv/rr/rtnc-cd.png",RTNC
 https://stream.mmsiptv.com/droid/rtnc/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="GHANA" logo="https://www.lyngsat.com/logo/tv/aa/adom_tv_gh.png",ADOM
-https://stream-05.ix7.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7qj7boMWaHEBXgebMxZmZI)/dm/3/x7w71b8/s/live-0.m3u8#cell=lcore
 #EXTINF:0 type="stream" channelId="-1" group="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png",Afrique Média (cameroun)
 https://stream.mmsiptv.com/droid/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="https://www.lyngsat.com/logo/tv/cc/crtv_cameroon.png", CRTV
@@ -117,12 +117,15 @@ https://player-api.new.livestream.com/accounts/29819666/events/9254936/broadcast
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/cc/crtv_cameroon.png", CRTV
 https://stream.mmsiptv.com/droid/crtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/cc/crtv_cameroon.png", CRTV
+https://stream.mmsiptv.com/droid/crtv/playlist.m3u8
+https://stream-07.dc3.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql5658zHakLvOcMf9fVNbs6frv8)/dm/3/x7o9p4a/s/live-0.m3u8#cell=lcore
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/vv/voxafrica_afrique.png",VOX AFRICA
 https://stream.mmsiptv.com/droid/voxafrica/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat-stream.com/logo/tv/cc/canal2_international_cm.png",CANAL2
 https://www.dailymotion.com/cdn/live/video/x7v9nky.m3u8?sec=yAOGEgJreVX1XUQw9liB21EpZWwhDXXvaqUK56V_KgNh0fpY2WssWzn3WmlzXZsv-1d8OV3_A0VGQAm3DQ8Aog
-#EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png", AFRIQUE MEDIA
-https://stream-10.dc3.dailymotion.com/sec(dgo7N3WuCXm9a9JmNQTDDIPnOt0IzBYbNJMFhBxJOyo)/dm/3/x5dk3kj/d/live-0.m3u8#cell=lcore
+#EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png",AFRIQUE MEDIA
+https://stream-08.ix7.dailymotion.com/sec(dgo7N3WuCXm9a9JmNQTDDDaRv5yYaSNrpLHUrCxuhyE)/dm/3/x5dk3kj/d/live-0.m3u8#cell=lcore
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_a_plus.png" group-title="FRANCE",A+
 https://stream.mmsiptv.com/droid/aplus/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/nn/novelas-tv-fr.png",Novelas tv 
