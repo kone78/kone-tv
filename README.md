@@ -29,9 +29,9 @@ https://enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CÔTE D'IVOIRE" logo="https://www.lintelligent.tv/assets/images/logo/liatv-black.png",L'intelligent tv
 https://video1.getstreamhosting.com:1936/8210/8210/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CÔTE D'IVOIRE" logo=https://www.lyngsat.com/logo/tv/ll/la-nouvelle-chaine-ivorienne-ci.png",NCI
+#EXTINF:0 type="stream" channelId="-1" group="CÔTE D'IVOIRE" logo="https://www.lyngsat.com/logo/tv/ll/la-nouvelle-chaine-ivorienne-ci.png",NCI
 https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CÔTE D'IVOIRE" logo="https://www.lyngsat.com/logo/tv/nn/notre-tv.png", NTV
+#EXTINF:0 type="stream" channelId="-1" group="CÔTE D'IVOIRE" logo="https://www.lyngsat.com/logo/tv/nn/notre-tv.png", NTV Afrique
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv720p/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.lyngsat-logo.com/logo/tv/rr/rtg-gn.png", RTG GUINEE
 https://stream.mmsiptv.com/droid/rtg/playlist.m3u8
