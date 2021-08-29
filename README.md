@@ -10,9 +10,9 @@ https://stream.mmsiptv.com/droid/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/aa/africable_tv.png", AFRICABLE
 https://stream.mmsiptv.com/droid/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png",TM1
-https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33eTAvrU9ywSACRwJKZWctjM0NFRdr0MjRgAs7yf6QHX7Owpyb67R_JGe0McncoIp6Kg
+
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/mm/m7-tv-ml.png",MALI: M7 Mali
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/108431.m3u8
+https://stream-09.ix7.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZeScg7eoEuHV4NgwWNIp8bM)/dm/3/x7v072x/s/live-0.m3u8#cell=lcor
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/cc/cheriflatv-ml.png", CHERIFLA TV
 https://mmsiptv.com/live/rti2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDIxIDI6MzA6MTAgUE0maGFzaF92YWx1ZT1LZi9XTUU1TmNidWVNN1JEOS9BbmxnPT0mdmFsaWRtaW51dGVzPTE1MA==
 #EXTINF:0 type="stream" channelId="-1" group="GUINEA EQUATORIAL" logo="https://www.lyngsat-stream.com/logo/tv/tt/tvge_gq_internacional.png", TVGE
@@ -102,11 +102,11 @@ https://stream.mmsiptv.com/droid/tvt/playlist.m3u8
 https://stream.mmsiptv.com/droid/telecongo/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CONGO" logo="https://www.lyngsat.com/logo/tv/aa/africa_news_cg.png", africanews FR
 https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Congo" log="https://www.lyngsat.com/logo/tv/aa/africa_news_cg.png", africanews fr
+#EXTINF:0 type="stream" channelId="-1" group="Congo" log="https://www.lyngsat.com/logo/tv/aa/africa_news_cg.png" ,africanews fr
 https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RD CONGO" logo="https://www.lyngsat.com/logo/tv/rr/rtnc-cd.png",RTNC
 https://stream.mmsiptv.com/droid/rtnc/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png",AFRIQUE MEDIA
+#EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png",AFRIQUE MEDIA"https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png",Afrique Média (cameroun)
 https://stream.mmsiptv.com/droid/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="https://www.lyngsat.com/logo/tv/cc/crtv_cameroon.png", CRTV
 https://stream-11.ix7.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql565wFtyR2E3riGWAJ51ArI4ik)/dm/3/x7o9p4a/s/live-0.m3u8#cell=lcore
