@@ -45,6 +45,8 @@ https://edge9.vedge.infomaniak.com/livecast/ik:kalactv/playlist.m3u8
 https://playtv4kpro.com:5443/LiveApp/streams/163893638025530331068059.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="BURKINA FASO" logo="https://www.lyngsat-logo.com/logo/tv/rr/rtb_bf.png", RTB
 https://edge9.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8?spark=c0915158-df3e-4926-90f2-97a1745e3ab0&token=
+#EXTINF:0 type="stream" channelId="-1" group="BURKINA FASO" logo="https://www.lyngsat.com/logo/tv/num/3tv-bf.png",3tv
+https://usher.ttvnw.net/api/channel/hls/3tvbf.m3u8?allow_source=true&fast_bread=true&p=3602378&play_session_id=6c0fbacb7d807331eeb7819e060299e4&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=b1923beb339c5cf526a6c26176f34b117db5f873&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%223tvbf%22%2C%22channel_id%22%3A595011448%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22c1e47a3018df7276%22%2C%22expires%22%3A1630324645%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2237.35.236.182%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.4.0
 #EXTINF:0 type="stream" channelId="-1" group="BURKINA FASO" logo="https://www.lyngsat.com/logo/tv/bb/bf1-bf.png", BF1
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index_4.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="BURKINA FASO" logo="https://www.lyngsat.com/logo/tv/ii/impac_tv_bf.png", IMPACT TV
@@ -106,6 +108,8 @@ https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RD CONGO" logo="https://www.lyngsat.com/logo/tv/rr/rtnc-cd.png",RTNC
 https://stream.mmsiptv.com/droid/rtnc/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="RD CONGO" logo="https://www.congoplanet.com/congo_planet.jpg", Congo planet
+https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist_1080.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png",AFRIQUE MEDIA"https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png",Afrique Média (cameroun)
 https://stream.mmsiptv.com/droid/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="https://www.lyngsat.com/logo/tv/cc/crtv_cameroon.png", CRTV
@@ -121,9 +125,9 @@ https://1600706787.rsc.cdn77.org/1600706787/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RWANDA" logo="https://www.lyngsat.com/logo/tv/kk/kc2-rw.png",kc2
 https://5c46fa289c89f.streamlock.net/kc2/kc2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ANGOLA" logo="https://www.lyngsat.com/logo/tv/tt/tpa1_ao.png",TPA1
-https://player-api.new.livestream.com/accounts/30360708/events/9496693/broadcasts/225256862.secure.m3u8?dw=80&hdnea=st=1629623393~exp=1629625193~acl=/i/30360708_9496693_lsiypkhur0wig2n9ekw_1@446987/*~hmac=9d9f425b7269c7121b93fb973c79bdb2bb21381d808082eedf4cf81e991c33a7&token=6122158d_9841d210072b82341f0332f439ffdaf4a022bed1
+https://player-api.new.livestream.com/accounts/30360708/events/9496693/broadcasts/225474302.secure.m3u8?dw=80&hdnea=st=1630323096~exp=1630324896~acl=/i/30360708_9496693_lsi9931jrm2w96ozmet_1@407873/*~hmac=d4aec3d920816675a97c97dbd9012d1df1c858375cb62cb88dd6150d26d17d52&token=612cc2c4_b63cbd7295b71c079726cd936fc93de46d1b76bf
 #EXTINF:0 type="stream" channelId="-1" group="ANGOLA" logo="https://www.lyngsat.com/logo/tv/tt/tv-zimbo-ao.png",Zimbo tv
-https://player-api.new.livestream.com/accounts/29819666/events/9254936/broadcasts/225262906.secure.m3u8?dw=80&hdnea=st=1629623593~exp=1629625393~acl=/i/29819666_9254936_lsiv3du99nys6mg91kz_1@447087/*~hmac=9160101fac810afc634baa2c83694745ba57483dc296ec1e3dc9197f523144e7&token=61221655_fc5f83b38ef086fbb256a5dd8f52962c49ba5435
+https://player-api.new.livestream.com/accounts/29819666/events/9254936/broadcasts/225474306.secure.m3u8?dw=80&hdnea=st=1630322130~exp=1630323930~acl=/i/29819666_9254936_lsibs29g980cv0ko7au_1@447472/*~hmac=6a493cc9d16114646e2f0f5339fd2dfae9df5ca83ed4b6a90aeb3548bbda5db7&token=612cbefe_f2623bb3c9742877d54e81c4adaf790fe97bd6b6
 #EXTINF:0 type="stream" channelId="-1" group="PORTUGAL"logo="https://www.lyngsat.com/logo/tv/pp/porto_canal.png", Porto Canal
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_a_plus.png" group-title="FRANCE",A+
