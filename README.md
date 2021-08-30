@@ -120,6 +120,14 @@ https://stream-11.ix7.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql565wFtyR2E3riGWAJ51A
 https://stream.mmsiptv.com/droid/voxafrica/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Nigeria" logo="",Lagos tv
 https://5c0740dba62b3.streamlock.net/ltv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_a_plus.png" group-title="FRANCE",A+
+https://stream.mmsiptv.com/droid/aplus/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="https://www.lyngsat.com/logo/tv/aa/afriwood-series-za.png", Africawood séries
+https://stream.mmsiptv.com/droid/africawood/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/nn/novelas-tv-fr.png",Novelas tv 
+https://stream.mmsiptv.com/droid/novelas/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/nn/nollywood_tv_fr.png", NOLLYWOOD
+https://stream.mmsiptv.com/droid/nollywoodfr/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GHANA" logo=https://www.lyngsat.com/logo/tv/hh/hsm-tv-gh.png", HSM tv
 https://82vod-adaptive.akamaized.net/exp=1621002340~acl=%2Fbf84640d-ac92-4a4f-84e8-699b68f5c121%2F%2A~hmac=5cd8296e15b1632a921d27200c5233e482d7fc6c7561870962d44f93c115cb3b/bf84640d-ac92-4a4f-84e8-699b68f5c121/sep/video/144a1479,87b4cd7b,bafac26c/audio/296d216c,cbe96a3b/master.m3u8?query_string_ranges=1
 #EXTINF:0 type="stream" channelId="-1" group="RWANDA" logo="https://www.lyngsat.com/logo/tv/rr/ruanda_tv_rw.png",RTV
@@ -132,15 +140,7 @@ https://player-api.new.livestream.com/accounts/30360708/events/9496693/broadcast
 https://player-api.new.livestream.com/accounts/29819666/events/9254936/broadcasts/225474306.secure.m3u8?dw=80&hdnea=st=1630322130~exp=1630323930~acl=/i/29819666_9254936_lsibs29g980cv0ko7au_1@447472/*~hmac=6a493cc9d16114646e2f0f5339fd2dfae9df5ca83ed4b6a90aeb3548bbda5db7&token=612cbefe_f2623bb3c9742877d54e81c4adaf790fe97bd6b6
 #EXTINF:0 type="stream" channelId="-1" group="PORTUGAL"logo="https://www.lyngsat.com/logo/tv/pp/porto_canal.png", Porto Canal
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_a_plus.png" group-title="FRANCE",A+
-https://stream.mmsiptv.com/droid/aplus/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="
-https://stream.mmsiptv.com/droid/africawood/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/nn/novelas-tv-fr.png",Novelas tv 
-https://stream.mmsiptv.com/droid/novelas/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/nn/nollywood_tv_fr.png", NOLLYWOOD
-https://stream.mmsiptv.com/droid/nollywoodfr/playlist.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_sahel.png",TELESAHEL
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_sahel.png",TELESAHEL
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tele_sahel/hls_video/index.m3u8?hdnea=st=1630327154~exp=1630327364~acl=/*~hmac=d1f8ecc5f8982882d05d0748fdbd24f682aceaafd792b526f4f9230bc9b490ef
 https://www.lyngsat.com/logo/tv/aa/africa_news_cg.png",africanews,AfricaNews Français
 https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
