@@ -10,7 +10,7 @@ https://stream.mmsiptv.com/droid/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/aa/africable_tv.png", AFRICABLE
 https://stream.mmsiptv.com/droid/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png",TM1
-https://stream-07.ix7.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZeScg7eoEuHV4NgwWNIp8bM)/dm/3/x7v072x/s/live-3.m3u8#cell=lcore
+https://stream-01.ix7.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZeScg7eoEuHV4NgwWNIp8bM)/dm/3/x7v072x/s/live-0.m3u8#cell=lcore
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/mm/m7-tv-ml.png",MALI: M7 Mali
 https://stream-09.ix7.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZeScg7eoEuHV4NgwWNIp8bM)/dm/3/x7v072x/s/live-0.m3u8#cell=lcor
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/cc/cheriflatv-ml.png", CHERIFLA TV
@@ -84,8 +84,8 @@ https://stream.mmsiptv.com/droid/crtv/playlist.m3u8
 https://stream-07.dc3.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql5658zHakLvOcMf9fVNbs6frv8)/dm/3/x7o9p4a/s/live-0.m3u8#cell=lcore
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/vv/voxafrica_afrique.png",VOX AFRICA
 https://stream.mmsiptv.com/droid/voxafrica/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat-stream.com/logo/tv/cc/canal2_international_cm.png",CANAL2
-https://www.dailymotion.com/cdn/live/video/x7v9nky.m3u8?sec=yAOGEgJreVX1XUQw9liB21EpZWwhDXXvaqUK56V_KgNh0fpY2WssWzn3WmlzXZsv-1d8OV3_A0VGQAm3DQ8Aog
+#EXTINF:0 type="stream" channelId="-1" group="Nigeria" logo="https://www.lyngsat.com/logo/tv/ll/lagos_television_ng.png", Lagos tv
+https://5c0740dba62b3.streamlock.net/ltv/myStream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png",AFRIQUE MEDIA
 https://stream-08.ix7.dailymotion.com/sec(dgo7N3WuCXm9a9JmNQTDDDaRv5yYaSNrpLHUrCxuhyE)/dm/3/x5dk3kj/d/live-0.m3u8#cell=lcore
 #EXTINF:0 tvg-id="ext" group-title="News",Medi 1 TV Afrique (1080p)
@@ -116,8 +116,8 @@ https://stream.mmsiptv.com/droid/playlist.m3u8
 https://stream-11.ix7.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql565wFtyR2E3riGWAJ51ArI4ik)/dm/3/x7o9p4a/s/live-0.m3u8#cell=lcore
 #EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="https://www.lyngsat.com/logo/tv/vv/voxafrica_afrique.png",Vox africa
 https://stream.mmsiptv.com/droid/voxafrica/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="https://www.lyngsat.com/logo/tv/cc/canal2_international_cm.png",Canal 2
-https://stream-04.ix7.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqlhQhOL1CKRKAXnQJPedmX4)/dm/3/x7uw6jc/d/live-0.m3u8#cell=lcore
+#EXTINF:0 type="stream" channelId="-1" group="Nigeria" logo="",Lagos tv
+https://5c0740dba62b3.streamlock.net/ltv/myStream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GHANA" logo=https://www.lyngsat.com/logo/tv/hh/hsm-tv-gh.png", HSM tv
 https://82vod-adaptive.akamaized.net/exp=1621002340~acl=%2Fbf84640d-ac92-4a4f-84e8-699b68f5c121%2F%2A~hmac=5cd8296e15b1632a921d27200c5233e482d7fc6c7561870962d44f93c115cb3b/bf84640d-ac92-4a4f-84e8-699b68f5c121/sep/video/144a1479,87b4cd7b,bafac26c/audio/296d216c,cbe96a3b/master.m3u8?query_string_ranges=1
 #EXTINF:0 type="stream" channelId="-1" group="RWANDA" logo="https://www.lyngsat.com/logo/tv/rr/ruanda_tv_rw.png",RTV
@@ -137,7 +137,7 @@ https://stream.mmsiptv.com/droid/novelas/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/nn/nollywood_tv_fr.png", NOLLYWOOD
 https://stream.mmsiptv.com/droid/nollywoodfr/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_sahel.png",TELESAHEL
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tele_sahel/hls_video/index.m3u8?hdnea=st=1627231947~exp=1627232157~acl=/*~hmac=bbc7e1188d5f44dc248f7392f4c5fbeaefda26022b0738ad4feabccf432ff395
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tele_sahel/hls_video/index.m3u8?hdnea=st=1630327154~exp=1630327364~acl=/*~hmac=d1f8ecc5f8982882d05d0748fdbd24f682aceaafd792b526f4f9230bc9b490ef
 https://www.lyngsat.com/logo/tv/aa/africa_news_cg.png",africanews,AfricaNews Français
 https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="CONGO",AfricaNews English
