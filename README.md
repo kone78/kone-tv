@@ -110,6 +110,8 @@ https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
 https://stream.mmsiptv.com/droid/rtnc/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RD CONGO" logo="https://www.congoplanet.com/congo_planet.jpg", Congo planet
 https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist_1080.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="RD CONGO" logo="https://www.lyngsat.com/logo/tv/ee/emci-tv-fr.png",emci tv
+https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png",AFRIQUE MEDIA"https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png",Afrique Média (cameroun)
 https://stream.mmsiptv.com/droid/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="https://www.lyngsat.com/logo/tv/cc/crtv_cameroon.png", CRTV
