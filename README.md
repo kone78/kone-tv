@@ -134,6 +134,8 @@ https://player-api.new.livestream.com/accounts/29819666/events/9254936/broadcast
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_a_plus.png" group-title="FRANCE",A+
 https://stream.mmsiptv.com/droid/aplus/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="
+https://stream.mmsiptv.com/droid/africawood/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/nn/novelas-tv-fr.png",Novelas tv 
 https://stream.mmsiptv.com/droid/novelas/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/nn/nollywood_tv_fr.png", NOLLYWOOD
