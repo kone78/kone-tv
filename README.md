@@ -311,6 +311,8 @@ https://stream.mmsiptv.com/droid/eurosport1/playlist.m3u8
 http://stream.tvtap.live:8081/live/es-eurosport2.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="82" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png", EUROSPORT 1
 http://stream.tvtap.live:8081/live/eurosport1.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="82" group="FRANCE" logo="
+https://www.lyngsat.com/logo/tv/ll/l_equipe_fr.png
 #EXTINF:0 type="stream" channelId="1345" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_clair.png", CANAL+
 https://stream.mmsiptv.com/droid/cplus/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="UK" logo="hhttps://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png", SKY SPORT PREMIER
