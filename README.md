@@ -331,6 +331,16 @@ http://stream.tvtap.live:8081/live/eurosport1.stream/playlist.m3u8
 https://stream.mmsiptv.com/droid/equipe/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1345" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_clair.png", CANAL+
 https://stream.mmsiptv.com/droid/cplus/playlist.m3u8
+EXTINF:-1 tvg-logo="
+
+
+
+
+
+
+
+
+https://list.iptvcat.com/my_list/s/cb35aaa45a9a3a61063d49b11fd2c41d.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="UK" logo="hhttps://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png", SKY SPORT PREMIER
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Medi 1 TV Arabic (1080p)
