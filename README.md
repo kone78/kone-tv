@@ -10,7 +10,7 @@ https://stream.mmsiptv.com/droid/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/aa/africable_tv.png", AFRICABLE
 https://stream.mmsiptv.com/droid/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png",TM1
-https://stream-01.ix7.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZeScg7eoEuHV4NgwWNIp8bM)/dm/3/x7v072x/s/live-0.m3u8#cell=lcore
+https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33eQLIvEdRzoB_wYz8FrNkWF_Wpz_HJ6XfwXlCFrWnQKHJ0XCiV56VTywUP5xMgLIE7g
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/mm/m7-tv-ml.png",MALI: M7 Mali
 https://stream-09.ix7.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZeScg7eoEuHV4NgwWNIp8bM)/dm/3/x7v072x/s/live-0.m3u8#cell=lcor
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/cc/cheriflatv-ml.png", CHERIFLA TV
