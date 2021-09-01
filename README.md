@@ -349,7 +349,7 @@ https://list.iptvcat.com/my_list/s/e0a05ddc8819319c2ae79fa269fce1b5.m3u8
 https://list.iptvcat.com/my_list/s/99651ffe43ea841c9bd07746bf5fcccd.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png", DAZN9
 https://list.iptvcat.com/my_list/s/99651ffe43ea841c9bd07746bf5fcccd.m3u8
-#EXTINF:-1 tvg-logo="
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/orf_sport_plus.png",ORF PLUS
 https://list.iptvcat.com/my_list/s/8e0aa4b960930447858d95a395d28d9f.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="UK" logo="hhttps://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png", SKY SPORT PREMIER
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
