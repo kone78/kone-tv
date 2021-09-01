@@ -353,6 +353,491 @@ https://list.iptvcat.com/my_list/s/99651ffe43ea841c9bd07746bf5fcccd.m3u8
 https://list.iptvcat.com/my_list/s/8e0aa4b960930447858d95a395d28d9f.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="UK" logo="hhttps://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png", SKY SPORT PREMIER
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Sports",Abu Dhabi Sports 1 (1080p)
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ADSports2.net" group-title="Sports",Abu Dhabi Sports 2 (1080p)
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ADSports3.net" group-title="Sports",Abu Dhabi Sports 3 (1080p)
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ADSports4.net" group-title="Sports",Abu Dhabi Sports 4 (1080p) [Geo-blocked]
+https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",ACCDN (1080p)
+https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",ACCDN (720p)
+https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Adventure Sports Network (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Adventure Sports Network (XUMO) (720p)
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Adventure Sports TV (360p)
+https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
+#EXTINF:0 tvg-id="ext" group-title="Sports",Al Kass Two (576p)
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2pwi/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Alfa Sport (1080p)
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
+#EXTINF:0 tvg-id="ext" group-title="Sports",All Sports (720p)
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",All Sports TV Network (404p)
+https://2-fss-2.streamhoster.com/pl_120/amlst:203932-1476320/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Arryadia (360p)
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",ATG (432p)
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",ATG (432p)
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Bahrain Sports 1 (720p)
+http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="Sports",Barça TV
+http://5.255.90.184:2002/play/a01z
+#EXTINF:0 tvg-id="ext" group-title="Sports",Bek Sports East (720p)
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Bek Sports West (720p)
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Best Cable Sports Perú (720p) [Not 24/7]
+https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Canal Motor (720p)
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Captital OTB Betting (720p)
+https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",CCTV中国中央电视台-5 体育
+http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",CCTV中国中央电视台-5+ 体育赛事
+http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
+#EXTINF:0 tvg-id="DDSports.in" group-title="Sports",DD Sports (576p)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Dubai Racing 3 (1080p)
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Dubai Sports 1 (1080p)
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Dubai Sports 2 (1080p)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Dubai Sports 3 (1080p)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (1080p)
+https://csm-e-stv.tls1.yospace.com/csm/live/195300285.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (1080p)
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (1080p)
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (1080p)
+https://edgesports-plex.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (STIRR) (1080p)
+https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (US) (720p)
+https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",ERT Sports (1080p)
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",ERT Sports 2
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",ERT Sports 3
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3.m3u8
+#EXTINF:0 tvg-id="Esport3.es" group-title="Sports",Esport3 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",ESTV (720p)
+https://estv-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",ESTV (1080p)
+https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Fight Box (480p)
+http://ott-cdn.ucom.am/s86/index.m3u8
+#EXTINF:0 tvg-id="FightNetwork.ca" group-title="Sports",Fight Network (1080p)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Fite (720p)
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Football Daily (XUMO) (720p)
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8
+#EXTINF:0 tvg-id="FOXSports2.us" group-title="Sports",FOX Sports 2 Asia Thai (720p) [Not 24/7]
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="FOXSports2.us" group-title="Sports",FOX Sports 2 Latinoamérica (576p)
+http://209.91.213.10:8088/play/a026
+#EXTINF:0 tvg-id="FOXSports2.us" group-title="Sports",FOX Sports 2 Latinoamérica (1080p)
+http://209.91.213.10:8088/play/a02r
+#EXTINF:0 tvg-id="ext" group-title="Sports",FOX Sports 3 Asia Thai (720p) [Not 24/7]
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Sports",FOX Sports 3 Latinoamérica
+http://209.91.213.10:8088/play/a00y
+#EXTINF:0 tvg-id="ext" group-title="Sports",FOX Sports Asia Thai (720p) [Not 24/7]
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",FOX Sports Australia (720p)
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:0 tvg-id="FreeSports.uk" group-title="Sports",FreeSports (1080p)
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",FTF For The Fans (720p)
+https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Sports",Fuel TV (720p)
+https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Sports",Fuel TV (720p)
+https://fueltv-fueltv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Sports",Fuel TV (1080p)
+https://fueltv-fueltv-10-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Sports",Fuel TV (1080p)
+https://fueltv-fueltv-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Sports",Fuel TV (1080p)
+https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Sports",Fuel TV [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV (Brazil) (720p)
+https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV (India) (1080p)
+https://fueltv-fueltv-12-in.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV (Italy) (1080p)
+https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV (Mexico) (1080p)
+https://fueltv-fueltv-11-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV (Netherland) (1080p)
+http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV (Spain) (1080p)
+https://fueltv-fueltv-7-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV (Sweden) (1080p)
+https://fueltv-fueltv-13-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Glory Kickboxing (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Golf Channel Thailand (720p) [Not 24/7]
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",grvty (1080p)
+https://d37j5jg7ob6kji.cloudfront.net/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Hard Knocks (1080p)
+https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Hard Knocks (720p)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Horizon Sports (720p)
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",IMPACT! Wrestling (1080p)
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",KBP Sports (720p)
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",KSA Sports 1 (1080p)
+https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport1
+#EXTINF:0 tvg-id="ext" group-title="Sports",KSA Sports 2 (1080p)
+https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport2
+#EXTINF:0 tvg-id="ext" group-title="Sports",KTV Sport (1080p)
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Lax Sports Network TV (720p)
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",LN Sports (720p)
+https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",LSN (720p)
+https://asermedia-lacrossesportsnetwork-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="MAVTV.us" group-title="Sports",MavTV (720p)
+https://bozztv.com/teleyupp/teleup-mavtv/playlist.m3u8
+#EXTINF:0 tvg-id="MAVTV.us" group-title="Sports",MavTV (720p)
+https://mavtv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="MAVTV.us" group-title="Sports",MavTV (1080p)
+https://mavtv-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="MAVTV.us" group-title="Sports",MavTV (720p)
+https://mavtv-mavtvglobal-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="MAVTV.us" group-title="Sports",MavTV (720p)
+https://mavtv-mavtvglobal-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",MavTV (India) (720p)
+http://mavtv-mavtvglobal-1-in.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",MavTV (Norway) (720p)
+https://mavtv-mavtvglobal-1-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",MavTV (STIRR) (720p)
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",MavTV (STIRR) (720p)
+https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",MavTV Select (1080p)
+https://mavtv-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="MLBNetwork.us" group-title="Sports",MLB Network
+https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",MMA Junkie (720p)
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Mono TV (720p)
+http://51.210.227.137/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Monterrico TV (1080p) [Not 24/7]
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Monterrico TV (360p) [Not 24/7]
+https://ed1ov.live.opencaster.com/jcpstream_mid/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Monterrico TV (720p) [Not 24/7]
+https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
+#EXTINF:0 tvg-id="MotorVision.de" group-title="Sports",Motorvision TV (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
+#EXTINF:0 tvg-id="NBA.blt" group-title="Sports",NBA TV (720p) [Not 24/7]
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",New Japan Pro Wrestling World (540p)
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",NewTV未来电视 精品体育
+http://121.31.30.90:8085/ysten-business/live/jtiyu/1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Nitro Circus (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?deviceid=&is_lat=&p=redbox&subp=RedboxdesktopWebWindows
+#EXTINF:0 tvg-id="ext" group-title="Sports",Oman Sports TV (1080p)
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",One Golf (720p)
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:0 tvg-id="ORFSport.at" group-title="Sports",ORF Sport+ (540p) [Geo-blocked]
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Ovación TV (Lima) (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pac 12 Insider [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.7pac12.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pac 12 Insider (1080p)
+https://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",PAC 12 Insider (1080p)
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pac 12 Insider (720p)
+https://pac12-vizio.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Persiana Varzesh (1080p)
+http://51.210.199.16/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Players TV (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Players TV (1080p)
+https://playerstv-samsungca.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Players TV (1080p)
+https://playerstv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Action Sports (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db867744f229f0009266784&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=759&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Action Sports (480p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Action Sports (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV All Elite Wrestling (240p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Auto Motor Sport (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f760c3d41aa2d0007bfde19&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Auto Motor Sport (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Bellator MMA (240p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ebc8688f3697d00072f7cf8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=730&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Bellator MMA (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Big Sky Conference (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=59641d9173ac1fec2fc01f17&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=752&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Boxing (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Combate World (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bb1ac3e268cae539bcedb07&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=970&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Deportes (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV ESR 24/7 (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1e0ee50be2571e393ad33/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Fight (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b0f2237a6ff45d16c3f9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=726&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV FOX Sports (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a74b8e1e22a61737979c6bf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=705&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Fútbol Para Fans (480p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Glory Kickboxing (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5417a212ff9fba68282fbf5e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=736&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Glory Kickboxing (480p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9be1be738977e2c312134/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9be1be738977e2c312134&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=f6e88030-d7c8-47c8-8fed-7e24dd0a038a&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV IMPACT Wrestling (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=59b722526996084038c01e1b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=734&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV MLB (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV MLS (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceLat=45.4994&deviceLon=-73.5703&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=76.0.3809.132&serverSideAds=true&sid=d1634607-2892-447a-b316-17a106f905fb&userId=
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV NFL Channel (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Pac-12 Insider (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f84ce2ac265700008d48dcf/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV PGA TOUR (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Pluto Action Sports (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5be1be871843b56328bc3ef1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8a1b4593-8596-4ff8-8720-2c3271ea36ca&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Pro Wrestling (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV SPORT : BeIN Sports Xtra (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&serverSideAds=tr&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId=
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Sports (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Sports (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56340779a738201b4ccfeac9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=725&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Sports (England) (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7677fa2ec536ce1d587eeb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=607&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Yoga (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60803e541a829e0008e91641/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb570-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca55bef6-f2a6-488a-be5d-c7ba24d93cdd
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Yoga (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b0d10e186bf0007e2b100/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b0d10e186bf0007e2b100&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=2c143e9d-0cd6-4d02-8b92-df3471ececef&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Sports",Poker TV [Not 24/7]
+http://51.210.199.17/hls/stream.m3u8
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="Sports",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="Sports",Real Madrid TV (404p)
+https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Rede Globo (720p)
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Ring of Honor Wrestling (720p)
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",San Marino RTV Sport (240p)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b542000_slita_t64TUQoMzYwcCk=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sharjah Sports TV (1080p)
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Ski TV (1080p)
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Net Sports (720p) [Not 24/7]
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Net Sports 1 (480p Scaled) [Not 24/7]
+https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Net Sports 2 (480p Scaled) [Not 24/7]
+https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Net Sports 3 (480p Scaled) [Not 24/7]
+https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Net Sports 4 (480p Scaled) [Not 24/7]
+https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Net Sports 5 (480p Scaled) [Not 24/7]
+https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Net Sports 6 (480p Scaled) [Not 24/7]
+https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Snowy Mountains Television (1082p)
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
+#EXTINF:0 tvg-id="sport1" group-title="Sports",Sport 1 [Not 24/7]
+https://95-213-224-183.livesports24.online/sport1ua.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Sports",Sport TV 1 (720p)
+https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Sports",Sport TV 2 (576p)
+https://sport.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Sports",Sport TV 3 (720p)
+https://sport.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Sports",Sport TV 4 (720p)
+https://sport.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Sports",Sport TV 5
+http://185.236.229.21:9981/play/a03n
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sport TV+
+http://185.236.229.21:9981/play/a03c
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sportal.bg
+https://e113-ts.cdn.bg/sportal/fls/sportal_fullhd/chunklist.m3u8?at=c92098d9ab33bf471967c6b6195361e3
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sports Channel Network (720p)
+https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sports Channel Network (720p)
+https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sports Tonight (576p)
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:0 tvg-id="SportsTV.tr" group-title="Sports",Sports TV (720p)
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sports TV Plus (1080p)
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",SportsGrid (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",SportsGrid (720p)
+https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sportskool TV (720p)
+https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",SportsMax (720p)
+http://cdn.tvmatic.net/sport.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",SSC1 HD (1080p)
+https://shls-ssc-1-prod-dub.shahid.net/out/v1/65beb0f7d74b4f9cab22763a48c81f31/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",ST-TV | EDGESport (1080p)
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",ST-TV | Fuel TV (1080p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=516
+#EXTINF:0 tvg-id="ext" group-title="Sports",ST-TV | Hard Knocks (1080p)
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",ST-TV | Pac12 Insider (720p)
+https://pac12-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",ST-TV | SKI TV (1080p)
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",ST-TV | SportsGrid (1080p)
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",ST-TV | World Poker Tour (1080p)
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Stadium (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Stadium (STIRR) (720p)
+http://stadium.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Surf Now TV (720p)
+https://1091-surfnowtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Swiss Sport TV (720p)
+https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",TDM Sports Macau (720p)
+http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:0 tvg-id="TennisChannel.us" group-title="Sports",Tennis Channel [Geo-blocked]
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
+#EXTINF:0 tvg-id="TennisChannel.us" group-title="Sports",Tennis Channel (720p)
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Tennis Channel (STIRR) (720p) [Geo-blocked]
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Tennis Channel+ 1 (720p) [Geo-blocked]
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Tennis Channel+ 2 (720p) [Geo-blocked]
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Tennis Channel+ 2 [Geo-blocked]
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",TNT Sports 2 Brasil (720p)
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",TNT Sports 3 Brasil (720p)
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",TNT Sports 4 Brasil (720p)
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",TNT Sports 5 Brasil (720p)
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Trace Sport Stars (Australia) (1080p)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",True Premier Football HD 1 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",True Premier Football HD 2 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",True Premier Football HD 3 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",True Premier Football HD 4 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",True Premier Football HD 5 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",True Sport 5 (480p Scaled) [Not 24/7]
+https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",True Sport 7 (480p Scaled) [Not 24/7]
+https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",True Sport HD 1 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",True Sport HD 2 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",True Sport HD 3 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",True Sport HD 4 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",True Tennis HD (720p) [Not 24/7]
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",TV 2 Sporten (720p)
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",TV25.8 Untamed Sports TV (480p)
+https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",TVRI Sport HD (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",TVS Boxing (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",TVS Classic Sports (720p)
+http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",TVS Sports (960p)
+https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",TVS Sports Bureau (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",TVS Turbo (360p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",TVS Women Sports (480p)
+https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Türkmenistan Sport (226p)
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Türkmenistan Sport (406p)
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Türkmenistan Sport (406p)
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Unbeaten (1080p)
+https://unbeaten-roku.amagi.tv/hls/amagi_hls_data_inverleig-unbeaten-roku/CDN/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",US SPORT Tennis Plus 1 (720p)
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",USA Today Sportswire (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatodaysportswire/CDN/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Whistle Sports (720p)
+https://whistle-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Whistle Sports (1080p)
+https://whistlesports-tcl.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Whistle Sports (STIRR) (720p)
+https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Wired2Fish (720p)
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",World of Freesports (720p)
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Yas (1080p)
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Астрахань.Ru Sport (1080p)
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:0 tvg-id="start" group-title="Sports",Старт (1080p)
+https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:0 tvg-id="futbol-ukr" group-title="Sports",Футбол 1 [Not 24/7]
+https://95-213-224-183.livesports24.online/uafootballua1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Medi 1 TV Arabic (1080p)
 https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Medi 1 TV Maghreb (1080p)
@@ -405,85 +890,3 @@ https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Pluto TV Telenovelas (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0 tvg-id="ext" group-title="Movies",Pluto TV Terror (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c6dc88fcd232425a6e0f06e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=76&terminate=false&userId=
-#EXTINF:0 tvg-id="ext" group-title="Movies",Pluto TV TV Land Drama (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d40bebc5e3d2750a2239d7e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=130&terminate=false&userId=
-#EXTINF:0 tvg-id="ext" group-title="Movies",Pluto TV TV Land Sitcoms (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c2d64ffbdf11b71587184b8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=455&terminate=false&userId=
-#EXTINF:0 tvg-id="ext" group-title="Movies",Pluto TV Westerns (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8df4bc16e34700077e77d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=526&terminate=false&userId=
-#EXTINF:0 tvg-id="ext" group-title="Movies",PopCornFlix Action (Bumblebee) (1080p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
-#EXTINF:0 tvg-id="RajDigitalPlus.in" group-title="Movies",Raj Digital Plus (404p)
-http://acv.asianetmobiletvplus.com/channels/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_hls/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rajeen TV (1080p)
-https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten Action (Denmark) (720p)
-https://rakuten-action-10-dk.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten Action (Netherland) (720p)
-https://rakuten-action-8-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten Action (Norway) (720p)
-https://rakuten-action-11-no.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten Action (Sweden) (720p)
-https://rakuten-action-9-se.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten Action Movies 1 (720p)
-https://rakuten-actionmovies-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten Action Movies 2 (720p)
-https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten Action Movies 3 (720p)
-https://rakuten-actionmovies-3-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten Drama (Denmark) (720p)
-https://rakuten-drama-10-dk.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten Drama (Finland) (720p)
-https://rakuten-drama-12-fi.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten Drama (Netherlands) (720p)
-https://rakuten-drama-8-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten Drama (Norway) (720p)
-https://rakuten-drama-11-no.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten Drama (Sweden) (720p)
-https://rakuten-drama-9-se.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Action Movies Austria (720p)
-https://rakuten-actionmovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Action Movies France (720p)
-https://rakuten-actionmovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Action Movies Germany (720p)
-https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Action Movies Italy (720p)
-https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Action Movies Switzerland (720p)
-https://rakuten-actionmovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Action Movies UK (720p)
-https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Comedy Movies Austria (720p)
-https://rakuten-comedymovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Comedy Movies France (720p)
-https://rakuten-comedymovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Comedy Movies Germany (720p)
-https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Comedy Movies Italy (720p)
-https://rakuten-comedymovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Comedy Movies Switzerland (720p)
-https://rakuten-comedymovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Comedy Movies UK (720p)
-https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Drama Austria (720p)
-https://rakuten-tvshows-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Drama France (720p)
-https://rakuten-tvshows-7-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Drama Germany (720p)
-https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Drama Italy (720p)
-https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Drama Switzerland (720p)
-https://rakuten-tvshows-4-ch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Drama UK (720p)
-https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Family Movies France (720p)
-https://rakuten-family-7-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Family Movies Italy (720p)
-https://rakuten-family-6-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Rakuten TV Family Movies UK (720p)
-https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
