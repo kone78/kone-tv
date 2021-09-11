@@ -351,6 +351,97 @@ https://list.iptvcat.com/my_list/s/99651ffe43ea841c9bd07746bf5fcccd.m3u8
 https://list.iptvcat.com/my_list/s/99651ffe43ea841c9bd07746bf5fcccd.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/orf_sport_plus.png",ORF PLUS
 https://list.iptvcat.com/my_list/s/8e0aa4b960930447858d95a395d28d9f.m3u8
+http://icego.club:80/vanderlei12/vanderlei12/76273?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Sport",ELEVEN SPORTS 1 HD
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/284653?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ELEVEN SPORTS 1 ʰᵈ ᴴ²⁶⁵
+http://serverfulltop.com:80/gilson10/gilson10/17644?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ELEVEN SPORTS 1 ᶠʰᵈ
+http://serverfulltop.com:80/gilson10/gilson10/17358?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Sport",ELEVEN SPORTS 2 FHD
+http://icego.club:80/vanderlei12/vanderlei12/76275?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Sport",ELEVEN SPORTS 2 HD
+http://icego.club:80/vanderlei12/vanderlei12/76276?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Sport",ELEVEN SPORTS 3 FHD
+http://icego.club:80/vanderlei12/vanderlei12/76277?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Sport",ELEVEN SPORTS 3 HD
+http://icego.club:80/vanderlei12/vanderlei12/76278?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ElevenSports4.pl" group-title="Sport",ELEVEN SPORTS 4 FHD
+http://icego.club:80/vanderlei12/vanderlei12/76279?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ElevenSports4.pl" group-title="Sport",ELEVEN SPORTS 4 HD
+http://icego.club:80/vanderlei12/vanderlei12/76280?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ELEVEN SPORTS 5 FHD
+http://icego.club:80/vanderlei12/vanderlei12/76281?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ELEVEN SPORTS 5 HD
+http://icego.club:80/vanderlei12/vanderlei12/76282?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ELEVEN SPORTS 6 FHD
+http://icego.club:80/vanderlei12/vanderlei12/76283?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ELEVEN SPORTS 6 HD
+http://icego.club:80/vanderlei12/vanderlei12/76284?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Eleven Sport 1 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/70835?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Eleven Sport 2 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/70836?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Eleven Sport 3 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/70837?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Eleven Sport 4 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/70838?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Eleven Sport 5 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/70839?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Eleven Sport 6 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/121896?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Sport",Eleven Sports 1
+http://nomorecable.eu:80/xDJixN4wBE/ARBX8u86XM/35889?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Eleven Sports 1 4K
+http://new-pro.tv:8080/Hotel-2021/Allroom/71981?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Eleven Sports 1 8K
+http://new-pro.tv:8080/Hotel-2021/Allroom/71982?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Eleven Sports 1 FHD (back up)
+http://yassooo.com:8080/benAlaa/829293992/82549?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Sport",Eleven Sports 1 SD
+http://yassooo.com:8080/benAlaa/829293992/82547?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Sport",Eleven Sports 2
+http://nomorecable.eu:80/xDJixN4wBE/ARBX8u86XM/35890?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Eleven Sports 2 4K
+http://new-pro.tv:8080/Hotel-2021/Allroom/71983?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Sport",Eleven Sports 2 FHD
+http://nocables.live:8080/davehobnob3i/z697wakm1h/17249?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Sport",Eleven Sports 2 HD
+http://yassooo.com:8080/benAlaa/829293992/82545?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Eleven Sports 2 LOW
+http://serverfulltop.com:80/gilson10/gilson10/17533?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Eleven Sports 2 SD VIP PT
+http://95.216.42.122:8012/cDoGbrjx3L/XCyUN3De9r/101374?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Sport",Eleven Sports 3
+http://nomorecable.eu:80/xDJixN4wBE/ARBX8u86XM/35891?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Eleven Sports 3 F4K
+http://new-pro.tv:8080/Hotel-2021/Allroom/71985?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Sport",Eleven Sports 3 FHD 1080
+http://yassooo.com:8080/benAlaa/829293992/82542?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Sport",Eleven Sports 3 HD 720
+http://teslaiptv.com:8080/hannaxhanna/es576457/82541?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="elevensports4.pt" group-title="Sport",Eleven Sports 4
+http://nomorecable.eu:80/xDJixN4wBE/ARBX8u86XM/35892?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Eleven Sports 4 4K
+http://new-pro.tv:8080/Hotel-2021/Allroom/71986?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ElevenSports4.pl" group-title="Sport",Eleven Sports 4 HD 720
+http://teslaiptv.com:8080/hannaxhanna/es576457/82536?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Eleven Sports 4 SD (back up)
+http://yassooo.com:8080/benAlaa/829293992/82534?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="elevensports5.pt" group-title="Sport",Eleven Sports 5
+http://nomorecable.eu:80/xDJixN4wBE/ARBX8u86XM/35893?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Eleven Sports 5 4K
+http://new-pro.tv:8080/Hotel-2021/Allroom/71987?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Eleven Sports 5 FHD
+http://nocables.live:8080/davehobnob3i/z697wakm1h/17246?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Eleven Sports 5 HD VIP PT
+http://95.216.42.122:8012/cDoGbrjx3L/XCyUN3De9r/101388?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="elevensports6.pt" group-title="Sport",Eleven Sports 6
+http://nomorecable.eu:80/xDJixN4wBE/ARBX8u86XM/35894?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Eleven Sports 6 4K
+http://new-pro.tv:8080/Hotel-2021/Allroom/71988?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="elevensports6.pt" group-title="Sport",Eleven Sports 6 SD
+http://yassooo.com:8080/benAlaa/829293992/82538?checkedby:iptvcat.com
 #EXTINF:0 type="stream" channelId="-1" group="UK" logo="hhttps://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png", SKY SPORT PREMIER
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
 #EXTM3U
