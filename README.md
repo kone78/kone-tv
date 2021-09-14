@@ -20,7 +20,7 @@ https://rsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEA EQUATORIAL" logo="https://www.lyngsat-stream.com/logo/tv/tt/tvge_gq_internacional.png", TVGE
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CÔTE D'IVOIRE" logo="https://www.lyngsat-logo.com/logo/tv/rr/rti_tv1_ci.png",RTI1
-https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
+http://51.210.1.13:18000/rti1/hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CÔTE D'IVOIRE" logo="https://www.lyngsat-logo.com/logo/tv/rr/rti_tv2_ci.png",RTI2
 https://stream.mmsiptv.com/droid/rti2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CÔTE D'IVOIRE" logo="https://www.lyngsat-stream.com/logo/tv/rr/rti-la-3-ci.png",RTI3
@@ -35,7 +35,7 @@ https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv720p/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.lyngsa
 t-logo.com/logo/tv/rr/rtg-gn.png", RTG GUINEE
-https://stream.mmsiptv.com/droid/rtg/playlist.m3u8
+http://51.210.1.13:18000/rtg/hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.guineetv1.com/images/logos/guineetv1-logo.png" , GUINEE tv1
 https://playtv4kpro.com:5443/LiveApp/streams/664825404798849938149128.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.lyngsat.com/logo/tv/ee/espace_tv_gn.png", ESPACE TV
@@ -53,7 +53,7 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec
 #EXTINF:0 type="stream" channelId="-1" group="BURKINA FASO" logo="https://www.lyngsat.com/logo/tv/ii/impac_tv_bf.png", IMPACT TV
 https://edge8.vedge.infomaniak.com/livecast/ik:impacttv_1/manifest.m3u8?spark=06014a1d-fabb-4835-aeb1-82b960fd3dd2&token=
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/rr/rts_sn_tv_1.png", RTS1
-https://stream.mmsiptv.com/droid/rts1/playlist.m3u8
+http://51.210.1.13:18000/rts1/hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/rr/rts-2-sn.png", RTS2
 https://stream.mmsiptv.com/droid/2stv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ww/wal_fadjri_tv_sn.png", WALF TV
@@ -61,7 +61,7 @@ https://stream.mmsiptv.com/droid/walftv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ww/wal_fadjri_tv_sn.png", WALF TV
 https://stream-08.ix7.dailymotion.com/sec(p8YnJV3FLjCMnNAdm2Yx4d64pxC_FBZBnCbiTlEbxC8)/dm/3/x5s5vw3/s/live-0.m3u8#cell=lcore
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/tt/tfm_sn.png",TFM
-https://stream-06.dc3.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlz-wRO5zaIY3h9HX1PbV8xA)/dm/3/x7wcr45/s/live-0.m3u8#cell=lcore
+http://51.210.1.13:18000/tfm/hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ss/sen-tv-sn.png",Sen TV
 https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo=https://www.lyngsat-logo.com/logo/tv/aa/a2i_tv_it.png",A2i tv 
