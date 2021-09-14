@@ -10,7 +10,7 @@ https://stream.mmsiptv.com/droid/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/aa/africable_tv.png", AFRICABLE
 https://stream.mmsiptv.com/droid/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png",TM1
-https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33ed4vYQwOuQbdDebxwYH36-xLXqUU9IQm-pvOSstqk4KJ2gCPLy2elUSqg32HZH_5eg
+https://stream-04.ix7.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZdxNatf_cxXED3g9ftK6YL4)/dm/3/x7v072x/s/live-0.m3u8#cell=lcore
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/mm/m7-tv-ml.png",MALI: M7 Mali
 https://stream-09.ix7.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZeScg7eoEuHV4NgwWNIp8bM)/dm/3/x7v072x/s/live-0.m3u8#cell=lcor
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/cc/cheriflatv-ml.png", CHERIFLA TV
@@ -33,7 +33,8 @@ https://video1.getstreamhosting.com:1936/8210/8210/playlist.m3u8
 https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CÔTE D'IVOIRE" logo="https://www.lyngsat.com/logo/tv/nn/notre-tv.png", NTV Afrique
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv720p/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.lyngsat-logo.com/logo/tv/rr/rtg-gn.png", RTG GUINEE
+#EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.lyngsa
+t-logo.com/logo/tv/rr/rtg-gn.png", RTG GUINEE
 https://stream.mmsiptv.com/droid/rtg/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.guineetv1.com/images/logos/guineetv1-logo.png" , GUINEE tv1
 https://playtv4kpro.com:5443/LiveApp/streams/664825404798849938149128.m3u8
