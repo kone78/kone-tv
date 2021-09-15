@@ -45,7 +45,7 @@ https://edge9.vedge.infomaniak.com/livecast/ik:kalactv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="BURKINA FASO" logo="https://fasotv.net/wp-content/uploads/2019/05/logo.png", FASO TV
 https://playtv4kpro.com:5443/LiveApp/streams/163893638025530331068059.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="BURKINA FASO" logo="https://www.lyngsat-logo.com/logo/tv/rr/rtb_bf.png", RTB
-https://edge9.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8?spark=c0915158-df3e-4926-90f2-97a1745e3ab0&token=
+http://51.210.1.13:18000/rtb/hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="BURKINA FASO" logo="https://www.lyngsat.com/logo/tv/num/3tv-bf.png",3tv
 https://usher.ttvnw.net/api/channel/hls/3tvbf.m3u8?allow_source=true&fast_bread=true&p=3602378&play_session_id=6c0fbacb7d807331eeb7819e060299e4&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=b1923beb339c5cf526a6c26176f34b117db5f873&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%223tvbf%22%2C%22channel_id%22%3A595011448%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22c1e47a3018df7276%22%2C%22expires%22%3A1630324645%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2237.35.236.182%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.4.0
 #EXTINF:0 type="stream" channelId="-1" group="BURKINA FASO" logo="https://www.lyngsat.com/logo/tv/bb/bf1-bf.png", BF1
@@ -61,6 +61,8 @@ https://stream.mmsiptv.com/droid/walftv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ww/wal_fadjri_tv_sn.png", WALF TV
 https://stream-08.ix7.dailymotion.com/sec(p8YnJV3FLjCMnNAdm2Yx4d64pxC_FBZBnCbiTlEbxC8)/dm/3/x5s5vw3/s/live-0.m3u8#cell=lcore
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/tt/tfm_sn.png",TFM
+67http://51.210.1.13:18000/tfm/hls/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/num/2s_tv.png",2stv
 http://51.210.1.13:18000/tfm/hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ss/sen-tv-sn.png",Sen TV
 https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
