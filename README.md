@@ -10,7 +10,7 @@ http://51.210.1.13:18000/africable/hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/aa/africable_tv.png", AFRICABLE
 https://stream.mmsiptv.com/droid/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png",TM1
-https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33eWuPxDPfwCfvGJxkWD0W0AfFKBRkpnzR1Vj9HLQZeReGzW4y-dcOSE8vTpsy_KgrLg
+https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33eRRPry4axLt1zypH5sKY_ldNMxLcQwKQ1ANKGqiOBYQn0GRoayRDs1SJJCTPyQh20g
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/mm/m7-tv-ml.png",MALI: M7 Mali
 http://51.210.1.13:18000/m7/hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/cc/cheriflatv-ml.png", CHERIFLA TV
@@ -446,9 +446,7 @@ http://new-pro.tv:8080/Hotel-2021/Allroom/71988?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="elevensports6.pt" group-title="Sport",Eleven Sports 6 SD
 http://yassooo.com:8080/benAlaa/829293992/82538?checkedby:iptvcat.com
 #EXTINF:0 type="stream" channelId="-1" group="UK" logo="hhttps://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png", SKY SPORT PREMIER
-http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Sports",Abu Dhabi Sports 1 (1080p)
+http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u#EXTINF:0 tvg-id="ext" group-title="Sports",Abu Dhabi Sports 1 (1080p)
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ADSports2.net" group-title="Sports",Abu Dhabi Sports 2 (1080p)
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
