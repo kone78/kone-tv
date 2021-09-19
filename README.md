@@ -172,7 +172,7 @@ https://google-br.cdn.booyah.live/hls/1000047/88439188.m3u8
 https://google-br.cdn.booyah.live/hls/1000048/78159540.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="USA" logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png",Edge Sport
 https://edgesports-stirr.amagi.tv:443/playlist1080p.m3u8
-type="stream" channelId="-1" group="ITALY" logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-24-it.png",Sky Sport24
+#EXTINF:0 type="stream" channelId="-1" group="ITALY" logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-24-it.png",Sky Sport24
 https://skyanywhere3-i.akamaihd.net:443/hls/live/510697/interactive/stream06/streamPlaylist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/mm/movistar-laliga-es.png", MOVISTAR FÚTBOL
 http://stream.tvtap.live:8081/live/es-laligatvbar.stream/playlist.m3u8
@@ -212,6 +212,7 @@ https://stream.mmsiptv.com/droid/eurosport2/playlist.m3u8
 https://stream.mmsiptv.com/droid/eurosport1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="83" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png", EUROSPORT 2
 https://stream.mmsiptv.com/droid/eurosport1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="83" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png", EUROSPORT 2
 http://stream.tvtap.live:8081/live/es-eurosport2.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="82" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png", EUROSPORT 1
 http://stream.tvtap.live:8081/live/eurosport1.stream/playlist.m3u8
@@ -227,7 +228,8 @@ https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:0 type="stream" channelId="France24" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:0 type="stream" channelId="FRANCE 24" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France24 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:0 type="stream" channelId="FRANCE 24" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France24 
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:0 type="stream" channelId="FRANCE 24" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24 ES
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 #EXTINF:0 type="stream" channelId="FRANCE 24" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24,France 24 (FR)
