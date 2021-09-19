@@ -311,6 +311,11 @@ https://stream.mmsiptv.com/droid/bein1/playlist.m3u8
 https://stream.mmsiptv.com/droid/bein2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png", BEIN SPORTS 3 HD
 https://stream.mmsiptv.com/droid/bein3/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png", BEIN SPORTS XTRA
+https://siloh.pluto.tv:443/lilo/production/bein/master_1.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png", BEIN SPORTS XTRA Ñ
+https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8#EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png", BEIN connect
+https://playback2.akamaized.net/streams/28255175_8584065_lsivp6dd73z326qimhl_1/master.m3u8?dw=80&hdnts=exp=1632068086~acl=/streams/28255175_8584065_lsivp6dd73z326qimhl_1/master.m3u8*~hmac=04909f6e604fe12c872aad608a546ed92f6c7e02a6d38c755310432a404fa5ec
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport.png", CANAL+SPORT
 https://stream.mmsiptv.com/droid/cpsport/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_clair.png", Canal+
