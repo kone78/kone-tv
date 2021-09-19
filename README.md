@@ -65,17 +65,17 @@ https://stream-08.ix7.dailymotion.com/sec(p8YnJV3FLjCMnNAdm2Yx4d64pxC_FBZBnCbiTl
 http://51.210.1.13:18000/tfm/hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ss/sen-tv-sn.png",Sen TV
 https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo=https://www.lyngsat-logo.com/logo/tv/aa/a2i_tv_it.png",A2i tv 
+#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/aa/a2i_tv_it.png",A2i tv 
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/dd/dakar-tv-international-sn.png",DTV
 https://live1.acangroup.org:1929/acanabr/dtv.stream_all/acanabr/dtv.stream_HD/chunks.m3u8?nimblesessionid=40527963&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIxIDQ6MDg6MjggUE0maGFzaF92YWx1ZT1JVVBoelhMM0VPaE5EN0l3QXNHR3BRPT0mdmFsaWRtaW51dGVzPTEw
-#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo=https://www.lyngsat-logo.com/logo/tv/aa/a2i_tv_it.png",A2i music
+#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/aa/a2i_tv_it.png",A2i music
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo=https://www.lyngsat-logo.com/logo/tv/aa/a2i_tv_it.png",A2i Naija 
+#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/aa/a2i_tv_it.png",A2i Naija 
 https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo=https://www.lyngsat-logo.com/logo/tv/aa/a2i_tv_it.png",A2i Religion 
+#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/aa/a2i-religion-it.png",A2i Religion 
 https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo=https://www.lyngsat-logo.com/logo/tv/aa/a2i_tv_it.png",A2i TV
+#EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/aa/a2i_tv_it.png",A2i TV
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GAMBIA" logo="https://www.lyngsat-logo.com/logo/tv/qq/qtv_gm.png", QTV
 https://player.qtv.gm:443/hls/live.stream.m3u8
