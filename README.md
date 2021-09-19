@@ -160,6 +160,10 @@ https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
 https://google-br.cdn.booyah.live/hls/1000032/79691263.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png", BEIN SPORTS XTRA
 https://siloh.pluto.tv:443/lilo/production/bein/master_1.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ee/espn_us.png",ESPN
+https://google-br.cdn.booyah.live/hls/1000019/84348185.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ee/espn_2.png",ESPN2
+https://google-br.cdn.booyah.live/hls/1000039/81258086.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/mm/movistar-laliga-es.png", MOVISTAR FÚTBOL
 http://stream.tvtap.live:8081/live/es-laligatvbar.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png",La liga 123
