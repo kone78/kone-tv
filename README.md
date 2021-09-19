@@ -172,6 +172,8 @@ https://google-br.cdn.booyah.live/hls/1000047/88439188.m3u8
 https://google-br.cdn.booyah.live/hls/1000048/78159540.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="USA" logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png",Edge Sport
 https://edgesports-stirr.amagi.tv:443/playlist1080p.m3u8
+type="stream" channelId="-1" group="ITALY" logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-24-it.png",Sky Sport24
+https://skyanywhere3-i.akamaihd.net:443/hls/live/510697/interactive/stream06/streamPlaylist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/mm/movistar-laliga-es.png", MOVISTAR FÚTBOL
 http://stream.tvtap.live:8081/live/es-laligatvbar.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png",La liga 123
