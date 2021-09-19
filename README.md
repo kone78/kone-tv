@@ -92,7 +92,7 @@ https://stream.mmsiptv.com/droid/voxafrica/playlist.m3u8
 https://5c0740dba62b3.streamlock.net/ltv/myStream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png",AFRIQUE MEDIA
 https://stream-08.ix7.dailymotion.com/sec(dgo7N3WuCXm9a9JmNQTDDDaRv5yYaSNrpLHUrCxuhyE)/dm/3/x5dk3kj/d/live-0.m3u8#cell=lcore
-#EXTINF:0 tvg-id="ext" group-title="News",Medi 1 TV Afrique (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Maroc" logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Medi_1_TV_logo.png/600px-Medi_1_TV_logo.png",Medi 1 TV Afrique 
 https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Africa" logo=https://afroculturetv.com/wp-content/uploads/2020/01/g.png", Afro culture tv
 https://stream-10.dc3.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZVP1hUJXfrgyD7XL3SvJLas)/dm/3/x7t09ft/s/live-0.m3u8#cell=lcore
@@ -116,7 +116,7 @@ https://stream.mmsiptv.com/droid/rtnc/playlist.m3u8
 https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist_1080.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RD CONGO" logo="https://www.lyngsat.com/logo/tv/ee/emci-tv-fr.png",emci tv
 https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png",AFRIQUE MEDIA"https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png",Afrique Média (cameroun)
+#EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png",AFRIQUE MEDIA
 https://stream.mmsiptv.com/droid/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/79411757/131652247-40cdf140-dd93-4e0d-be39-4daa8b14e5d8.png",MyTV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
@@ -130,8 +130,6 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAB6VBMVEX///
 https://goliveafrica.media:9998/live/6049f726546e1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesierraleonetelegraph.com/wp-content/uploads/2017/12/Ayv-newlogo-e1514330421148.jpg",AYV
 https://list.iptvcat.com/my_list/s/9f225b30256ed4f9ea43f305aab090be.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="https://www.lyngsat.com/logo/tv/cc/crtv_cameroon.png", CRTV
-https://stream-11.ix7.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql565wFtyR2E3riGWAJ51ArI4ik)/dm/3/x7o9p4a/s/live-0.m3u8#cell=lcore
 #EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="https://www.lyngsat.com/logo/tv/vv/voxafrica_afrique.png",Vox africa
 https://stream.mmsiptv.com/droid/voxafrica/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Nigeria" logo="https://www.lyngsat.com/logo/tv/ll/lagos_television_ng.png",Lagos tv
