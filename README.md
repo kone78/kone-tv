@@ -12,7 +12,7 @@ https://stream.mmsiptv.com/droid/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/cc/cheriflatv-ml.png", CHERIFLA TV
 http://51.210.1.13:18000/cherifla/hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png",TM1
-https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33ebwKS_W0FOIkW0wRHZcL5BNw2W-Ozbn5dpkd2LmUYoWYL09LLrj3hpYBX8rkDW2dJA
+https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33eZ3QVpNaGy4jl7Dc1izW9a3D8i8q4cQCYOKsIXNUhfo0pTpgKO1m64QHzWOLuqZXLA
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/mm/m7-tv-ml.png",MALI: M7 Mali
 http://51.210.1.13:18000/m7/hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEA EQUATORIAL" logo="https://www.lyngsat-stream.com/logo/tv/tt/tvge_gq_internacional.png", TVGE
@@ -33,8 +33,7 @@ https://video1.getstreamhosting.com:1936/8210/8210/playlist.m3u8
 https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CÔTE D'IVOIRE" logo="https://www.lyngsat.com/logo/tv/nn/notre-tv.png", NTV Afrique
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv720p/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.lyngsa
-t-logo.com/logo/tv/rr/rtg-gn.png", RTG GUINEE
+#EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.lyngsat.com/logo/tv/rr/rtg-gn.png",RTG
 http://51.210.1.13:18000/rtg/hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.guineetv1.com/images/logos/guineetv1-logo.png" , GUINEE tv1
 https://playtv4kpro.com:5443/LiveApp/streams/664825404798849938149128.m3u8
@@ -990,3 +989,4 @@ https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+https://www.lyngsat.com/logo/tv/rr/rtg-gn.png
