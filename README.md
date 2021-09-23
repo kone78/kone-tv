@@ -163,7 +163,7 @@ https://siloh.pluto.tv:443/lilo/production/bein/master_1.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ee/espn_us.png",ESPN
 https://google-br.cdn.booyah.live/hls/1000019/84348185.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ee/espn_2.png",ESPN2
-https://google-br.cdn.booyah.live/hls/1000039/81258086.m3u8
+https://google-br.cdn.booyah.live/hls/1000042/84348185.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-us.png",TNT Sports
 https://akamai2-br.cdn.booyah.live/hls/1000057/88439637.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-premium-us-ar.png",Fox sports premium
