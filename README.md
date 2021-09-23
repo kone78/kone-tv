@@ -154,6 +154,8 @@ https://player-api.new.livestream.com/accounts/30360708/events/9496693/broadcast
 https://player-api.new.livestream.com/accounts/29819666/events/9254936/broadcasts/225474306.secure.m3u8?dw=80&hdnea=st=1630322130~exp=1630323930~acl=/i/29819666_9254936_lsibs29g980cv0ko7au_1@447472/*~hmac=6a493cc9d16114646e2f0f5339fd2dfae9df5ca83ed4b6a90aeb3548bbda5db7&token=612cbefe_f2623bb3c9742877d54e81c4adaf790fe97bd6b6
 #EXTINF:0 type="stream" channelId="-1" group="PORTUGAL"logo="https://www.lyngsat.com/logo/tv/pp/porto_canal.png", Porto Canal
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Mozambique"logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/TVM2016.png/revision/latest?cb=20170405170608",TVM1
+http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png", BEIN SPORTS XTRA Ñ
 https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:0 type="stream" channelId="-1" group"Argentina" logo="https://www.lyngsat.com/logo/tv/dd/directv-sports-us.png",Direct tv Sport
@@ -1008,3 +1010,4 @@ http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://www.lyngsat.com/logo/tv/rr/rtg-gn.png
+https://static.wikia.nocookie.net/logopedia/images/e/eb/TVM2016.png/revision/latest/scale-to-width-down/220?cb=20170405170608
