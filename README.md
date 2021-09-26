@@ -187,7 +187,7 @@ http://stream.tvtap.live:8081/live/es-movistar-deportes.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png", BEIN LA LIGA
 https://akamai2-br.cdn.booyah.live/hls/1000040/81258086.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png", LA LIGA TV
-http://stream.tvtap.live:8081/live/laligatvbar.stream/playlist.m3u8
+https://akamai2-br.cdn.booyah.live/hls/1000040/81258086.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png", BEIN SPORTS 1 HD
 https://stream.mmsiptv.com/droid/bein1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png", BEIN SPORTS 2 HD
