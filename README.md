@@ -12,7 +12,7 @@ https://stream.mmsiptv.com/droid/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/cc/cheriflatv-ml.png", CHERIFLA TV
 http://51.210.1.13:18000/cherifla/hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png",TM1
-https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33eaCorNybttmpOHcrGREF2kc1UnE-cR0cLJwtd6gqUJEd4mMpUOoIdGAcZS3zo0GMsQ
+https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33eVY7zv9v9S9sVQjS6ubxpdw2gFp8iEC9uoMyVSq8PkvldGYMQ3Cg8J71XNH3vRz3TA
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/mm/m7-tv-ml.png",MALI: M7 Mali
 http://51.210.1.13:18000/m7/hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEA EQUATORIAL" logo="https://www.lyngsat-stream.com/logo/tv/tt/tvge_gq_internacional.png", TVGE
@@ -165,7 +165,7 @@ https://siloh.pluto.tv:443/lilo/production/bein/master_1.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ee/espn_us.png",ESPN
 https://google-br.cdn.booyah.live/hls/1000019/84348185.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ee/espn_2.png",ESPN2
-https://google-br.cdn.booyah.live/hls/1000042/84348185.m3u8
+https://google-br.cdn.booyah.live/hls/1000014/79691263.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ee/espn-3-america-latina-us.png",ESPN3
 https://centurylink.br.cdn.booyah.live/hls/1000003/88438379.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-us.png",TNT Sports
