@@ -134,6 +134,8 @@ https://list.iptvcat.com/my_list/s/9f225b30256ed4f9ea43f305aab090be.m3u8
 https://stream.mmsiptv.com/droid/voxafrica/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Nigeria" logo="https://www.lyngsat.com/logo/tv/ll/lagos_television_ng.png",Lagos tv
 https://5c0740dba62b3.streamlock.net/ltv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rasd_tv.png",RASD TV Sáhara
+https://cloud.streamingconnect.tv:455/rasdtv/rasdtv.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_a_plus.png" group-title="FRANCE",A+
 https://stream.mmsiptv.com/droid/aplus/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="https://www.lyngsat.com/logo/tv/aa/afriwood-series-za.png", Africawood séries
