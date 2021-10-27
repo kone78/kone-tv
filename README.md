@@ -175,9 +175,9 @@ https://google-br.cdn.booyah.live/hls/1500038/94250171.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png", BEIN SPORTS XTRA
 https://siloh.pluto.tv:443/lilo/production/bein/master_1.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ee/espn_us.png",ESPN
-https://centurylink.br.cdn.booyah.live/hls/1500023/93314861.m3u8
+https://google-br.cdn.booyah.live/hls/1000000/94250957.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ee/espn_2.png",ESPN2
-https://centurylink.br.cdn.booyah.live/hls/1000045/79691263.m3u8
+https://google-br.cdn.booyah.live/hls/1000006/94366616.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ee/espn-3-america-latina-us.png",ESPN3
 https://akamai2-br.cdn.booyah.live/hls/1500011/84348185.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-us.png",TNT Sports
