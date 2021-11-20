@@ -171,7 +171,7 @@ http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/124?checkedby:iptvcat.com
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png", BEIN SPORTS XTRA Ñ
 https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:0 type="stream" channelId="-1" group"Argentina" logo="https://www.lyngsat.com/logo/tv/dd/directv-sports-us.png",Direct tv Sport
-https://google-br.cdn.booyah.live/hls/1500038/94250171.m3u8
+https://akamai2-br.cdn.booyah.live/hls/1000001/97993408.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png", BEIN SPORTS XTRA
 https://siloh.pluto.tv:443/lilo/production/bein/master_1.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ee/espn_us.png",ESPN
