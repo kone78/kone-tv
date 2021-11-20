@@ -20,7 +20,7 @@ https://rsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEA EQUATORIAL" logo="https://www.lyngsat-stream.com/logo/tv/tt/tvge_gq_internacional.png", TVGE
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CÔTE D'IVOIRE" logo="https://www.lyngsat-logo.com/logo/tv/rr/rti_tv1_ci.png",RTI1
-http://51.210.1.13:18000/rti1/hls/playlist.m3u8
+https://stream.mmsiptv.com/droid/rti1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CÔTE D'IVOIRE" logo="https://www.lyngsat-logo.com/logo/tv/rr/rti_tv2_ci.png",RTI2
 https://stream.mmsiptv.com/droid/rti2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CÔTE D'IVOIRE" logo="https://www.lyngsat-stream.com/logo/tv/rr/rti-la-3-ci.png",RTI3
