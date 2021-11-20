@@ -215,7 +215,7 @@ https://stream.mmsiptv.com/droid/cplus/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="USA" logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png",WWE
 https://h2.ustvgo.la/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDIxIDg6MDc6MDggUE0maGFzaF92YWx1ZT1Mc3FwZnhmbGYzbk1oMnJ2MXpQK1pRPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:0 type="stream" channelId="3388" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-1-fr.png", RMC SPORT 1
-https://stream.mmsiptv.com/droid/rmc1/playlist.m3u8
+http://mantech-tv.xyz:8888/mantechnology20/0775092766/43
 #EXTINF:0 type="stream" channelId="3387" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-2-fr.png", RMC  SPORT 2
 https://stream.mmsiptv.com/droid/rmc2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3390" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-3-fr.png", RMC SPORT 3
