@@ -201,11 +201,11 @@ http://85.203.33.91:2083/live/307241126416/307241126416/181720.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png", LA LIGA TV
 http://85.203.33.91:2083/live/307241126416/307241126416/181717.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png", BEIN SPORTS 1 HD
-https://stream.mmsiptv.com/droid/bein1/playlist.m3u8
+http://mantech-tv.xyz:8888/mantechnology20/0775092766/45
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png", BEIN SPORTS 2 HD
-https://stream.mmsiptv.com/droid/bein2/playlist.m3u8
+http://mantech-tv.xyz:8888/mantechnology20/0775092766/46
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png", BEIN SPORTS 3 HD
-https://stream.mmsiptv.com/droid/bein3/playlist.m3u8
+http://mantech-tv.xyz:8888/mantechnology20/0775092766/47
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png", BEIN connect
 https://playback2.akamaized.net/streams/28255175_8584065_lsivp6dd73z326qimhl_1/master.m3u8?dw=80&hdnts=exp=1632068086~acl=/streams/28255175_8584065_lsivp6dd73z326qimhl_1/master.m3u8*~hmac=04909f6e604fe12c872aad608a546ed92f6c7e02a6d38c755310432a404fa5ec
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport.png", CANAL+SPORT
