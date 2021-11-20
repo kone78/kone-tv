@@ -185,7 +185,7 @@ https://akamai2-br.cdn.booyah.live/hls/1000057/88439637.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-premium-us-ar.png",Fox sports premium
 https://google-br.cdn.booyah.live/hls/1000047/88439188.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/gg/gol-tv-us.png",GOLTV
-https://google-br.cdn.booyah.live/hls/1000048/78159540.m3u8
+https://google-br.cdn.booyah.live/hls/1000002/98094920.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="USA" logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png",Edge Sport
 https://edgesports-stirr.amagi.tv:443/playlist1080p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ITALY" logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-24-it.png",Sky Sport24
