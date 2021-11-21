@@ -179,7 +179,7 @@ https://google-br.cdn.booyah.live/hls/1000007/97001328.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ee/espn_2.png",ESPN2
 https://google-br.cdn.booyah.live/hls/1000006/94366616.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ee/espn-3-america-latina-us.png",ESPN3
-https://centurylink.br.cdn.booyah.live/hls/1000002/97625801.m3u8
+https://google-br.cdn.booyah.live/hls/1000007/97001328.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-us.png",TNT Sports
 https://akamai2-br.cdn.booyah.live/hls/1000057/88439637.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-premium-us-ar.png",Fox sports premium
