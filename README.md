@@ -12,7 +12,7 @@ https://stream.mmsiptv.com/droid/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/cc/cheriflatv-ml.png", CHERIFLA TV
 http://51.210.1.13:18000/cherifla/hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png",TM1 TV
-https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33eWPfYA8b4yl-h2yztyn9RVymTIU5NfS7YrYNjnj3OmX_GAsfbdZeoqHGJZUCXCVI_Q&dmTs=124134&dmV1st=C96D9AAC6F3F114831A9CADCABDEC3A1
+https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33eW9cdooZ5LtAdtlKJaJAdPSY5WxxB7IoPipICpOQp36R6cO-IqnHHvirG5RkRNjYbQ&dmTs=124134&dmV1st=C96D9AAC6F3F114831A9CADCABDEC3A1
 #ETINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/mm/m7-tv-ml.png",MALI: M7 Mali
 http://51.210.1.13:18000/m7/hls/playlist.m3u8#EXTINF:0 type="stream" channelId="-1" group="GUINEA EQUATORIAL" logo="https://www.lyngsat-stream.com/logo/tv/tt/tvge_gq_internacional.png", TVGE
 https://rsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
@@ -168,9 +168,9 @@ http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/123?checkedby:iptvcat.com
 #EXTINF:0 type="stream" channelId="-1" group="serbia" logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png",Arena sport 5
 http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/124?checkedby:iptvcat.com
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png", BEIN SPORTS XTRA Ñ
-https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
+https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group"Argentina" logo="https://www.lyngsat.com/logo/tv/dd/directv-sports-us.png",Direct tv Sport
-https://akamai2-br.cdn.booyah.live/hls/1000001/97993408.m3u8
+https://directvsports-live.akamaized.net/hls/live/2026717/DTVSAR/master.m3u8?hdnts=exp=1639929042~acl=*~hmac=179c86a15a6851340b260cd16dd7773bb6ed5c32c24979ae232597f3c8c5011a
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png", BEIN SPORTS XTRA
 https://siloh.pluto.tv:443/lilo/production/bein/master_1.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ee/espn_us.png",ESPN
