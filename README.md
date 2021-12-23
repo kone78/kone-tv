@@ -1020,5 +1020,3 @@ https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-https://www.lyngsat.com/logo/tv/rr/rtg-gn.png
-https://static.wikia.nocookie.net/logopedia/images/e/eb/TVM2016.png/revision/latest/scale-to-width-down/220?cb=20170405170608
