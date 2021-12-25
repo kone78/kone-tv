@@ -1018,5 +1018,3 @@ https://lnc-kmsp-fox-aws.tubi.video/index.m3u8
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",FOX News (美国) (720p)
 http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",FOX News Now (720p)
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
