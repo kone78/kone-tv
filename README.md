@@ -140,7 +140,7 @@ https://stream.mmsiptv.com/droid/aplus/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="https://www.lyngsat.com/logo/tv/aa/afriwood-series-za.png", Africawood séries
 https://stream.mmsiptv.com/droid/africawood/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/nn/novelas-tv-fr.png",Novelas tv 
-https://stream.mmsiptv.com/droid/novelas/playlist.m3u8
+https://stream.mmsiptv.com/droid/novelas/Hiplaylist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/nn/nollywood_tv_fr.png", NOLLYWOOD
 https://stream.mmsiptv.com/droid/nollywoodfr/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GHANA" logo=https://www.lyngsat.com/logo/tv/hh/hsm-tv-gh.png", HSM tv
