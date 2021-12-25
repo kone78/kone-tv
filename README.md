@@ -532,8 +532,6 @@ http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",CCTV中国中央电视台-5 体育
 http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",CCTV中国中央电视台-5+ 体育赛事
-http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
 #EXTINF:0 tvg-id="DDSports.in" group-title="Sports",DD Sports (576p)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Dubai Racing 3 (1080p)
