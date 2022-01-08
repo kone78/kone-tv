@@ -12,7 +12,7 @@ https://stream.mmsiptv.com/droid/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/cc/cheriflatv-ml.png", CHERIFLA TV
 http://51.210.1.13:18000/cherifla/hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png",TM1 TV
-https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33eQ7VVplhgO79uBSvITwytmksqvk1AFe6oJxVZ5WeNwehaSng3se2DGpPOH4sX46-2A&dmTs=124134&dmV1st=C96D9AAC6F3F114831A9CADCABDEC3A1
+https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=yhLcHJn44t86qxTRbtihu4WVkXzONoVQaAwSB_XkeOvyi1CDxC5urYEWCAJAeDns&dmTs=979469&dmV1st=C75D8691195C6CD8AC502A4ED08A5C83
 #ETINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/mm/m7-tv-ml.png",MALI: M7 Mali
 http://51.210.1.13:18000/m7/hls/playlist.m3u8#EXTINF:0 type="stream" channelId="-1" group="GUINEA EQUATORIAL" logo="https://www.lyngsat-stream.com/logo/tv/tt/tvge_gq_internacional.png", TVGE
 https://rsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
