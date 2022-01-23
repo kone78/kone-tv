@@ -170,7 +170,7 @@ http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/124?checkedby:iptvcat.com
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png", BEIN SPORTS XTRA Ñ
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group"Argentina" logo="https://www.lyngsat.com/logo/tv/dd/directv-sports-us.png",Direct tv Sport
-https://directvsports-live.akamaized.net/hls/live/2026717/DTVSAR/master.m3u8?hdnts=exp=1639929865~acl=*~hmac=f90be0f2a055d7dd5ce19ae02e099b981750db1a4a70d102228b2558f4582c41
+https://mn-nl-glb.mncdn.com/dlive/transcode-93-29/ne9nwekwf/1642947668/src/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png", BEIN SPORTS XTRA
 https://siloh.pluto.tv:443/lilo/production/bein/master_1.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ee/espn_us.png",ESPN
