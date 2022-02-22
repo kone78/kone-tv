@@ -180,7 +180,7 @@ https://akamai-br-reg.cdn.booyah.live/hls/1500097/58867760.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ee/espn-3-america-latina-us.png",ESPN3
 https://google-br.cdn.booyah.live/hls/1000007/97001328.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-us.png",TNT Sports
-https://akamai2-br.cdn.booyah.live/hls/1000057/88439637.m3u8
+https://mn-nl-glb.mncdn.com/dlive/transcode-72-37/kfoowdcs/1645558332/src/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-premium-us-ar.png",Fox sports premium
 https://5g9s179kfgx9wn8tqwj9-cul47i-stp.p5cdn.com/dlive/transcode-81-37/rgwergw/1645413300/src/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://www.lyngsat.com/logo/tv/gg/gol-tv-us.png",GOLTV
