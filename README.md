@@ -12,7 +12,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tele_sahel/hls_video/hdn
 #EXTINF:0,#EXTM3U
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="GUINEA ECUATORIAL",TVGE
 #EXTINF:0,http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
-#EXTM3U
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/qq/qtv_gm.png" group-title="GAMBIA",QTV
 https://player.qtv.gm/hls/live.stream.m3u8
 #EXTINF:0,#EXTM3U
