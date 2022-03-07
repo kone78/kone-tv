@@ -14,7 +14,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tele_sahel/hls_video/hdn
 #EXTINF:0,http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/qq/qtv_gm.png" group-title="GAMBIA",QTV
 https://player.qtv.gm/hls/live.stream.m3u8
-#EXTINF:0,#EXTM3U
 #EXTINF:-1 tvg-logo="https://fasotv.net/wp-content/plugins/sp-header-image-slider/images/controls.png" group-title="BURKINA FASO",FASO TV
 #EXTINF:0,https://playtv4kpro.com:5443/LiveApp/streams/163893638025530331068059.m3u8
 #EXTINF:0 type="stream" channelId="3444" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/tt/trace_fr_africa.png", TRACE AFRICA
