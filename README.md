@@ -158,7 +158,7 @@ https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Mozambique"logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/TVM2016.png/revision/latest?cb=20170405170608",TVM1
 http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="serbia" logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png",Arena sport 1
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/125?checkedby:iptvcat.com
+https://photocall.tv/b6rk/l1?ch=match_tv
 #EXTINF:0 type="stream" channelId="-1" group="serbia" logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png",Arena sport 2
 http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/127?checkedby:iptvcat.com
 #EXTINF:0 type="stream" channelId="-1" group="serbia" logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png",Arena sport 3
