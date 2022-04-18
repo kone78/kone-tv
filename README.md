@@ -1012,5 +1012,3 @@ https://lnc-waga-fox-aws.tubi.video/index.m3u8
 https://lnc-ktbc-fox-aws.tubi.video/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",FOX 9 ST Paul Minneapolis MN (KMSP) (720p)
 https://lnc-kmsp-fox-aws.tubi.video/index.m3u8
-#EXTINF:0 tvg-id="FoxNews.it" group-title="News",FOX News (720p)
-https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
