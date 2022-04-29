@@ -684,7 +684,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",New Japan Pro Wrestling World (540p)
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",NewTV未来电视 精品体育
+#EXTINF:0 tvg-id="ext" group-title="Sports",NewTV未来电
 http://121.31.30.90:8085/ysten-business/live/jtiyu/1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Nitro Circus (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?deviceid=&is_lat=&p=redbox&subp=RedboxdesktopWebWindows
