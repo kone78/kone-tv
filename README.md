@@ -90,7 +90,7 @@ https://stream.mmsiptv.com/droid/voxafrica/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Nigeria" logo="https://www.lyngsat.com/logo/tv/ll/lagos_television_ng.png", Lagos tv
 https://5c0740dba62b3.streamlock.net/ltv/myStream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png",AFRIQUE MEDIA
-https://stream-08.ix7.dailymotion.com/sec(dgo7N3WuCXm9a9JmNQTDDDaRv5yYaSNrpLHUrCxuhyE)/dm/3/x5dk3kj/d/live-0.m3u8#cell=lcore
+https://www.dailymotion.com/cdn/live/video/x5dk3kj.m3u8?sec=DJuqYGqoLtTFtcBnOImnB1DnSzeHhyQc6wjUyURhqSt1kU59GGYkIdBuA5S02Yv6jm0ldw86ZLPrEgQyfDvAkQ&dmTs=277741&dmV1st=5AD2D3853D8768496838D998C0E43829
 #EXTINF:0 tvg-id="ext" group-title="Maroc" logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Medi_1_TV_logo.png/600px-Medi_1_TV_logo.png",Medi 1 TV Afrique 
 https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Africa" logo=https://afroculturetv.com/wp-content/uploads/2020/01/g.png", Afro culture tv
