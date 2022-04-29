@@ -370,8 +370,6 @@ https://lnc-ktbc-fox-aws.tubi.video/index.m3u8
 https://lnc-kmsp-fox-aws.tubi.video/index.m3u8
 #EXTINF:0 tvg-id="FoxNews.it" group-title="News",FOX News (720p)
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",FOX News (美国) (720p)
-http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png", DAZN1
 https://list.iptvcat.com/my_list/s/630ceb356e35988b6e04eeb5f6fa18c3.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png", DAZN2
