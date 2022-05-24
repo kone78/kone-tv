@@ -270,7 +270,7 @@ https://live.easybroadcast.fr/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-5-monde-afrique-fr.png" group-title="france",TV5 AFRIQUE
 #EXTINF:0,https://stream.mmsiptv.com/droid/tv5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/africa-24-fr.png" group-title="FRANCE",AFRICA 24
-https://stream.mmsiptv.com/droid/africa24/playlist.m3u8
+https://edge15.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8?spark=0787f2c4-4b0b-4865-9754-cb323fd4a277&token=
 #EXTINF:0 type="stream" channelId="3444" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/tt/trace_fr_africa.png", TRACE AFRICA
 https://stream.mmsiptv.com/droid/trace/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHMTQnU5MHc2Rbf_TZQBkVxTqpbdZKE4FJvQ&usqp=CAU",Francophonie tv
@@ -305,7 +305,7 @@ https://stream.mmsiptv.com/droid/franceo/playlist.m3u.com/logo/tv/nn/nat_geo_us_
 http://stream.tvtap.live:8081/droid/fr-natgeo.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png", NATIONAL GEO WILD HD
 http://stream.tvtap.live:8081/live/es-national-geographic.stream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="FRANCE 24" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24,France 24
+#EXTINF:0 type="stream" channelId="1" group="FRANCE" logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",France 24,France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE",France 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
