@@ -92,7 +92,7 @@ https://5c0740dba62b3.streamlock.net/ltv/myStream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png",AFRIQUE MEDIA
 https://www.dailymotion.com/cdn/live/video/x5dk3kj.m3u8?sec=DJuqYGqoLtTFtcBnOImnB1DnSzeHhyQc6wjUyURhqSt1kU59GGYkIdBuA5S02Yv6jm0ldw86ZLPrEgQyfDvAkQ&dmTs=277741&dmV1st=5AD2D3853D8768496838D998C0E43829
 #EXTINF:0 tvg-id="ext" group-title="Maroc" logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Medi_1_TV_logo.png/600px-Medi_1_TV_logo.png",Medi 1 TV Afrique 
-https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8
+http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Africa" logo=https://afroculturetv.com/wp-content/uploads/2020/01/g.png", Afro culture tv
 https://stream-10.dc3.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZVP1hUJXfrgyD7XL3SvJLas)/dm/3/x7t09ft/s/live-0.m3u8#cell=lcore
 #EXTINF:0 type="stream" channelId="-1" group="NIGERIA" logo="https://www.lyngsat.com/logo/tv/tt/tvc-ng.png",TVC
@@ -112,7 +112,7 @@ https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RD CONGO" logo="https://www.lyngsat.com/logo/tv/rr/rtnc-cd.png",RTNC
 https://stream.mmsiptv.com/droid/rtnc/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RD CONGO" logo="https://www.congoplanet.com/congo_planet.jpg", Congo planet
-https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist_1080.m3u8
+https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RD CONGO" logo="https://www.lyngsat.com/logo/tv/ee/emci-tv-fr.png",emci tv
 https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png",AFRIQUE MEDIA
