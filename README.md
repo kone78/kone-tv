@@ -118,7 +118,7 @@ https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RD CONGO" logo="https://www.lyngsat.com/logo/tv/ee/emci-tv-fr.png",emci tv
 https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png",AFRIQUE MEDIA
-https://stream.mmsiptv.com/droid/playlist.m3u8
+https://streaming.mmsiptv.com/live/afmedia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIzIDk6NTk6NDYgUE0maGFzaF92YWx1ZT1NUzlROXJ2KzVqdDRwd1pzaEJMVVZnPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/79411757/131652247-40cdf140-dd93-4e0d-be39-4daa8b14e5d8.png",MyTV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/vision-4-rca-cm.png",VISION 4
