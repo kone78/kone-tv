@@ -59,7 +59,7 @@ https://streaming.mmsiptv.com/live/walftv/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rp
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ww/wal_fadjri_tv_sn.png", WALF TV
 https://stream-08.ix7.dailymotion.com/sec(p8YnJV3FLjCMnNAdm2Yx4d64pxC_FBZBnCbiTlEbxC8)/dm/3/x5s5vw3/s/live-0.m3u8#cell=lcore
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/tt/tfm_sn.png",TFM
-67http://51.210.1.13:18000/tfm/hls/playlist.m3u8
+67https://streaming.mmsiptv.com/live/tfm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIzIDk6MTY6MTUgUE0maGFzaF92YWx1ZT1ZY3FIRFJyRFBwZFYwYmg3eDBPenhBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/num/2s_tv.png",2stv
 http://51.210.1.13:18000/tfm/hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ss/sen-tv-sn.png",Sen TV
