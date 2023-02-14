@@ -88,7 +88,7 @@ https://streaming.mmsiptv.com/live/crtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 https://stream.mmsiptv.com/droid/crtv/playlist.m3u8
 https://stream-07.dc3.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql5658zHakLvOcMf9fVNbs6frv8)/dm/3/x7o9p4a/s/live-0.m3u8#cell=lcore
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/vv/voxafrica_afrique.png",VOX AFRICA
-https://stream.mmsiptv.com/droid/voxafrica/playlist.m3u8
+https://streaming.mmsiptv.com/live/voxafrica/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIzIDEwOjAyOjQxIFBNJmhhc2hfdmFsdWU9NllEa3hjRFBEcnB4WXg1aUJ1MWNMdz09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:0 type="stream" channelId="-1" group="Nigeria" logo="https://www.lyngsat.com/logo/tv/ll/lagos_television_ng.png", Lagos tv
 https://5c0740dba62b3.streamlock.net/ltv/myStream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/aa/afrique_media_cm.png",AFRIQUE MEDIA
@@ -184,7 +184,6 @@ https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
 https://v2.siar.us/aditv/livestream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",Adom TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x7w71b8Antioquia
-
 #EXTINF:0 tvg-id="ext" group-title="Undefined",Adult Swim Rick and Morty (1080p) [Geo-blocked]
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",Adult Swim Rick and Morty (1080p) [Geo-blocked]
