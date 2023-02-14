@@ -59,7 +59,7 @@ https://streaming.mmsiptv.com/live/walftv/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rp
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ww/wal_fadjri_tv_sn.png", WALF TV
 https://stream-08.ix7.dailymotion.com/sec(p8YnJV3FLjCMnNAdm2Yx4d64pxC_FBZBnCbiTlEbxC8)/dm/3/x5s5vw3/s/live-0.m3u8#cell=lcore
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/tt/tfm_sn.png",TFM
-67https://streaming.mmsiptv.com/live/tfm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIzIDk6MTY6MTUgUE0maGFzaF92YWx1ZT1ZY3FIRFJyRFBwZFYwYmg3eDBPenhBPT0mdmFsaWRtaW51dGVzPTE4MA==
+https://streaming.mmsiptv.com/live/tfm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIzIDk6MTY6MTUgUE0maGFzaF92YWx1ZT1ZY3FIRFJyRFBwZFYwYmg3eDBPenhBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/num/2s_tv.png",2stv
 https://streaming.mmsiptv.com/live/2stv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIzIDk6MjI6NTEgUE0maGFzaF92YWx1ZT1mclVKbDlIQ3RJRjl2YmdndC9BWVFRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ss/sen-tv-sn.png",Sen TV
@@ -83,7 +83,7 @@ https://iptv--iptv.repl.co/French/tele_sahel/?
 #EXTINF:0 tvg-id="ext" group-title="Undefined",Gabon Premiére TV
 https://vps73918.serveur-vps.net/hls/ggtv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/cc/crtv_cameroon.png", CRTV
-https://stream.mmsiptv.com/droid/crtv/playlist.m3u8
+https://streaming.mmsiptv.com/live/crtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIzIDk6NTA6MzAgUE0maGFzaF92YWx1ZT1tSlhYWXVVd3N1VEM0LzJhc0xEUEZnPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/cc/crtv_cameroon.png", CRTV
 https://stream.mmsiptv.com/droid/crtv/playlist.m3u8
 https://stream-07.dc3.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql5658zHakLvOcMf9fVNbs6frv8)/dm/3/x7o9p4a/s/live-0.m3u8#cell=lcore
