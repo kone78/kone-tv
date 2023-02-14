@@ -80,7 +80,7 @@ https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 https://player.qtv.gm:443/hls/live.stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_sahel.png",TELESAHEL
 https://iptv--iptv.repl.co/French/tele_sahel/?
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Gabon Premiére TV
+#EXTINF:0 tvg-id="ext" group-title="Gabon",Gabon Premiére TV
 https://vps73918.serveur-vps.net/hls/ggtv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/cc/crtv_cameroon.png", CRTV
 https://streaming.mmsiptv.com/live/crtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIzIDk6NTA6MzAgUE0maGFzaF92YWx1ZT1tSlhYWXVVd3N1VEM0LzJhc0xEUEZnPT0mdmFsaWRtaW51dGVzPTE4MA==
@@ -164,7 +164,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 #EXTINF:0 tvg-id="ext" group-title="Undefined",+tdp [Geo-blocked]
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",+tdp [Geo-blocked]
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125698/master.m3u8#EXTINF:0 tvg-id="ext" group-title="Undefined",+tdp [Geo-blocked]
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125698/master.m3u8#EXTINF:0 tvg-id="ext" group-title="Spain",+tdp [Geo-blocked]
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125699/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",+tdp [Geo-blocked]
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125702/master.m3u8
@@ -228,7 +228,7 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",AXN Latinoamérica (576p)
 http://209.91.213.10:8088/play/a011
-#EXTINF:0 tvg-id="ext" group-title="Undefined",AYV (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Sierra-Leone",AYV (720p) [Not 24/7]
 https://1219373429.rsc.cdn77.org/live/stream-1/chunklist.m3u8
 #EXTINF:0 tvg-id="BBCAlba.uk" group-title="Undefined",BBC Alba (540p) [Geo-blocked]
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_alba/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
