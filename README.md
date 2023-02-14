@@ -61,7 +61,7 @@ https://stream-08.ix7.dailymotion.com/sec(p8YnJV3FLjCMnNAdm2Yx4d64pxC_FBZBnCbiTl
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/tt/tfm_sn.png",TFM
 67https://streaming.mmsiptv.com/live/tfm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIzIDk6MTY6MTUgUE0maGFzaF92YWx1ZT1ZY3FIRFJyRFBwZFYwYmg3eDBPenhBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/num/2s_tv.png",2stv
-http://51.210.1.13:18000/tfm/hls/playlist.m3u8
+https://streaming.mmsiptv.com/live/2stv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIzIDk6MjI6NTEgUE0maGFzaF92YWx1ZT1mclVKbDlIQ3RJRjl2YmdndC9BWVFRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ss/sen-tv-sn.png",Sen TV
 https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/aa/a2i_tv_it.png",A2i tv 
