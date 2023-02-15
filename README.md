@@ -53,7 +53,7 @@ https://edge8.vedge.infomaniak.com/livecast/ik:impacttv_1/manifest.m3u8?spark=06
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/rr/rts_sn_tv_1.png", RTS1
 https://streaming.mmsiptv.com/live/rts1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIzIDk6MDM6MzAgUE0maGFzaF92YWx1ZT00MnpIZ0QwZ2NmYXhDam5nZ1JuUzJBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat-logo.com/logo/tv/rr/rts-2-sn.png", RTS2
-https://stream.mmsiptv.com/droid/2stv/playlist.m3u8
+https://streaming.mmsiptv.com/live/rts2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIzIDk6MTg6NTAgUE0maGFzaF92YWx1ZT02V0NEVVQzU1VBT3crYTJ5QXpFTmdRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ww/wal_fadjri_tv_sn.png", WALF TV
 https://streaming.mmsiptv.com/live/walftv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIzIDk6MTA6MzUgUE0maGFzaF92YWx1ZT1YV1RGcE1ES0RZTDlJYVFxVFpXSytnPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:0 type="stream" channelId="-1" group="SENEGAL" logo="https://www.lyngsat.com/logo/tv/ww/wal_fadjri_tv_sn.png", WALF TV
