@@ -35,7 +35,7 @@ https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.lyngsat.com/logo/tv/rr/rtg-gn.png",RTG
 http://51.210.1.13:18000/rtg/hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.guineetv1.com/images/logos/guineetv1-logo.png" , GUINEE tv1
-https://playtv4kpro.com:5443/LiveApp/streams/664825404798849938149128.m3u8
+https://streaming.mmsiptv.com/live/rtg/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIzIDk6MjI6MzkgUE0maGFzaF92YWx1ZT1VcVFIekIwWEJ0NWdqUmN3UURHQnZRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.lyngsat.com/logo/tv/ee/espace_tv_gn.png", ESPACE TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/espace_tv/hls_video/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="GUINEE" logo="https://www.lyngsat.com/logo/tv/kk/kalac-tv-gn.png", KALAC TV
