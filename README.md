@@ -138,7 +138,7 @@ https://5c0740dba62b3.streamlock.net/ltv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rasd_tv.png",RASD TV Sáhara
 https://cloud.streamingconnect.tv:455/rasdtv/rasdtv.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_a_plus.png" group-title="FRANCE",A+
-https://stream.mmsiptv.com/droid/aplus/playlist.m3u8
+https://streaming.mmsiptv.com/live/aplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIzIDc6MTU6MTUgUE0maGFzaF92YWx1ZT1SY3RYRGlnYnljUUs4YVAxbkZRRVV3PT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:0 type="stream" channelId="-1" group="Cameroun" logo="https://www.lyngsat.com/logo/tv/aa/afriwood-series-za.png", Africawood séries
 https://stream.mmsiptv.com/droid/africawood/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://www.lyngsat-logo.com/logo/tv/nn/novelas-tv-fr.png",Novelas tv 
