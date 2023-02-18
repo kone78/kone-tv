@@ -106,7 +106,7 @@ https://streaming.mmsiptv.com/live/rtb/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 #EXTINF:0 type="stream" channelId="-1" group="TOGO" logo="https://www.lyngsat.com/logo/tv/tt/tvt_tg.png",TVT
 https://stream.mmsiptv.com/droid/tvt/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CONGO" logo="https://www.lyngsat.com/logo/tv/tt/tele_congo_cg.png",Télé Congo
-https://streaming.mmsiptv.com/live/telecongo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIzIDk6Mjc6MzUgUE0maGFzaF92YWx1ZT1OYncyY0dUNFR3cFp0VVNPaHpQaFJRPT0mdmFsaWRtaW51dGVzPTE4MA==
+https://streaming.mmsiptv.com/live/telecongo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIzIDM6MTI6NDIgUE0maGFzaF92YWx1ZT0vT3hjRXZIdk9ObC90QThCc1gvYkFnPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:0 type="stream" channelId="-1" group="CONGO" logo="https://www.lyngsat.com/logo/tv/aa/africa_news_cg.png",africanews FR
 https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Congo" log="https://www.lyngsat.com/logo/tv/aa/africa_news_cg.png",africanews ENG
