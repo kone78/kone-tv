@@ -156,7 +156,7 @@ https://5c46fa289c89f.streamlock.net/kc2/kc2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ANGOLA" logo="https://www.lyngsat.com/logo/tv/tt/tpa1_ao.png",TPA1
 https://player-api.new.livestream.com/accounts/30360708/events/9496693/broadcasts/225474302.secure.m3u8?dw=80&hdnea=st=1630323096~exp=1630324896~acl=/i/30360708_9496693_lsi9931jrm2w96ozmet_1@407873/*~hmac=d4aec3d920816675a97c97dbd9012d1df1c858375cb62cb88dd6150d26d17d52&token=612cc2c4_b63cbd7295b71c079726cd936fc93de46d1b76bf
 #EXTINF:0 type="stream" channelId="-1" group="ANGOLA" logo="https://www.lyngsat.com/logo/tv/tt/tv-zimbo-ao.png",Zimbo tv
-https://player-api.new.livestream.com/accounts/29819666/events/9254936/broadcasts/225474306.secure.m3u8?dw=80&hdnea=st=1630322130~exp=1630323930~acl=/i/29819666_9254936_lsibs29g980cv0ko7au_1@447472/*~hmac=6a493cc9d16114646e2f0f5339fd2dfae9df5ca83ed4b6a90aeb3548bbda5db7&token=612cbefe_f2623bb3c9742877d54e81c4adaf790fe97bd6b6
+https://live-ak.vimeocdn.com/exp=1677174585~acl=%2Fb0cefd4e-c929-4529-aa1a-52169b9cb17a%2F%2A~hmac=a35895d5c5109893d33ae2528ae479dc2e0491a7d3b1e1248faafe2ce0cdde13/b0cefd4e-c929-4529-aa1a-52169b9cb17a/hls.m3u8?min_seconds=30
 #EXTINF:0 type="stream" channelId="-1" group="PORTUGAL"logo="https://www.lyngsat.com/logo/tv/pp/porto_canal.png", Porto Canal
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:0 tvg-id="2MMaroc.ma" group-title="Undefined",2M Monde (360p)
