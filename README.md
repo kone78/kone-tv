@@ -80,7 +80,7 @@ https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 https://player.qtv.gm:443/hls/live.stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_sahel.png",TELESAHEL
 https://iptv--iptv.repl.co/French/tele_sahel/?
-#EXTINF:0 tvg-id="ext" group-title="Gabon",Gabon Premiére TV
+#EXTINF:0 type="stream" channelId="-1" group="Gabon" logo="https://www.lyngsat.com/logo/tv/gg/gabon-1ere-ga.png",Gabon Premiére TV
 https://vps73918.serveur-vps.net/hls/ggtv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Gabon" logo="https://www.lyngsat-stream.com/logo/tv/ll/label-tv-ga.png", Label TV 
 https://live1.acangroup.org:1929/publiclive/labeltv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIzIDQ6MzE6MDggUE0maGFzaF92YWx1ZT1nQlhEdmJFdW1sQWdrYlZwcGtHY3pnPT0mdmFsaWRtaW51dGVzPTU=
