@@ -82,7 +82,7 @@ https://player.qtv.gm:443/hls/live.stream.m3u8
 https://iptv--iptv.repl.co/French/tele_sahel/?
 #EXTINF:0 tvg-id="ext" group-title="Gabon",Gabon Premiére TV
 https://vps73918.serveur-vps.net/hls/ggtv.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Gabon" logo="
+#EXTINF:0 type="stream" channelId="-1" group="Gabon" logo=https://www.lyngsat-stream.com/logo/tv/ll/label-tv-ga.png", Label TV 
 https://live1.acangroup.org:1929/publiclive/labeltv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIzIDQ6MzE6MDggUE0maGFzaF92YWx1ZT1nQlhEdmJFdW1sQWdrYlZwcGtHY3pnPT0mdmFsaWRtaW51dGVzPTU=
 #EXTINF:0 type="stream" channelId="-1" group="CAMEROUN" logo="https://www.lyngsat.com/logo/tv/cc/crtv_cameroon.png", CRTV
 https://streaming.mmsiptv.com/live/crtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIzIDk6NTA6MzAgUE0maGFzaF92YWx1ZT1tSlhYWXVVd3N1VEM0LzJhc0xEUEZnPT0mdmFsaWRtaW51dGVzPTE4MA==
