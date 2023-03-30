@@ -110,7 +110,7 @@ https://stream.mmsiptv.com/droid/tvt/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CONGO" logo="https://www.lyngsat.com/logo/tv/tt/tele_congo_cg.png",Télé Congo
 https://streaming.mmsiptv.com/live/telecongo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIzIDM6MTI6NDIgUE0maGFzaF92YWx1ZT0vT3hjRXZIdk9ObC90QThCc1gvYkFnPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:0 type="stream" channelId="-1" group="CONGO" logo="https://www.lyngsat.com/logo/tv/aa/africa_news_cg.png",africanews FR
-https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
+https://streaming.mmsiptv.com/live/africanews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIzIDEyOjE1OjA0IFBNJmhhc2hfdmFsdWU9MnozWE1XcXBDMVp0WUt4UjkzSTB1Zz09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:0 type="stream" channelId="-1" group="Congo" log="https://www.lyngsat.com/logo/tv/aa/africa_news_cg.png",africanews ENG
 https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RD CONGO" logo="https://www.lyngsat.com/logo/tv/rr/rtnc-cd.png",RTNC
