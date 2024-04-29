@@ -13,7 +13,7 @@ http://69.64.57.208/africable/playlist.m3u8
 http://69.64.57.208/cherifla/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png",TM1 TV
 http://69.64.57.208/tm1/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https//:i.imgur.com/uFEIBtB.png" ,D3TV
+#EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://i.imgur.com/uFEIBtB.png" ,D3TV
 https://cageu.bozztv.com/ssh101/ssh101/d3tv1/playlist.m3u8
 #ETINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/mm/m7-tv-ml.png",MALI: M7 Mali
 http://51.210.1.13:18000/m7/hls/playlist.m3u8#EXTINF:0 type="stream" channelId="-1" group="GUINEA EQUATORIAL" logo="https://www.lyngsat-stream.com/logo/tv/tt/tvge_gq_internacional.png", TVGE
