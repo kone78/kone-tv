@@ -12,7 +12,7 @@ http://69.64.57.208/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/cc/cheriflatv-ml.png", CHERIFLA TV
 http://69.64.57.208/cherifla/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png",TM1 TV
-https://www.dailymotion.com/cdn/live/video/x7v072x.m3u8?sec=n47vkjyqR1F9AED3TS33eVKY9dnzrIPa-rwWRy_M41ylL-EhlXo5ZtdDLlhNp0_fJK4kXY6MwFv8mkT9qsBZ1A&dmTs=550288&dmV1st=73B53524B09F29539F8DDDEFA768A4EC
+http://69.64.57.208/tm1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https:i.imgur.com/uFEIBtB.png" D3TV
 https://cageu.bozztv.com/ssh101/ssh101/d3tv1/playlist.m3u8
 #ETINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/mm/m7-tv-ml.png",MALI: M7 Mali
