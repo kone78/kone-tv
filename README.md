@@ -6,9 +6,9 @@ https://streaming.mmsiptv.com/live/ortm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/oo/ortm-2-ml.png",ORTM2
 http://51.210.1.13:18000/ortm2/hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/aa/africable_tv.png", AFRICABLE
-https://streaming.mmsiptv.com/live/africable/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIzIDc6MDY6MTcgUE0maGFzaF92YWx1ZT1kY0NvZDllUExsakNEYWdkSDlNVHBnPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://69.64.57.208/africable/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/aa/africable_tv.png", AFRICABLE
-https://stream.mmsiptv.com/droid/africable/playlist.m3u8
+[https://stream.mmsiptv.com/droid/africable/playlist.m3u8](http://69.64.57.208/africable/playlist.m3u8)
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/cc/cheriflatv-ml.png", CHERIFLA TV
 http://51.210.1.13:18000/cherifla/hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png",TM1 TV
