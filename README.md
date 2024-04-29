@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/oo/ortm-1-ml.png", ORTM 1
-https://streaming.mmsiptv.com/live/ortm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIzIDM6Mzk6NTggUE0maGFzaF92YWx1ZT1sb1Fscm1OK05EZ3F3UWNJekJJKzhBPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://69.64.57.208/ortm/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/oo/ortm-1-ml.png", ORTM 1
-https://streaming.mmsiptv.com/live/ortm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIzIDM6Mzk6NTggUE0maGFzaF92YWx1ZT1sb1Fscm1OK05EZ3F3UWNJekJJKzhBPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://69.64.57.208/ortm/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/oo/ortm-2-ml.png",ORTM2
 http://51.210.1.13:18000/ortm2/hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MALI" logo="https://www.lyngsat.com/logo/tv/aa/africable_tv.png", AFRICABLE
